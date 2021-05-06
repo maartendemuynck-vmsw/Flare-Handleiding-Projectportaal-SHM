@@ -6,10 +6,18 @@
   Destinations=""
   GlossaryTermConversion="marked"
   MasterPage="/Content/D-Reference/Resources/MasterPages/Other-Topics.flmsp"
-  ShowMadCapBacklink="true">
+  ShowMadCapBacklink="true"
+  OutputFile="index.htm"
+  OutputFolder="C:\Users\md1526\Documents\My Projects\Draaiboek Woonmaatschappijen\docs">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
     GenerateIndexProxy="true"
     GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/GitHub.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
 </CatapultTarget>

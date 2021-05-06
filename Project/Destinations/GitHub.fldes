@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="ftp.myftpserver.com"
+  User="MyAccountId"
+  Password=""
+  Directory="C:\Users\md1526\Documents\My Projects\Draaiboek Woonmaatschappijen\docs"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="scm"
+  ProviderType="Git"
+  Database="file:///C:/Users/md1526/Documents/My Projects/Draaiboek Woonmaatschappijen/.git"
+  DatabaseRoot="file:///C:/Users/md1526/Documents/My Projects/Draaiboek Woonmaatschappijen/docs"
+  PushToRemote="true"
+  RemoteRepository="origin"></CatapultDestination>
