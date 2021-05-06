@@ -2,77 +2,60 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="Huidige Situatie"
-    Link="/Content/Huidige Situatie/Huidige Situatie.htm">
+    Title="Huidige situatie"
+    Link="/Content/Huidige situatie/Huidige situatie.htm">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Huidige Situatie/SHM's.htm" />
+      Title="SHM's"
+      Link="/Content/Huidige situatie/SHM/SHM's.htm">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Huidige situatie/SHM/Rechtsvormen.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Huidige situatie/SHM/Werking.htm" />
+    </TocEntry>
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Huidige Situatie/Rechtsvormen.htm" />
+      Title="SVK's"
+      Link="/Content/Huidige situatie/SVK/SVK's.htm">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Huidige situatie/SVK/Rechtsvormen.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Huidige situatie/SVK/Werking.htm" />
+    </TocEntry>
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Huidige Situatie/Werking.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Huidige Situatie/SVK's.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Huidige Situatie/Werking SVK.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Huidige Situatie/Rechtsvormen SVK.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Huidige Situatie/Anderen.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Huidige Situatie/Lokale besturen.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Huidige Situatie/VMSW.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Huidige Situatie/VWF.htm" />
+      Title="Anderen"
+      Link="/Content/Huidige situatie/Anderen/Anderen.htm">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Huidige situatie/Anderen/VWF.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Huidige situatie/Anderen/VMSW.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Huidige situatie/Anderen/Lokale besturen.htm" />
+    </TocEntry>
   </TocEntry>
   <TocEntry
     Title="Woonmaatschappijen"
     Link="/Content/Woonmaatschappijen/Woonmaatschappijen.htm">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Doel.htm" />
+      Title="Doel"
+      Link="/Content/Woonmaatschappijen/Doel/Doel.htm">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Doel/Uitgangspunt.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Doel/Andere actoren.htm" />
+    </TocEntry>
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Uitgangspunt.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Andere actoren.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Regelgeving.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/KT decreet en VCW.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Uitvoeringsbesluiten.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Opdrachten.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Werkingsgebieden.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Rechtsvorm.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Fiscale gunsttarieven.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Nieuw opgerichte woonmaatschappij.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Omgevormde SHM's.htm" />
+      Title="Regelgeving"
+      Link="/Content/Woonmaatschappijen/Regelgeving/Regelgeving.htm">
+      <TocEntry
+        Title="New Entry" />
+    </TocEntry>
   </TocEntry>
 </CatapultToc>
