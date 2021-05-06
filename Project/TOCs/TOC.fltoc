@@ -2,6 +2,15 @@
 <CatapultToc
   Version="1">
   <TocEntry
+    Title="Huidige situatie2">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/SHM.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/SVK.htm" />
+  </TocEntry>
+  <TocEntry
     Title="[%=System.LinkedTitle%] "
     Link="/Content/Huidige situatie/Getting-Started.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <TocEntry
@@ -10,6 +19,9 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Huidige situatie/More-Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+    <TocEntry
+      Title="test2"
+      Link="/Content/Test.htm" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
