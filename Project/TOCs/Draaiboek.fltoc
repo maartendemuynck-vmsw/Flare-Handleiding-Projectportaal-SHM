@@ -59,10 +59,160 @@
         Link="/Content/Woonmaatschappijen/Regelgeving/Uitvoeringsbesluiten.htm" />
     </TocEntry>
     <TocEntry
-      Title="Opdrachten">
+      Title="Opdrachten"
+      Link="/Content/Woonmaatschappijen/Opdrachten/Opdrachten.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Woonmaatschappijen/Opdrachten/Participatiemogelijkheden.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Werkingsgebieden">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Werkingsgebieden/Referentieregio's.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Werkingsgebieden/Afbakeningsvoorstellen.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Werkingsgebieden/Statutaire en werkelijke zetel.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Werkingsgebieden/Beperkingen sociale woonbeleidscovenanten.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Rechtsvorm"
+      Link="/Content/Woonmaatschappijen/Rechtsvormen/Rechtsvorm.htm">
+      <TocEntry
+        Title="New Entry" />
+    </TocEntry>
+    <TocEntry
+      Title="Fiscale gunsttarieven"
+      Link="/Content/Woonmaatschappijen/Fiscale tarieven/Fiscale gunsttarieven.htm">
+      <TocEntry
+        Title="New Entry" />
+    </TocEntry>
+    <TocEntry
+      Title="Nieuw opgerichte woonmaatschappij">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Erkenning.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Schaalgrootte.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Werkingsgebiedoverschrijdende activiteiten.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Financiering.htm" />
+      <TocEntry
+        Title="Patrimonium">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Overdrachten.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Beperkingen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Lopende Financiering.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Financiering overdrachten.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Herinvesteringsverplichting.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Organisatie">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Aandelen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Aandeelhouders.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Stemrechtverdeling.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Modelstatuten.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Algemene vergadering.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Bestuursorgaan.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Dagelijks bestuur.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Adviserende comités.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Uitkeringsbeperking.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Omgevormde SHM's">
+      <TocEntry
+        Title="Erkenning">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/SHM's.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/SVK's.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Omgevormde SHM/Schaalgrootte.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Omgevormde SHM/Werkingsgebiedoverschrijdende activiteiten.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Omgevormde SHM/Financiering.htm" />
+      <TocEntry
+        Title="Patrimonium ">
+        <TocEntry
+          Title="New Entry" />
+      </TocEntry>
+      <TocEntry
+        Title="Organisatie">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Aandelen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Aandeelhouders.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Stemrechtverdeling.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Modelstatuten.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Algemene vergadering.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Bestuursorgaan.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Dagelijks bestuur.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Adviserende comités.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Uitkeringsbeperking.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Toepasselijkheid van het WVV"
+        Link="/Content/Woonmaatschappijen/Omgevormde SHM/Toepasselijkheid WVV.htm" />
     </TocEntry>
   </TocEntry>
 </CatapultToc>
