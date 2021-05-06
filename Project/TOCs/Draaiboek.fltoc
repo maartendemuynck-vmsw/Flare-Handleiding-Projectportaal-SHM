@@ -82,16 +82,10 @@
     </TocEntry>
     <TocEntry
       Title="Rechtsvorm"
-      Link="/Content/Woonmaatschappijen/Rechtsvormen/Rechtsvorm.htm">
-      <TocEntry
-        Title="New Entry" />
-    </TocEntry>
+      Link="/Content/Woonmaatschappijen/Rechtsvormen/Rechtsvorm.htm"></TocEntry>
     <TocEntry
       Title="Fiscale gunsttarieven"
-      Link="/Content/Woonmaatschappijen/Fiscale tarieven/Fiscale gunsttarieven.htm">
-      <TocEntry
-        Title="New Entry" />
-    </TocEntry>
+      Link="/Content/Woonmaatschappijen/Fiscale tarieven/Fiscale gunsttarieven.htm"></TocEntry>
     <TocEntry
       Title="Nieuw opgerichte woonmaatschappij">
       <TocEntry
