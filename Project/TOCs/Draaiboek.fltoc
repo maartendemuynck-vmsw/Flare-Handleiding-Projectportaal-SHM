@@ -2,8 +2,7 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="Huidige situatie"
-    Link="/Content/Huidige situatie/Huidige situatie.htm">
+    Title="Huidige situatie">
     <TocEntry
       Title="SHM's"
       Link="/Content/Huidige situatie/SHM/SHM's.htm">
@@ -39,11 +38,9 @@
     </TocEntry>
   </TocEntry>
   <TocEntry
-    Title="Woonmaatschappijen"
-    Link="/Content/Woonmaatschappijen/Woonmaatschappijen.htm">
+    Title="Woonmaatschappijen">
     <TocEntry
-      Title="Doel"
-      Link="/Content/Woonmaatschappijen/Doel/Doel.htm">
+      Title="Doel">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Woonmaatschappijen/Doel/Uitgangspunt.htm" />
@@ -53,7 +50,7 @@
     </TocEntry>
     <TocEntry
       Title="Regelgeving"
-      Link="/Content/Woonmaatschappijen/Regelgeving/Regelgeving.htm">
+      StartSection="false">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Woonmaatschappijen/Regelgeving/KT decreet.htm" />
