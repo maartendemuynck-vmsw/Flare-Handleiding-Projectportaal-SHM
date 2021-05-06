@@ -55,7 +55,17 @@
       Title="Regelgeving"
       Link="/Content/Woonmaatschappijen/Regelgeving/Regelgeving.htm">
       <TocEntry
-        Title="New Entry" />
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Regelgeving/KT decreet.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Regelgeving/Uitvoeringsbesluiten.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Opdrachten">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Opdrachten/Participatiemogelijkheden.htm" />
     </TocEntry>
   </TocEntry>
 </CatapultToc>
