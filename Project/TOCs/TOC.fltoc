@@ -2,26 +2,23 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="Huidige situatie2">
+    Title="Huidige situatie2"
+    ComputeToc="true">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/SHM.htm" />
+      Title="[%=System.LinkedTitle%]" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/SVK.htm" />
+      Title="[%=System.LinkedTitle%]" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" />
   </TocEntry>
   <TocEntry
-    Title="[%=System.LinkedTitle%] "
-    Link="/Content/Huidige situatie/Getting-Started.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    Title="[%=System.LinkedTitle%] " xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Huidige situatie/Whats-New.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Huidige situatie/More-Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+      Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
     <TocEntry
-      Title="test2"
-      Link="/Content/Test.htm" />
+      Title="test2" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
