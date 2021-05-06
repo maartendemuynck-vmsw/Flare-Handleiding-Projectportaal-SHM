@@ -222,4 +222,9 @@
         Link="/Content/Woonmaatschappijen/Omgevormde SHM/Toepasselijkheid WVV.htm" />
     </TocEntry>
   </TocEntry>
+  <TocEntry
+    Title="Voorbereidende handelingen">
+    <TocEntry
+      Title="New Entry" />
+  </TocEntry>
 </CatapultToc>
