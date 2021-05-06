@@ -8,7 +8,8 @@
   MasterPage="/Content/D-Reference/Resources/MasterPages/Other-Topics.flmsp"
   ShowMadCapBacklink="true"
   OutputFile="index.htm"
-  OutputFolder="C:\Users\md1526\Documents\My Projects\Draaiboek Woonmaatschappijen\docs">
+  OutputFolder="C:\Users\md1526\Documents\My Projects\Draaiboek Woonmaatschappijen\docs"
+  MasterToc="/Project/TOCs/Draaiboek.fltoc">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
