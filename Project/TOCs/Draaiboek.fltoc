@@ -226,5 +226,8 @@
     Title="Voorbereidende handelingen">
     <TocEntry
       Title="New Entry" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Voorbereidende handelingen/test.htm" />
   </TocEntry>
 </CatapultToc>
