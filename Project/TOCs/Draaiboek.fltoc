@@ -172,7 +172,20 @@
       <TocEntry
         Title="Patrimonium ">
         <TocEntry
-          Title="New Entry" />
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Overdrachten.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Beperkingen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Lopende financiering.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Financiering overdrachten.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Herinvesteringsverplichting.htm" />
       </TocEntry>
       <TocEntry
         Title="Organisatie">
