@@ -9,7 +9,9 @@
   ShowMadCapBacklink="true"
   OutputFile="index.htm"
   OutputFolder="C:\Flare-Handleiding-Draaiboek-Woonmaatschappijen\docs"
-  MasterToc="/Project/TOCs/Draaiboek.fltoc">
+  MasterToc="/Project/TOCs/Draaiboek.fltoc"
+  Skin="/Project/Skins/HTML5 - Side Navigation.flskn"
+  MasterStylesheet="/Content/Resources/Stylesheets/vmsw.webuniversum.css">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
