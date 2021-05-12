@@ -15,7 +15,7 @@
 	{
 		height: 100%;
 		overflow-x: hidden;
-		background-color: #303335;
+		background-color: #333333;
 	}
 
 	.off-canvas-content
@@ -58,7 +58,7 @@
 		background-repeat: no-repeat;
 		padding-top: 15px;
 		padding-bottom: 15px;
-		background-color: #076685;
+		background-color: #15465b;
 	}
 
 	/* Topbar Menu Styles */
@@ -156,8 +156,8 @@
 	ul.off-canvas-list li a
 	{
 		font-size: 1em;
+		border-bottom: solid 1px #262626;
 		line-height: inherit;
-		border-bottom: solid 1px #303335;
 		color: #ffffff;
 	}
 
@@ -328,7 +328,7 @@
 
 	.off-canvas ul ul
 	{
-		background-color: #303335;
+		background-color: #333333;
 	}
 
 	ul.off-canvas-list ul > li > a
@@ -358,43 +358,37 @@
 
 	ul.off-canvas-list li.is-accordion-submenu-parent > a span.submenu-toggle
 	{
-		border-top-color: #b9bec1;
+		border-top-color: #a1a8ac;
 	}
 
 	ul.off-canvas-list li a:hover
 	{
-		color: #b9bec1;
-		background-color: #303335;
+		background-color: #242424;
 	}
 
 	ul.off-canvas-list ul > li > a:hover
 	{
-		background-color: #303335;
+		background-color: #242424;
 	}
 
 	ul.off-canvas-list ul ul > li > a:hover
 	{
-		background-color: #303335;
+		background-color: #242424;
 	}
 
 	ul.off-canvas-list ul ul ul > li > a:hover
 	{
-		background-color: #303335;
+		background-color: #242424;
 	}
 
 	ul.off-canvas-list ul ul ul ul > li > a:hover
 	{
-		background-color: #303335;
+		background-color: #242424;
 	}
 
 	ul.off-canvas-list li.js-drilldown-back > a:hover
 	{
-		background-color: #303335;
-	}
-
-	ul.off-canvas-list li.is-accordion-submenu-parent > a span.submenu-toggle:hover
-	{
-		
+		background-color: #242424;
 	}
 
 	ul.off-canvas-list li a.selected
@@ -454,17 +448,17 @@
 
 	.search-auto-complete li.auto-result-item.auto-result-selected
 	{
-		background-color: #d0d3d5;
+		background-color: #ececec;
 	}
 
 	.search-auto-complete li.auto-result-content.auto-result-selected
 	{
-		background-color: #d0d3d5;
+		background-color: #ececec;
 	}
 
 	.search-auto-complete li.auto-result-history.auto-result-selected
 	{
-		background-color: #d0d3d5;
+		background-color: #ececec;
 	}
 
 	.search-auto-complete li.auto-result-item .auto-result-description

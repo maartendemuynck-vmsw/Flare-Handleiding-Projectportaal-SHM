@@ -389,8 +389,7 @@
 
 .micro-response div.MCBreadcrumbsBox_0
 {
-	border-bottom-width: 0;
-	color: #45494c;
+	border-bottom-width: 1px;
 	border-bottom-style: solid;
 	border-bottom-color: black;
 	padding-bottom: 10px;

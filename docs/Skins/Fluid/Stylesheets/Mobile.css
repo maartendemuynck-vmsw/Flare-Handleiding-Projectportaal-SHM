@@ -6,7 +6,7 @@
 	{
 		background-position: center top;
 		background-repeat: no-repeat;
-		background-color: #076685;
+		background-color: #15465b;
 	}
 
 	.title-bar-layout a.logo
@@ -106,32 +106,32 @@
 
 	ul.off-canvas-list li a:hover
 	{
-		background-color: #303335;
+		background-color: #242424;
 	}
 
 	ul.off-canvas-list ul > li > a:hover
 	{
-		background-color: #303335;
+		background-color: #242424;
 	}
 
 	ul.off-canvas-list ul ul > li > a:hover
 	{
-		background-color: #303335;
+		background-color: #242424;
 	}
 
 	ul.off-canvas-list ul ul ul > li > a:hover
 	{
-		background-color: #303335;
+		background-color: #242424;
 	}
 
 	ul.off-canvas-list ul ul ul ul > li > a:hover
 	{
-		background-color: #303335;
+		background-color: #242424;
 	}
 
 	ul.off-canvas-list li.js-drilldown-back > a:hover
 	{
-		background-color: #303335;
+		background-color: #242424;
 	}
 
 	.central-separator
@@ -171,12 +171,12 @@
 
 	.off-canvas
 	{
-		background-color: #303335;
+		background-color: #333333;
 	}
 
 	.off-canvas ul ul
 	{
-		background-color: #303335;
+		background-color: #333333;
 	}
 
 	ul.off-canvas-list li a
@@ -278,17 +278,17 @@
 
 	.search-auto-complete li.auto-result-item.auto-result-selected
 	{
-		background-color: #d0d3d5;
+		background-color: #ececec;
 	}
 
 	.search-auto-complete li.auto-result-content.auto-result-selected
 	{
-		background-color: #d0d3d5;
+		background-color: #ececec;
 	}
 
 	.search-auto-complete li.auto-result-history.auto-result-selected
 	{
-		background-color: #d0d3d5;
+		background-color: #ececec;
 	}
 
 	.search-auto-complete li.auto-result-item .auto-result-description
