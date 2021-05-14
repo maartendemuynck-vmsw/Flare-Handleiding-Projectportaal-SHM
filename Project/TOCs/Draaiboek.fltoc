@@ -494,6 +494,124 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Gevolgen lopende overeenkomsten.htm" />
       </TocEntry>
+      <TocEntry
+        Title="Partiële splitsing"
+        Link="/Content/Traject SHM/Partiële/Partiële splitsing.htm">
+        <TocEntry
+          Title="Toepassingsgebied"
+          Link="/Content/Traject SHM/Partiële/Toepassingsgebied.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Partiële/Maatschappijen met verschillende rechtsvormen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Partiële/Splitsingsformule.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Fiscale aspecten">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Partiële/Inkomstenbelasting.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Partiële/Registratierechten.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Partiële/Btw.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Waardering van aandelen">
+          <TocEntry
+            Title="New Entry" />
+        </TocEntry>
+        <TocEntry
+          Title="Voorbereiding raad van bestuur"
+          Link="/Content/Traject SHM/Partiële/Voorbereiding raad van bestuur.htm">
+          <TocEntry
+            Title="Tussentijdse financiële cijfers"
+            Link="/Content/Traject SHM/Partiële/tussentijdse financiële cijfers.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Partiële/Splitsingsvoorstel.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Partiële/Bijzonder schriftelijk verslag.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Partiële/Controleverslag bedrijfsrevisor.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Partiële/Bijzonder verslag wijzigingen rechten verbonden aan soorten aandelen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Partiële/Uitnodiging raden van bestuur.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Bijeenkomsten raden van bestuur.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Neerlegging en bekendmaking splitsingsvoorstel.htm" />
+        <TocEntry
+          Title="Personeelszaken"
+          Link="/Content/Traject SHM/Partiële/Personeelszaken.htm">
+          <TocEntry
+            Title="New Entry" />
+        </TocEntry>
+        <TocEntry
+          Title="Buitengewone vergadering voorbereiden"
+          Link="/Content/Traject SHM/Partiële/Informeren aandeelhouders en aandeelhoudersregister.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Partiële/Wijziging statuten.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Partiële/Nieuwe RvB en AV.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Partiële/Recente jaarrekening en controleverslag.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Partiële/Uitnodiging en agenda.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Buitengewone algemene vergadering.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Bekendmaking.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Datum van inwerkingtreding.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Tegenwerpbaarheid.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Rechtsgevolgen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Praktische opvolging.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Gevolgen lopende overeenkomsten.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Overdracht van bedrijfstak"
+        Link="/Content/Traject SHM/Bedrijfstak/Overdracht van bedrijfstak.htm">
+        <TocEntry
+          Title="Toepassingsgebied"
+          Link="/Content/Traject SHM/Bedrijfstak/Toepassingsgebied.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bedrijfstak/Maatschappijen met verschillende rechtsvormen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bedrijfstak/Formule.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="New Entry" />
+      </TocEntry>
     </TocEntry>
   </TocEntry>
 </CatapultToc>
