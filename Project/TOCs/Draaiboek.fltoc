@@ -739,7 +739,138 @@
       <TocEntry
         Title="Individuele overdrachten">
         <TocEntry
-          Title="New Entry" />
+          Title="Individuele overeenkomsten"
+          Link="/Content/Traject SHM/Individuele overeenkomsten/Individuele overeenkomsten.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Individuele overeenkomsten/Sociale huurovereenkomsten.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Individuele overeenkomsten/Overeenkomsten met andere derden.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Individuele overeenkomsten/Arbeidsovereenkomsten.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Patrimonium overdracht"
+          Link="/Content/Traject SHM/Patrimonium overdracht.htm">
+          <TocEntry
+            Title="Verkoop"
+            Link="/Content/Traject SHM/Verkoop/Verkoop.htm">
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Verkoop/Kenmerken.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Verkoop/Prijs.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Verkoop/Kosten.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Verkoop/Financiering.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Verkoop/Programmatieprocedure.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Verkoop/Kennisgeving.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Verkoop/Voor- en nadelen.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Verkoop/Stappenplan.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="Ruil"
+            Link="/Content/Traject SHM/Ruil/Ruil.htm">
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Ruil/Voor- en nadelen.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Ruil/Stappenplan.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="Schenking"
+            Link="/Content/Traject SHM/Schenking/Schenking.htm">
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Schenking/Voor- en nadelen.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Schenking/Stappenplan.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="Overdracht bestaande erfpacht- of opstalrechten"
+            Link="/Content/Traject SHM/Bestaande erfpacht/Overdracht bestaande.htm">
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Bestaande erfpacht/Kenmerken.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Bestaande erfpacht/Prijs.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Bestaande erfpacht/Kosten.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Bestaande erfpacht/Financiering.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Bestaande erfpacht/Programmatieprocedure.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Bestaande erfpacht/Kennisgeving.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Bestaande erfpacht/Voor- en nadelen.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Bestaande erfpacht/Stappenplan.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="Patrimonium koopsector"
+            Link="/Content/Traject SHM/Koopsector/Patrimonium koopsector.htm">
+            <TocEntry
+              Title="New Entry" />
+          </TocEntry>
+        </TocEntry>
+        <TocEntry
+          Title="Patrimonium vestiging tot 2028"
+          Link="/Content/Traject SHM/Individuele overeenkomsten/Patrimonium vestiging 2028.htm">
+          <TocEntry
+            Title="Huur"
+            Link="/Content/Traject SHM/Huur/Huur.htm">
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Huur/Voor- en nadelen.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Huur/Stappenplan.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="Inbeheergave"
+            Link="/Content/Traject SHM/Inbeheergave/Inbeheergave.htm">
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Inbeheergave/Voor- en nadelen.htm" />
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Inbeheergave/Stappenplan.htm" />
+          </TocEntry>
+        </TocEntry>
+        <TocEntry
+          Title="Gevolgen van individuele overdrachten"
+          Link="/Content/Traject SHM/Gevolgen/Gevolgen individuele overdracht.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Gevolgen/Reststuctuur.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Gevolgen/Te ondernemen stappen.htm" />
+        </TocEntry>
       </TocEntry>
     </TocEntry>
   </TocEntry>
