@@ -362,6 +362,27 @@
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Fusie/Uitnodiging en agenda.htm" />
         </TocEntry>
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Buitengewone algemene vergadering.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Bekendmaking.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Datum van inwerkingtreding.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Tegenwerpbaarheid.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Rechtsgevolgen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Praktische opvolging.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Gevolgen lopende overeenkomsten.htm" />
       </TocEntry>
     </TocEntry>
   </TocEntry>
