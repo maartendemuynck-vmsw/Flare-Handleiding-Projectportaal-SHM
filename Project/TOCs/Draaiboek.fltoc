@@ -1152,6 +1152,39 @@
       </TocEntry>
     </TocEntry>
     <TocEntry
-      Title="New Entry" />
+      Title="Individuele overdrachten"
+      Link="/Content/Traject SVK vzw/Individuele contacten/Individuele overdrachten.htm">
+      <TocEntry
+        Title="Individuele contracten"
+        Link="/Content/Traject SVK vzw/Individuele contacten/Individuele contracten.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/Individuele contacten/Huurcontracten.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/Individuele contacten/Contracten met derden.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/Individuele contacten/Arbeidsovereenkomsten.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Patrimonium"
+        Link="/Content/Traject SVK vzw/patrimonium/Patrimonium.htm">
+        <TocEntry
+          Title="New Entry" />
+      </TocEntry>
+      <TocEntry
+        Title="Gevolgen van individuele overdrachten"
+        Link="/Content/Traject SVK vzw/Individuele contacten/Gevolgen indivduele.htm">
+        <TocEntry
+          Title="New Entry" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/Individuele contacten/Reststructuur.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/Individuele contacten/Te ondernemen stappen.htm" />
+      </TocEntry>
+    </TocEntry>
   </TocEntry>
 </CatapultToc>
