@@ -225,9 +225,144 @@
   <TocEntry
     Title="Voorbereidende handelingen">
     <TocEntry
-      Title="New Entry" />
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Voorbereidende handelingen/Verkenningsfase.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Voorbereidende handelingen/test.htm" />
+      Link="/Content/Voorbereidende handelingen/Principieel akkoord tot samenwerking.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Voorbereidende handelingen/Voorbereiding van het traject.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Voorbereidende handelingen/Projectstructuur.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Voorbereidende handelingen/Plan van aanpak.htm" />
+    <TocEntry
+      Title="Aandachtspunten">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Voorbereidende handelingen/Boekenonderzoek.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Voorbereidende handelingen/Voorbereiding overdracht onroerende goederen.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Voorbereidende handelingen/Intellectuele, industriële eigendomsrechten en vergunningen.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Trajecten voor SHM's">
+    <TocEntry
+      Title="Keuze van procedure"
+      Link="/Content/Traject SHM/Keuze van procedure.htm">
+      <TocEntry
+        Title="Fusie"
+        Link="/Content/Traject SHM/Fusie/Fusie.htm">
+        <TocEntry
+          Title="Toepassingsgebied"
+          Link="/Content/Traject SHM/Fusie/Toepassingsgebied.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Maatschappijen met verschillende rechtsvormen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Fusieformule.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Fiscale aspecten">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Inkomstenbelasting.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Registratierechten.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Btw.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Waardering van de aandelen">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Ruilverhouding.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Beperkingen sociale onderneming.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Nominale vs. economische waarde.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Voorbereiding raad van bestuur"
+          Link="/Content/Traject SHM/Fusie/Voorbereiding raad van bestuur.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Tussentijdse financiële cijfers.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Fusievoorstel.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Bijzonder schriftelijk verslag.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Controleverslag bedrijfsrevisor.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Bijzonder verslag wijziging rechten verbonden aan soorten aandelen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Uitnodiging raden van bestuur.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Bijeenkomsten raden van bestuur.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Neerlegging en bekendmaking fusievoorstel.htm" />
+        <TocEntry
+          Title="Personeelszaken"
+          Link="/Content/Traject SHM/Fusie/Personeelszaken.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Uw personeelsleden.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Sociaal secretariaat.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Verzekeringsmaatschappijen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Externe dienst voor preventie op het werk.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Kinderbijslagfonds.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/RVA.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Voorbereiding statutenwijziging.htm" />
+        <TocEntry
+          Title="Voorbereiding algemene vergadering">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Nieuwe RvB en AV.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Recente jaarrekening en controleverslag.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Informeren aandeelhouders en aandeelhoudersregister.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Uitnodiging en agenda.htm" />
+        </TocEntry>
+      </TocEntry>
+    </TocEntry>
   </TocEntry>
 </CatapultToc>
