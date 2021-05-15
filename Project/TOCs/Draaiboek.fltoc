@@ -1334,4 +1334,59 @@
       </TocEntry>
     </TocEntry>
   </TocEntry>
+  <TocEntry
+    Title="Trajecten voor SVK-OCMW's">
+    <TocEntry
+      Title="New Entry" />
+  </TocEntry>
+  <TocEntry
+    Title="Feitelijk traject">
+    <TocEntry
+      Title="New Entry" />
+  </TocEntry>
+  <TocEntry
+    Title="Trajecten voor anderen">
+    <TocEntry
+      Title="Lokale besturen"
+      Link="/Content/Anderen/Lokale besturen/Lokale besturen.htm">
+      <TocEntry
+        Title="New Entry" />
+    </TocEntry>
+    <TocEntry
+      Title="VWF"
+      Link="/Content/Anderen/VWF/VWF.htm">
+      <TocEntry
+        Title="New Entry" />
+    </TocEntry>
+    <TocEntry
+      Title="VMSW"
+      Link="/Content/Anderen/VMSW/VMSW.htm">
+      <TocEntry
+        Title="New Entry" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Ondersteunende maatregelen"
+    Link="/Content/Ondersteuning/Ondersteuning.htm">
+    <TocEntry
+      Title="Financiële ondersteuning"
+      Link="/Content/Ondersteuning/Financiële ondersteuning.htm">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Ondersteuning/Fusiesteun.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Ondersteuning/Renteloze leningen.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Procesbegeleiding"
+      Link="/Content/Ondersteuning/Ondersteuning VMSW.htm">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Ondersteuning/Externe begeleiding opstartfase.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Ondersteuning/Externe begeleiding organisatieontwikkeling.htm" />
+    </TocEntry>
+  </TocEntry>
 </CatapultToc>
