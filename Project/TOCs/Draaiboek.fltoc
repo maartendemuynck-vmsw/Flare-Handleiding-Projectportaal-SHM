@@ -1342,7 +1342,31 @@
   <TocEntry
     Title="Feitelijk traject">
     <TocEntry
-      Title="New Entry" />
+      Title="Naar één WM met één missie/visie"
+      Link="/Content/Feitelijk traject/Naar één WM.htm">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Feitelijk traject/Erkenning.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Feitelijk traject/Projectstructuur en (retro)planning.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Feitelijk traject/Blauwdruk van de WM.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Feitelijk traject/Betrek het personeel.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Thematische werkgroepen"
+      Link="/Content/Feitelijk traject/Thematische werkgroepen.htm">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Feitelijk traject/Mogelijke aanpak.htm" />
+      <TocEntry
+        Title="Werkgroepen volgens de opdrachten"
+        Link="/Content/Feitelijk traject/Werkgroep volgens de opdrachten.htm" />
+    </TocEntry>
   </TocEntry>
   <TocEntry
     Title="Trajecten voor anderen">
