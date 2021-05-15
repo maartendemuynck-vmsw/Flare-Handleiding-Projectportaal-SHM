@@ -1039,7 +1039,7 @@
       </TocEntry>
     </TocEntry>
     <TocEntry
-      Title="Overdrachten van een SVK naar een SHM of WM">
+      Title="Overdrachten van een SVK aan een SHM of WM">
       <TocEntry
         Title="Overdracht van algemeenheid"
         Link="/Content/Traject SVK vzw/overdracht algemeenheid/Overdracht van algemeenheid.htm">
@@ -1186,5 +1186,73 @@
           Link="/Content/Traject SVK vzw/Individuele contacten/Te ondernemen stappen.htm" />
       </TocEntry>
     </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Trajecten voor SVK-welzijnsverenigingen">
+    <TocEntry
+      Title="Overdrachten van een SVK aan een SHM of WM">
+      <TocEntry
+        Title="Overdracht van algemeenheid"
+        Link="/Content/Welzijnsverenigingen/Overdracht van algemeenheid.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/Fiscale aspecten.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/Toepassingsgebied.htm" />
+        <TocEntry
+          Title="Voorbereiden raad van bestuur"
+          Link="/Content/Welzijnsverenigingen/Voorbereiden raad van bestuur.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/Uitnodiging raden van bestuur.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/Bijzonder schriftelijk verslag.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/Staat van activa en passiva.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/Voorstel van overdracht.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/Bijeenkomsten raden van bestuur.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/Neerlegging en bekendmaking voorstel.htm" />
+        <TocEntry
+          Title="Personeelszaken">
+          <TocEntry
+            Title="New Entry" />
+        </TocEntry>
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/Algemene vergadering voorbereiden.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/Raad van bestuur verkrijger.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/Notariële overdrachtsakte.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/Inwerkingtreding.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/Tegenwerpbaarheid.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/Rechtsgevolgen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/Gevolgen voor lopende overeenkomsten.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="New Entry" />
+    </TocEntry>
+    <TocEntry
+      Title="New Entry" />
   </TocEntry>
 </CatapultToc>
