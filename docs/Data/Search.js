@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0,140,280,410],m:[],u:['../Content/Anderen/Lokale besturen/Lokale besturen.htm'],s:['1','your'],p:[['1',396],['delete',2],['met',141],['ruil',221],['voorbereiding',268]]});
+define({r:0.5,st:'Stem',n:1,t:[0,138,278,408],m:[],u:['../Content/Anderen/Lokale besturen/Lokale besturen.htm'],s:['1','tincidunt'],p:[['1',2],['content',332],['it',221],['raden',273],['this',316],['your',308]]});
