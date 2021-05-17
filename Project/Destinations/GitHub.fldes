@@ -6,7 +6,7 @@
   User="MyAccountId"
   Password=""
   Directory="C:\Flare-Handleiding-Draaiboek-Woonmaatschappijen\docs"
-  Port=""
+  Port="22"
   ViewUrl="http://www.madcapsoftware.com/"
   Type="scm"
   ProviderType="Git"
@@ -16,4 +16,6 @@
   RemoteRepository="origin"
   UploadLogFile="false"
   RemoveStale="false"
-  ChangedOnly="false"></CatapultDestination>
+  ChangedOnly="false"
+  SftpServerValidation="validation-none"
+  SftpAuthentication="authentication-password"></CatapultDestination>
