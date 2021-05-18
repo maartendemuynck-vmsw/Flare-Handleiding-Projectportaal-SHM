@@ -396,6 +396,12 @@ div.MCBreadcrumbsBox_0
 	margin-bottom: 10px;
 }
 
+.xref
+{
+	color: blue;
+	text-decoration: underline;
+}
+
 .dropDownHotspot
 {
 	text-decoration: none;

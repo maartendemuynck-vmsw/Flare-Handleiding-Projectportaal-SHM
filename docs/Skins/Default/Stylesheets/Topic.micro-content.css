@@ -396,6 +396,12 @@
 	margin-bottom: 10px;
 }
 
+.micro-response .xref
+{
+	color: blue;
+	text-decoration: underline;
+}
+
 .micro-response .dropDownHotspot
 {
 	text-decoration: none;
