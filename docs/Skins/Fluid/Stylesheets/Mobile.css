@@ -11,10 +11,9 @@
 
 	.title-bar-layout a.logo
 	{
-		width: 207px;
-		height: 100px;
-		background: transparent url('Images/Tekstlogo_VMSW_wit.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Tekstlogo_VMSW_wit.png') no-repeat center center;
+		background-position: center center;
+		background-repeat: no-repeat;
+		background: transparent url('Images/PlaceholderLogo-white.png') no-repeat center center;
 	}
 
 	.search-bar .search-submit
@@ -147,12 +146,12 @@
 
 	.title-bar-layout .logo-wrapper
 	{
-		min-height: 100px;
+		min-height: 40px;
 	}
 
 	.menu-icon-container
 	{
-		min-height: 100px;
+		min-height: 40px;
 	}
 
 	.off-canvas-wrapper-inner .main-section > .outer-row
