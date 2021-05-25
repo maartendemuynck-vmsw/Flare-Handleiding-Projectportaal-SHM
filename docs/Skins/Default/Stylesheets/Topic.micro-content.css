@@ -402,6 +402,35 @@
 	text-decoration: underline;
 }
 
+.micro-response .popupHead
+{
+	color: blue;
+}
+
+.micro-response .popupHead:link
+{
+	color: blue;
+}
+
+.micro-response .popupBody
+{
+	color: #000000;
+	background-color: #dcdcdc;
+	border: solid 1px #000000;
+	margin: 0px;
+	padding: 5px;
+}
+
+.micro-response .MCTextPopupArrow
+{
+	border-bottom-color: #dcdcdc;
+}
+
+.micro-response .MCTextPopupBodyBottom .MCTextPopupArrow
+{
+	border-top-color: #dcdcdc;
+}
+
 .micro-response .dropDownHotspot
 {
 	text-decoration: none;

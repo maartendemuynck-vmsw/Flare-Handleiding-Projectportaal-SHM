@@ -402,6 +402,35 @@ div.MCBreadcrumbsBox_0
 	text-decoration: underline;
 }
 
+.popupHead
+{
+	color: blue;
+}
+
+.popupHead:link
+{
+	color: blue;
+}
+
+.popupBody
+{
+	color: #000000;
+	background-color: #dcdcdc;
+	border: solid 1px #000000;
+	margin: 0px;
+	padding: 5px;
+}
+
+.MCTextPopupArrow
+{
+	border-bottom-color: #dcdcdc;
+}
+
+.MCTextPopupBodyBottom .MCTextPopupArrow
+{
+	border-top-color: #dcdcdc;
+}
+
 .dropDownHotspot
 {
 	text-decoration: none;
