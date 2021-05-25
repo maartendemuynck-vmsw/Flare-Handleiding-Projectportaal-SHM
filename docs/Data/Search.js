@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0,124,264,397],m:[],u:['../Content/Anderen/Lokale besturen/Lokale besturen.htm'],s:['1','managementteam','with'],p:[['1',2],['bijzondere',399],['eget',396],['it',276],['own',48],['sluit',10],['van',134],['your',38]]});
+define({r:0.5,st:'Stem',n:1,t:[0,124,264,397],m:[],u:['../Content/Anderen/Lokale besturen/Lokale besturen.htm'],s:['1','managementteam','with'],p:[['1',2],['bijzondere',399],['eget',396],['it',276],['own',49],['snel',64],['van',146],['your',41]]});
