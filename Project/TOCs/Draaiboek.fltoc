@@ -3,10 +3,7 @@
   Version="1">
   <TocEntry
     Title="Draaiboek woonmaatschappijen"
-    Link="/Content/Inleiding.htm">
-    <TocEntry
-      Title="New Entry" />
-  </TocEntry>
+    Link="/Content/Inleiding.htm"></TocEntry>
   <TocEntry
     Title="Huidige situatie">
     <TocEntry
@@ -44,7 +41,8 @@
     </TocEntry>
   </TocEntry>
   <TocEntry
-    Title="Woonmaatschappijen">
+    Title="Woonmaatschappijen"
+    Link="/Content/Woonmaatschappijen/Inleiding.htm">
     <TocEntry
       Title="Doel">
       <TocEntry
@@ -256,6 +254,9 @@
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Voorbereidende handelingen/Intellectuele, industriële eigendomsrechten en vergunningen.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Voorbereidende handelingen/ICT.htm" />
     </TocEntry>
   </TocEntry>
   <TocEntry
