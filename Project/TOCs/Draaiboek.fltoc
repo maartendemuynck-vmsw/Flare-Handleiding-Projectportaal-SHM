@@ -44,7 +44,8 @@
     </TocEntry>
   </TocEntry>
   <TocEntry
-    Title="Woonmaatschappijen">
+    Title="Woonmaatschappijen"
+    Link="/Content/Woonmaatschappijen/inleiding.htm">
     <TocEntry
       Title="Doel">
       <TocEntry
