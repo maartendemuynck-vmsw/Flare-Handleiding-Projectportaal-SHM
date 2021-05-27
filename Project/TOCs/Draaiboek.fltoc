@@ -535,8 +535,7 @@
     <TocEntry Title="Trajecten voor SVK-OCMW's">
         <TocEntry Title="New Entry" />
     </TocEntry>
-    <TocEntry Title="Woonmaatschappijen" Link="/Content/Woonmaatschappijen/inleiding.htm">
-    <TocEntry Title="Feitelijk traject">
+        <TocEntry Title="Feitelijk traject">
         <TocEntry Title="Naar één WM met één missie/visie" Link="/Content/Feitelijk traject/Naar één WM.htm">
             <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Feitelijk traject/Erkenning.htm" />
             <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Feitelijk traject/Projectstructuur en (retro)planning.htm" />
