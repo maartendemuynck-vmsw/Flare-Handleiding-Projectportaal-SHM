@@ -1,3 +1,3 @@
 require.config({
-    urlArgs: 't=637576462057025671'
+    urlArgs: 't=637578001723600182'
 });
