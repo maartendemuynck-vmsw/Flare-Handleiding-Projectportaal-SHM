@@ -41,9 +41,11 @@
     </TocEntry>
   </TocEntry>
   <TocEntry
-    Title="Woonmaatschappijen">
+    Title="Woonmaatschappijen"
+    Link="/Content/Woonmaatschappijen/Woonmaatschappijen.htm">
     <TocEntry
-      Title="Doel">
+      Title="Doel"
+      Link="/Content/Woonmaatschappijen/Doel/Doel.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Woonmaatschappijen/Doel/Uitgangspunt.htm" />
