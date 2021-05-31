@@ -396,12 +396,6 @@
 	margin-bottom: 10px;
 }
 
-.micro-response .xref
-{
-	color: blue;
-	text-decoration: underline;
-}
-
 .micro-response .popupHead
 {
 	color: blue;
@@ -429,6 +423,12 @@
 .micro-response .MCTextPopupBodyBottom .MCTextPopupArrow
 {
 	border-top-color: #dcdcdc;
+}
+
+.micro-response .xref
+{
+	color: blue;
+	text-decoration: underline;
 }
 
 .micro-response .dropDownHotspot

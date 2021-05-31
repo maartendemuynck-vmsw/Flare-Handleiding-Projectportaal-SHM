@@ -396,12 +396,6 @@ div.MCBreadcrumbsBox_0
 	margin-bottom: 10px;
 }
 
-.xref
-{
-	color: blue;
-	text-decoration: underline;
-}
-
 .popupHead
 {
 	color: blue;
@@ -429,6 +423,12 @@ div.MCBreadcrumbsBox_0
 .MCTextPopupBodyBottom .MCTextPopupArrow
 {
 	border-top-color: #dcdcdc;
+}
+
+.xref
+{
+	color: blue;
+	text-decoration: underline;
 }
 
 .dropDownHotspot
