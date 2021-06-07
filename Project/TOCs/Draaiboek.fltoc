@@ -262,7 +262,8 @@
     </TocEntry>
   </TocEntry>
   <TocEntry
-    Title="Trajecten voor SHM's">
+    Title="Trajecten voor SHM's"
+    Link="/Content/Trajecten voor SHM's.htm">
     <TocEntry
       Title="Keuze van procedure"
       Link="/Content/Traject SHM/Keuze van procedure.htm">
@@ -352,7 +353,8 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Fusie/Voorbereiding statutenwijziging.htm" />
         <TocEntry
-          Title="Voorbereiding algemene vergadering">
+          Title="Voorbereiding algemene vergadering"
+          Link="/Content/Voorbereiding algemene vergadering.htm">
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Fusie/Nieuwe RvB en AV.htm" />
@@ -362,6 +364,9 @@
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Fusie/Informeren aandeelhouders en aandeelhoudersregister.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Verplichte mogelijkheid tot uittreding uit de vennootschap.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Fusie/Uitnodiging en agenda.htm" />
