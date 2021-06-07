@@ -280,7 +280,8 @@
             Link="/Content/Traject SHM/Fusie/Fusieformule.htm" />
         </TocEntry>
         <TocEntry
-          Title="Fiscale aspecten">
+          Title="Fiscale aspecten"
+          Link="/Content/Fiscale aspecten.htm">
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Fusie/Inkomstenbelasting.htm" />
