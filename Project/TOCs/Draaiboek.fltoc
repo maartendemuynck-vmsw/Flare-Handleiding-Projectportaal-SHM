@@ -339,19 +339,10 @@
             Link="/Content/Traject SHM/Fusie/Uw personeelsleden.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Sociaal secretariaat.htm" />
+            Link="/Content/Traject SHM/Fusie/Gevolgen cao 32bis.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Verzekeringsmaatschappijen.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Externe dienst voor preventie op het werk.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Kinderbijslagfonds.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/RVA.htm" />
+            Link="/Content/Traject SHM/Fusie/Anderen.htm" />
         </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
