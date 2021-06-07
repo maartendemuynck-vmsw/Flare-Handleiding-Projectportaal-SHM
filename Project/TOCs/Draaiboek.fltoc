@@ -332,6 +332,9 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Fusie/Neerlegging en bekendmaking fusievoorstel.htm" />
         <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Toezichthouder informeren.htm" />
+        <TocEntry
           Title="Personeelszaken"
           Link="/Content/Traject SHM/Fusie/Personeelszaken.htm">
           <TocEntry
