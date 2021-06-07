@@ -373,7 +373,14 @@
         </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Fusie/Buitengewone algemene vergadering.htm" />
+          Link="/Content/Traject SHM/Fusie/Buitengewone algemene vergadering.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Aanwezigheid en meerderheid.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Fusie/Notulen bij notariële akte.htm" />
+        </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Fusie/Bekendmaking.htm" />
