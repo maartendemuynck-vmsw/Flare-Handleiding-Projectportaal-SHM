@@ -473,10 +473,14 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Wijziging staturen.htm" />
         <TocEntry
-          Title="Personeelszaken">
+          Title="Personeelszaken"
+          Link="/Content/Traject SHM/Splitsing/Personeelszaken.htm">
           <TocEntry
             Title="Uw personeelsleden"
             Link="/Content/Traject SHM/Splitsing/Uw personeelsleden.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Splitsing/Gevolgen van cao nr.32 bis.htm" />
         </TocEntry>
         <TocEntry
           Title="Buitengewone algemene vergadering voorbereiden"
