@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
-  Version="1">
+  Version="1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
   <TocEntry
     Title="Draaiboek woonmaatschappijen"
-    Link="/Content/Inleiding.htm"></TocEntry>
+    Link="/Content/Inleiding.htm" />
   <TocEntry
     Title="Huidige situatie">
     <TocEntry
@@ -87,10 +87,10 @@
     </TocEntry>
     <TocEntry
       Title="Rechtsvorm"
-      Link="/Content/Woonmaatschappijen/Rechtsvormen/Rechtsvorm.htm"></TocEntry>
+      Link="/Content/Woonmaatschappijen/Rechtsvormen/Rechtsvorm.htm" />
     <TocEntry
       Title="Fiscale gunsttarieven"
-      Link="/Content/Woonmaatschappijen/Fiscale tarieven/Fiscale gunsttarieven.htm"></TocEntry>
+      Link="/Content/Woonmaatschappijen/Fiscale tarieven/Fiscale gunsttarieven.htm" />
     <TocEntry
       Title="Nieuw opgerichte woonmaatschappij">
       <TocEntry
@@ -404,8 +404,7 @@
           Link="/Content/Traject SHM/Fusie/Gevolgen lopende overeenkomsten.htm" />
       </TocEntry>
       <TocEntry
-        Title="Splitsing"
-        Link="/Content/Traject SHM/Fusie/wijziging van de statuten van de verkrijgende maatschappij.htm">
+        Title="Splitsing">
         <TocEntry
           Title="Toepassingsgebied"
           Link="/Content/Traject SHM/Splitsing/Toepassingsgebied.htm">
@@ -441,7 +440,10 @@
           Link="/Content/Traject SHM/Splitsing/Voorbereiding raad van bestuur.htm">
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Tussentijdse financiële cijfers.htm" />
+            Link="/Content/Traject SHM/Splitsing/Tussentijdse financiële cijfers.htm">
+            <TocEntry
+              Title="[%=System.LinkedTitle%]" />
+          </TocEntry>
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Splitsing/Splitsingsvoorstel.htm" />
@@ -465,17 +467,27 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Neerlegging en bekenmaking splitsingsvoorstel.htm" />
         <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Informeer de toezichthouder.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Wijziging staturen.htm" />
+        <TocEntry
           Title="Personeelszaken"
           Link="/Content/Traject SHM/Splitsing/Personeelszaken.htm">
           <TocEntry
-            Title="New Entry" />
+            Title="Uw personeelsleden"
+            Link="/Content/Traject SHM/Splitsing/Uw personeelsleden.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Splitsing/Gevolgen van cao nr.32 bis.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Splitsing/Uw sociaal secretariaat.htm" />
         </TocEntry>
         <TocEntry
           Title="Buitengewone algemene vergadering voorbereiden"
           Link="/Content/Traject SHM/Splitsing/Buitengewone algemene vergadering voorbereiden.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Wijziging statuten.htm" />
           <TocEntry
             Title="Nieuwe RvB en AV"
             Link="/Content/Traject SHM/Splitsing/Nieuwe raad van bestuur en algemene vergadering samenstellen.htm" />
@@ -963,7 +975,7 @@
           Link="/Content/Traject SVK vzw/Splitsing/Toepassingsgebied.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/Splitsing/Fiscale aspecten.htm"></TocEntry>
+          Link="/Content/Traject SVK vzw/Splitsing/Fiscale aspecten.htm" />
         <TocEntry
           Title="Voorbereiding raad van bestuur"
           Link="/Content/Traject SVK vzw/Splitsing/Voorbereiding raad van bestuur.htm">
@@ -1012,23 +1024,23 @@
           Link="/Content/Traject SVK vzw/Splitsing/Praktische opvolging.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/Splitsing/Gevolgen voor lopende overeenkomsten.htm"></TocEntry>
+          Link="/Content/Traject SVK vzw/Splitsing/Gevolgen voor lopende overeenkomsten.htm" />
       </TocEntry>
       <TocEntry
         Title="Inbreng van bedrijfstak om niet"
         Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Inbreng bedrijfstak.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Toepassingsgebied.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Toepassingsgebied.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Fiscale aspecten.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Fiscale aspecten.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Voorbereiden raden van bestuur.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Voorbereiden raden van bestuur.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Bijeenkomsten raden van bestuur.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Bijeenkomsten raden van bestuur.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Neerlegging en bekendmaking voorstel.htm" />
@@ -1040,22 +1052,22 @@
         </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Raden van bestuur.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Raden van bestuur.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Notariële inbrengakte.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Notariële inbrengakte.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Datum inwerkingtreding.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Datum inwerkingtreding.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Tegenwerpbaarheid.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Tegenwerpbaarheid.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Rechtsgevolgen.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Rechtsgevolgen.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Gevolgen voor lopende overeenkomsten.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/inbreng bedrijfstak/Gevolgen voor lopende overeenkomsten.htm" />
       </TocEntry>
     </TocEntry>
     <TocEntry
@@ -1065,32 +1077,32 @@
         Link="/Content/Traject SVK vzw/overdracht algemeenheid/Overdracht van algemeenheid.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Toepassingsgebied.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Toepassingsgebied.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Fiscale aspecten.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Fiscale aspecten.htm" />
         <TocEntry
           Title="Voorbereiden raad van bestuur"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Voorbereiden raad van bestuur.htm">
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SVK vzw/overdracht algemeenheid/Voorstel van overdracht.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            Link="/Content/Traject SVK vzw/overdracht algemeenheid/Voorstel van overdracht.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SVK vzw/overdracht algemeenheid/Staat van actgiva en passiva.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            Link="/Content/Traject SVK vzw/overdracht algemeenheid/Staat van actgiva en passiva.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SVK vzw/overdracht algemeenheid/Bijzonder schriftelijk verslag.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            Link="/Content/Traject SVK vzw/overdracht algemeenheid/Bijzonder schriftelijk verslag.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SVK vzw/overdracht algemeenheid/Uitnodiging raden van bestuur.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            Link="/Content/Traject SVK vzw/overdracht algemeenheid/Uitnodiging raden van bestuur.htm" />
         </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Bijeenkomsten raden van bestuur.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Bijeenkomsten raden van bestuur.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Neerlegging en bekendmaking voorstel.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Neerlegging en bekendmaking voorstel.htm" />
         <TocEntry
           Title="Personeelszaken">
           <TocEntry
@@ -1098,54 +1110,54 @@
         </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Algemene vergadering voorbereiden.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Algemene vergadering voorbereiden.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Raad van bestuur verkrijger.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Raad van bestuur verkrijger.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Notariële overdrachtsakte.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Notariële overdrachtsakte.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Inwerkingtreding.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Inwerkingtreding.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Tegenwerpbaarheid.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Tegenwerpbaarheid.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Rechtsgevolgen.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Rechtsgevolgen.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Gevolgen voor lopende overeenkomsten.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Gevolgen voor lopende overeenkomsten.htm" />
       </TocEntry>
       <TocEntry
         Title="Overdracht van bedrijfstak"
         Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Overdracht van bedrijfstak.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Toepassingsgebied.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Toepassingsgebied.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Fiscale aspecten.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Fiscale aspecten.htm" />
         <TocEntry
           Title="Voorbereiden raad van bestuur"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Voorbereiden raad van bestuur.htm">
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Voorstel van overdracht.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Voorstel van overdracht.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Staat van activa en passiva.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Staat van activa en passiva.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Uitnodiging raden van bestuur.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Uitnodiging raden van bestuur.htm" />
         </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Bijeenkomsten raden van bestuur.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Bijeenkomsten raden van bestuur.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Neerlegging en bekendmaking voorstel.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Neerlegging en bekendmaking voorstel.htm" />
         <TocEntry
           Title="Personeelszaken">
           <TocEntry
@@ -1153,22 +1165,22 @@
         </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Raden van bestuur.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Raden van bestuur.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Notariële overdrachtsakte.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Notariële overdrachtsakte.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Inwerkingtreding.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Inwerkingtreding.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Tegenwerpbaarheid.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Tegenwerpbaarheid.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Rechtsgevolgen.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Rechtsgevolgen.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Gevolgen voor lopende overeenkomsten.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Gevolgen voor lopende overeenkomsten.htm" />
       </TocEntry>
     </TocEntry>
     <TocEntry
