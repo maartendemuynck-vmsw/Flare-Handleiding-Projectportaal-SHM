@@ -550,10 +550,8 @@
             Link="/Content/Traject SHM/Partiële/Btw.htm" />
         </TocEntry>
         <TocEntry
-          Title="Waardering van aandelen">
-          <TocEntry
-            Title="New Entry" />
-        </TocEntry>
+          Title="Bepaling van de ruilverhouding"
+          Link="/Content/Traject SHM/Partiële/Ruilverhouding.htm"></TocEntry>
         <TocEntry
           Title="Voorbereiding raad van bestuur"
           Link="/Content/Traject SHM/Partiële/Voorbereiding raad van bestuur.htm">
