@@ -405,7 +405,7 @@
       </TocEntry>
       <TocEntry
         Title="Splitsing"
-        Link="/Content/Traject SHM/Fusie/wijziging van de statuten van de verkrijgende maatschappij.htm">
+        Link="/Content/Traject SHM/Splitsing/wijziging van de statuten van de verkrijgende maatschappij.htm">
         <TocEntry
           Title="Toepassingsgebied"
           Link="/Content/Traject SHM/Splitsing/Toepassingsgebied.htm">
@@ -441,7 +441,11 @@
           Link="/Content/Traject SHM/Splitsing/Voorbereiding raad van bestuur.htm">
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Tussentijdse financiële cijfers.htm" />
+            Link="/Content/Traject SHM/Splitsing/Tussentijdse financiële cijfers.htm">
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Traject SHM/Splitsing/Bijeenkomsten raden van bestuur.htm" />
+          </TocEntry>
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Splitsing/Splitsingsvoorstel.htm" />
@@ -456,19 +460,17 @@
             Link="/Content/Traject SHM/Splitsing/Bijzonder verslag wijziging rechten verbonden aan soorten aandelen.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Uitnodiging raden van bestuur.htm" />
+            Link="/Content/Traject SHM/Splitsing/Uitnodiging raden van bestuur.htm"></TocEntry>
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Splitsing/Neerlegging en bekenmaking splitsingsvoorstel.htm" />
         </TocEntry>
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Bijeenkomsten raden van bestuur.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Neerlegging en bekenmaking splitsingsvoorstel.htm" />
-        <TocEntry
           Title="Personeelszaken"
-          Link="/Content/Traject SHM/Splitsing/Personeelszaken.htm">
+          Link="/Content/Traject SHM/Splitsing/Gevolgen van cao nr.32 bis.htm">
           <TocEntry
-            Title="New Entry" />
+            Title="Uw personeelsleden"
+            Link="/Content/Traject SHM/Splitsing/Uw personeelsleden.htm" />
         </TocEntry>
         <TocEntry
           Title="Buitengewone algemene vergadering voorbereiden"
