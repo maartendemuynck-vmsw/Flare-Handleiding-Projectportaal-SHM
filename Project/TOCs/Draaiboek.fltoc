@@ -481,6 +481,9 @@
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Splitsing/Gevolgen van cao nr.32 bis.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Splitsing/Uw sociaal secretariaat.htm" />
         </TocEntry>
         <TocEntry
           Title="Buitengewone algemene vergadering voorbereiden"
