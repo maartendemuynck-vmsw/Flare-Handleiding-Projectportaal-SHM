@@ -467,8 +467,10 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Neerlegging en bekenmaking splitsingsvoorstel.htm" />
         <TocEntry
-          Title="Personeelszaken"
-          Link="/Content/Traject SHM/Splitsing/Gevolgen van cao nr.32 bis.htm">
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Informeer de toezichthouder.htm" />
+        <TocEntry
+          Title="Personeelszaken">
           <TocEntry
             Title="Uw personeelsleden"
             Link="/Content/Traject SHM/Splitsing/Uw personeelsleden.htm" />
@@ -477,8 +479,7 @@
           Title="Buitengewone algemene vergadering voorbereiden"
           Link="/Content/Traject SHM/Splitsing/Buitengewone algemene vergadering voorbereiden.htm">
           <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Wijziging statuten.htm" />
+            Title="[%=System.LinkedTitle%]" />
           <TocEntry
             Title="Nieuwe RvB en AV"
             Link="/Content/Traject SHM/Splitsing/Nieuwe raad van bestuur en algemene vergadering samenstellen.htm" />
@@ -513,9 +514,6 @@
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Gevolgen lopende overeenkomsten.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Informeer de toezichthouder.htm" />
       </TocEntry>
       <TocEntry
         Title="Partiële splitsing"
