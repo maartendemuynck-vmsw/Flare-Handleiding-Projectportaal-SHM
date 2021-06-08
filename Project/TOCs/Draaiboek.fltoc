@@ -456,11 +456,11 @@
             Link="/Content/Traject SHM/Splitsing/Bijzonder verslag wijziging rechten verbonden aan soorten aandelen.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Splitsing/Bijeenkomsten raden van bestuur.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Splitsing/Uitnodiging raden van bestuur.htm" />
         </TocEntry>
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Bijeenkomsten raden van bestuur.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Neerlegging en bekenmaking splitsingsvoorstel.htm" />
