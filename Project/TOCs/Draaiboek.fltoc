@@ -609,13 +609,14 @@
           Title="Personeelszaken"
           Link="/Content/Traject SHM/Partiële/Personeelszaken.htm">
           <TocEntry
-            Title="New Entry" />
-          <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Partiële/Personeelsleden.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Partiële/Gevolgen cao 32bis.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Partiële/Anderen.htm" />
         </TocEntry>
         <TocEntry
           Title="Buitengewone vergadering voorbereiden"
