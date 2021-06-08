@@ -266,668 +266,667 @@
     Link="/Content/Trajecten voor SHM's.htm">
     <TocEntry
       Title="Keuze van procedure"
-      Link="/Content/Traject SHM/Keuze van procedure.htm">
+      Link="/Content/Traject SHM/Keuze van procedure.htm"></TocEntry>
+    <TocEntry
+      Title="Fusie"
+      Link="/Content/Traject SHM/Fusie/Fusie.htm">
       <TocEntry
-        Title="Fusie"
-        Link="/Content/Traject SHM/Fusie/Fusie.htm">
-        <TocEntry
-          Title="Toepassingsgebied"
-          Link="/Content/Traject SHM/Fusie/Toepassingsgebied.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Maatschappijen met verschillende rechtsvormen.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Fusieformule.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="Fiscale aspecten"
-          Link="/Content/Fiscale aspecten.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Inkomstenbelasting.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Registratierechten.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Btw.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="Waardering van de aandelen">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Ruilverhouding.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Beperkingen sociale onderneming.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Nominale vs. economische waarde.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="Voorbereiding raad van bestuur"
-          Link="/Content/Traject SHM/Fusie/Voorbereiding raad van bestuur.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Tussentijdse financiële cijfers.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Fusievoorstel.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Bijzonder schriftelijk verslag.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Controleverslag bedrijfsrevisor.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Bijzonder verslag wijziging rechten verbonden aan soorten aandelen.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Uitnodiging raden van bestuur.htm" />
-        </TocEntry>
+        Title="Toepassingsgebied"
+        Link="/Content/Traject SHM/Fusie/Toepassingsgebied.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Fusie/Bijeenkomsten raden van bestuur.htm" />
+          Link="/Content/Traject SHM/Fusie/Maatschappijen met verschillende rechtsvormen.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Fusie/Neerlegging en bekendmaking fusievoorstel.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Fusie/Toezichthouder informeren.htm" />
-        <TocEntry
-          Title="Personeelszaken"
-          Link="/Content/Traject SHM/Fusie/Personeelszaken.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Uw personeelsleden.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Gevolgen cao 32bis.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Anderen.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Fusie/Voorbereiding statutenwijziging.htm" />
-        <TocEntry
-          Title="Voorbereiding algemene vergadering"
-          Link="/Content/Voorbereiding algemene vergadering.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Nieuwe RvB en AV.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Recente jaarrekening en controleverslag.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Informeren aandeelhouders en aandeelhoudersregister.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Verplichte mogelijkheid tot uittreding uit de vennootschap.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Uitnodiging en agenda.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Fusie/Buitengewone algemene vergadering.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Aanwezigheid en meerderheid.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Notulen bij notariële akte.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Fusie/Toezichthouder tijdig informeren.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Fusie/Bekendmaking.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Fusie/Datum van inwerkingtreding.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Fusie/Tegenwerpbaarheid.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Fusie/Rechtsgevolgen.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Fusie/Praktische opvolging.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Fusie/Gevolgen lopende overeenkomsten.htm" />
+          Link="/Content/Traject SHM/Fusie/Fusieformule.htm" />
       </TocEntry>
       <TocEntry
-        Title="Splitsing"
-        Link="/Content/Traject SHM/Splitsing/Splitsing.htm">
+        Title="Fiscale aspecten"
+        Link="/Content/Fiscale aspecten.htm">
         <TocEntry
-          Title="Toepassingsgebied"
-          Link="/Content/Traject SHM/Splitsing/Toepassingsgebied.htm">
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Inkomstenbelasting.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Registratierechten.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Btw.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Waardering van de aandelen">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Ruilverhouding.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Beperkingen sociale onderneming.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Nominale vs. economische waarde.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Voorbereiding raad van bestuur"
+        Link="/Content/Traject SHM/Fusie/Voorbereiding raad van bestuur.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Tussentijdse financiële cijfers.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Fusievoorstel.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Bijzonder schriftelijk verslag.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Controleverslag bedrijfsrevisor.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Bijzonder verslag wijziging rechten verbonden aan soorten aandelen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Uitnodiging raden van bestuur.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Fusie/Bijeenkomsten raden van bestuur.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Fusie/Neerlegging en bekendmaking fusievoorstel.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Fusie/Toezichthouder informeren.htm" />
+      <TocEntry
+        Title="Personeelszaken"
+        Link="/Content/Traject SHM/Fusie/Personeelszaken.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Uw personeelsleden.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Gevolgen cao 32bis.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Anderen.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Fusie/Voorbereiding statutenwijziging.htm" />
+      <TocEntry
+        Title="Voorbereiding algemene vergadering"
+        Link="/Content/Voorbereiding algemene vergadering.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Nieuwe RvB en AV.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Recente jaarrekening en controleverslag.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Informeren aandeelhouders en aandeelhoudersregister.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Verplichte mogelijkheid tot uittreding uit de vennootschap.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Uitnodiging en agenda.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Fusie/Buitengewone algemene vergadering.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Aanwezigheid en meerderheid.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Notulen bij notariële akte.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Fusie/Toezichthouder tijdig informeren.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Fusie/Bekendmaking.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Fusie/Datum van inwerkingtreding.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Fusie/Tegenwerpbaarheid.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Fusie/Rechtsgevolgen.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Fusie/Praktische opvolging.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Fusie/Gevolgen lopende overeenkomsten.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Splitsing"
+      Link="/Content/Traject SHM/Splitsing/Splitsing.htm">
+      <TocEntry
+        Title="Toepassingsgebied"
+        Link="/Content/Traject SHM/Splitsing/Toepassingsgebied.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Maatschappijen met verschillende rechtsvormen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Splitsingsformule.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Fiscale aspecten">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Inkomstenbelasting.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Registratierechten.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Btw.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Waardering van de aandelen">
+        <TocEntry
+          Title="New Entry" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/AanTeVullen.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Voorbereiding raad van bestuur"
+        Link="/Content/Traject SHM/Splitsing/Voorbereiding raad van bestuur.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Tussentijdse financiële cijfers.htm">
           <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Maatschappijen met verschillende rechtsvormen.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Splitsingsformule.htm" />
+            Title="[%=System.LinkedTitle%]" />
         </TocEntry>
         <TocEntry
-          Title="Fiscale aspecten">
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Splitsingsvoorstel.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Bijzonder schriftelijk verslag.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Controleverslag bedrijfsrevisor.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Bijzonder verslag wijziging rechten verbonden aan soorten aandelen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Uitnodiging raden van bestuur.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Splitsing/Bijeenkomsten raden van bestuur.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Splitsing/Neerlegging en bekenmaking splitsingsvoorstel.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Splitsing/Informeer de toezichthouder.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Splitsing/Wijziging staturen.htm" />
+      <TocEntry
+        Title="Personeelszaken"
+        Link="/Content/Traject SHM/Splitsing/Personeelszaken.htm">
+        <TocEntry
+          Title="Uw personeelsleden"
+          Link="/Content/Traject SHM/Splitsing/Uw personeelsleden.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Gevolgen van cao nr.32 bis.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Uw sociaal secretariaat.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Verzekeringsmaatschappijen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Externe dienst voor preventie en bescherming op het werk.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Kinderbijslagfonds.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/RVA (bij bruggepensioneerden).htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Meer informatie.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Buitengewone algemene vergadering voorbereiden"
+        Link="/Content/Traject SHM/Splitsing/Buitengewone algemene vergadering voorbereiden.htm">
+        <TocEntry
+          Title="Nieuwe RvB en AV"
+          Link="/Content/Traject SHM/Splitsing/Nieuwe raad van bestuur en algemene vergadering samenstellen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Recente jaarrekening en controleverslag.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Informeren aandeelhouders en aandeelhoudersregister.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Uittreding of inkoop van eigen aandelen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Uitnodiging en agenda.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Splitsing/Buitengewone algemene vergadering.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Splitsing/Informeer tijdig de toezichthouder 2.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Splitsing/Bekendmaking.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Splitsing/Datum van inwerkingtreding.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Splitsing/Tegenwerpbaarheid.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Splitsing/Rechtsgevolgen.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Splitsing/Praktische opvolging.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Splitsing/Gevolgen lopende overeenkomsten.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Partiële splitsing"
+      Link="/Content/Traject SHM/Partiële/Partiële splitsing.htm">
+      <TocEntry
+        Title="Toepassingsgebied"
+        Link="/Content/Traject SHM/Partiële/Toepassingsgebied.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Maatschappijen met verschillende rechtsvormen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Splitsingsformule.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Fiscale aspecten"
+        Link="/Content/Traject SHM/Partiële/Fiscale Aspecten.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Inkomstenbelasting.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Registratierechten.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Btw.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Bepaling van de ruilverhouding"
+        Link="/Content/Traject SHM/Partiële/Ruilverhouding.htm"></TocEntry>
+      <TocEntry
+        Title="Voorbereiding raad van bestuur"
+        Link="/Content/Traject SHM/Partiële/Voorbereiding raad van bestuur.htm">
+        <TocEntry
+          Title="Tussentijdse financiële cijfers"
+          Link="/Content/Traject SHM/Partiële/tussentijdse financiële cijfers.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Splitsingsvoorstel.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Bijzonder schriftelijk verslag.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Controleverslag bedrijfsrevisor.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Bijzonder verslag wijzigingen rechten verbonden aan soorten aandelen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Uitnodiging raden van bestuur.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Partiële/Bijeenkomsten raden van bestuur.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Partiële/Neerlegging en bekendmaking splitsingsvoorstel.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Partiële/Wijziging statuten.htm" />
+      <TocEntry
+        Title="Personeelszaken"
+        Link="/Content/Traject SHM/Partiële/Personeelszaken.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Personeelsleden.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Gevolgen cao 32bis.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Anderen.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Buitengewone vergadering voorbereiden"
+        Link="/Content/Traject SHM/Partiële/Informeren aandeelhouders en aandeelhoudersregister.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Nieuwe RvB en AV.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Recente jaarrekening en controleverslag.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Uitnodiging en agenda.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Partiële/Buitengewone algemene vergadering.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Partiële/Bekendmaking.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Partiële/Datum van inwerkingtreding.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Partiële/Tegenwerpbaarheid.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Partiële/Rechtsgevolgen.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Partiële/Praktische opvolging.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Partiële/Gevolgen lopende overeenkomsten.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Overdracht van bedrijfstak"
+      Link="/Content/Traject SHM/Bedrijfstak/Overdracht van bedrijfstak.htm">
+      <TocEntry
+        Title="Toepassingsgebied"
+        Link="/Content/Traject SHM/Bedrijfstak/Toepassingsgebied.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Bedrijfstak/Maatschappijen met verschillende rechtsvormen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Bedrijfstak/Formule.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Fiscale aspecten">
+        <TocEntry
+          Title="Inkomstenbelasting"
+          Link="/Content/Traject SHM/Bedrijfstak/Inkomstenbelastying.htm"
+          ComputeToc="false" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Bedrijfstak/Registratierechten.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Bedrijfstak/Btw.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Voorbereiden raad van bestuur"
+        Link="/Content/Traject SHM/Bedrijfstak/Voorbereiden raad van bestuur.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Bedrijfstak/Voorstel van overdracht.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Bedrijfstak/Uitnodigingen raden van bestuur.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Bedrijfstak/Bijeenkomsten raden van bestuur.htm" />
+      <TocEntry
+        Title="Neerlegging en bekendmaking"
+        Link="/Content/Traject SHM/Bedrijfstak/Neerlegging en bekandmaking.htm" />
+      <TocEntry
+        Title="Personeelszaken">
+        <TocEntry
+          Title="New Entry" />
+      </TocEntry>
+      <TocEntry
+        Title="Raden van bestuur"
+        Link="/Content/Traject SHM/Bedrijfstak/Raden van bestuur.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Bedrijfstak/Notariële overdrachtsakte.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Bedrijfstak/Datum van inwerkingtreding.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Bedrijfstak/Tegenwerpbaarheid.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Bedrijfstak/Rechtsgevolgen.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Bedrijfstak/Gevolgen lopende overeenkomsten.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Overdracht van algemeenheid"
+      Link="/Content/Traject SHM/Algemeenheid/Overdracht van algemeenheid.htm">
+      <TocEntry
+        Title="Toepassingsgebied"
+        Link="/Content/Traject SHM/Algemeenheid/Toepassingsgebied.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Algemeenheid/Maatschappijen met verschillende rechtsvormen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Algemeenheid/Formule.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Fiscale aspecten">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Algemeenheid/Inkomstenbelasting.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Algemeenheid/Registratierechten.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Algemeenheid/Btw.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Voorbereiden raad van bestuur"
+        Link="/Content/Traject SHM/Algemeenheid/Voorbereiden raad van bestuur.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Algemeenheid/Voorstel van overdracht.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Algemeenheid/Bijzonder schriftelijk verslag.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Algemeenheid/Uitnodiging raden van bestuur.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Bijeenkomsten raden van bestuur"
+        Link="/Content/Traject SHM/Algemeenheid/Bijeenkomsten raden van bestuur.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Algemeenheid/Neerlegging en bekendmaking.htm" />
+      <TocEntry
+        Title="Personeelszaken">
+        <TocEntry
+          Title="New Entry" />
+      </TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Algemeenheid/Algemene vergadering voorbereiden.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Algemeenheid/Bijzondere algemene vergadering.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Algemeenheid/Raad van bestuur verkrijger.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Algemeenheid/Notariële overdrachtsakte.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Algemeenheid/Datum van inwerkingtreding.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Algemeenheid/Tegenwerpbaarheid.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Algemeenheid/Rechtsgevolgen.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Algemeenheid/Gevolgen lopende overeenkomsten.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Individuele overdrachten">
+      <TocEntry
+        Title="Individuele overeenkomsten"
+        Link="/Content/Traject SHM/Individuele overeenkomsten/Individuele overeenkomsten.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Individuele overeenkomsten/Sociale huurovereenkomsten.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Individuele overeenkomsten/Overeenkomsten met andere derden.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Individuele overeenkomsten/Arbeidsovereenkomsten.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Patrimonium overdracht"
+        Link="/Content/Traject SHM/Patrimonium overdracht.htm">
+        <TocEntry
+          Title="Verkoop"
+          Link="/Content/Traject SHM/Verkoop/Verkoop.htm">
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Inkomstenbelasting.htm" />
+            Link="/Content/Traject SHM/Verkoop/Kenmerken.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Registratierechten.htm" />
+            Link="/Content/Traject SHM/Verkoop/Prijs.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Btw.htm" />
+            Link="/Content/Traject SHM/Verkoop/Kosten.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Verkoop/Financiering.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Verkoop/Programmatieprocedure.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Verkoop/Kennisgeving.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Verkoop/Voor- en nadelen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Verkoop/Stappenplan.htm" />
         </TocEntry>
         <TocEntry
-          Title="Waardering van de aandelen">
+          Title="Ruil"
+          Link="/Content/Traject SHM/Ruil/Ruil.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Ruil/Voor- en nadelen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Ruil/Stappenplan.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Schenking"
+          Link="/Content/Traject SHM/Schenking/Schenking.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Schenking/Voor- en nadelen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Schenking/Stappenplan.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Overdracht bestaande erfpacht- of opstalrechten"
+          Link="/Content/Traject SHM/Bestaande erfpacht/Overdracht bestaande.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bestaande erfpacht/Kenmerken.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bestaande erfpacht/Prijs.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bestaande erfpacht/Kosten.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bestaande erfpacht/Financiering.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bestaande erfpacht/Programmatieprocedure.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bestaande erfpacht/Kennisgeving.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bestaande erfpacht/Voor- en nadelen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bestaande erfpacht/Stappenplan.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Patrimonium koopsector"
+          Link="/Content/Traject SHM/Koopsector/Patrimonium koopsector.htm">
           <TocEntry
             Title="New Entry" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/AanTeVullen.htm" />
         </TocEntry>
-        <TocEntry
-          Title="Voorbereiding raad van bestuur"
-          Link="/Content/Traject SHM/Splitsing/Voorbereiding raad van bestuur.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Tussentijdse financiële cijfers.htm">
-            <TocEntry
-              Title="[%=System.LinkedTitle%]" />
-          </TocEntry>
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Splitsingsvoorstel.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Bijzonder schriftelijk verslag.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Controleverslag bedrijfsrevisor.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Bijzonder verslag wijziging rechten verbonden aan soorten aandelen.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Uitnodiging raden van bestuur.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Bijeenkomsten raden van bestuur.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Neerlegging en bekenmaking splitsingsvoorstel.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Informeer de toezichthouder.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Wijziging staturen.htm" />
-        <TocEntry
-          Title="Personeelszaken"
-          Link="/Content/Traject SHM/Splitsing/Personeelszaken.htm">
-          <TocEntry
-            Title="Uw personeelsleden"
-            Link="/Content/Traject SHM/Splitsing/Uw personeelsleden.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Gevolgen van cao nr.32 bis.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Uw sociaal secretariaat.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Verzekeringsmaatschappijen.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Externe dienst voor preventie en bescherming op het werk.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Kinderbijslagfonds.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/RVA (bij bruggepensioneerden).htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Meer informatie.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="Buitengewone algemene vergadering voorbereiden"
-          Link="/Content/Traject SHM/Splitsing/Buitengewone algemene vergadering voorbereiden.htm">
-          <TocEntry
-            Title="Nieuwe RvB en AV"
-            Link="/Content/Traject SHM/Splitsing/Nieuwe raad van bestuur en algemene vergadering samenstellen.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Recente jaarrekening en controleverslag.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Informeren aandeelhouders en aandeelhoudersregister.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Uittreding of inkoop van eigen aandelen.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Splitsing/Uitnodiging en agenda.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Buitengewone algemene vergadering.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Informeer tijdig de toezichthouder 2.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Bekendmaking.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Datum van inwerkingtreding.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Tegenwerpbaarheid.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Rechtsgevolgen.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Praktische opvolging.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Gevolgen lopende overeenkomsten.htm" />
       </TocEntry>
       <TocEntry
-        Title="Partiële splitsing"
-        Link="/Content/Traject SHM/Partiële/Partiële splitsing.htm">
+        Title="Patrimonium vestiging tot 2028"
+        Link="/Content/Traject SHM/Individuele overeenkomsten/Patrimonium vestiging 2028.htm">
         <TocEntry
-          Title="Toepassingsgebied"
-          Link="/Content/Traject SHM/Partiële/Toepassingsgebied.htm">
+          Title="Huur"
+          Link="/Content/Traject SHM/Huur/Huur.htm">
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Partiële/Maatschappijen met verschillende rechtsvormen.htm" />
+            Link="/Content/Traject SHM/Huur/Voor- en nadelen.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Partiële/Splitsingsformule.htm" />
+            Link="/Content/Traject SHM/Huur/Stappenplan.htm" />
         </TocEntry>
         <TocEntry
-          Title="Fiscale aspecten"
-          Link="/Content/Traject SHM/Partiële/Fiscale Aspecten.htm">
+          Title="Inbeheergave"
+          Link="/Content/Traject SHM/Inbeheergave/Inbeheergave.htm">
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Partiële/Inkomstenbelasting.htm" />
+            Link="/Content/Traject SHM/Inbeheergave/Voor- en nadelen.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Partiële/Registratierechten.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Partiële/Btw.htm" />
+            Link="/Content/Traject SHM/Inbeheergave/Stappenplan.htm" />
         </TocEntry>
-        <TocEntry
-          Title="Bepaling van de ruilverhouding"
-          Link="/Content/Traject SHM/Partiële/Ruilverhouding.htm"></TocEntry>
-        <TocEntry
-          Title="Voorbereiding raad van bestuur"
-          Link="/Content/Traject SHM/Partiële/Voorbereiding raad van bestuur.htm">
-          <TocEntry
-            Title="Tussentijdse financiële cijfers"
-            Link="/Content/Traject SHM/Partiële/tussentijdse financiële cijfers.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Partiële/Splitsingsvoorstel.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Partiële/Bijzonder schriftelijk verslag.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Partiële/Controleverslag bedrijfsrevisor.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Partiële/Bijzonder verslag wijzigingen rechten verbonden aan soorten aandelen.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Partiële/Uitnodiging raden van bestuur.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Partiële/Bijeenkomsten raden van bestuur.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Partiële/Neerlegging en bekendmaking splitsingsvoorstel.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Partiële/Wijziging statuten.htm" />
-        <TocEntry
-          Title="Personeelszaken"
-          Link="/Content/Traject SHM/Partiële/Personeelszaken.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Partiële/Personeelsleden.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Partiële/Gevolgen cao 32bis.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Partiële/Anderen.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="Buitengewone vergadering voorbereiden"
-          Link="/Content/Traject SHM/Partiële/Informeren aandeelhouders en aandeelhoudersregister.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Partiële/Nieuwe RvB en AV.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Partiële/Recente jaarrekening en controleverslag.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Partiële/Uitnodiging en agenda.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Partiële/Buitengewone algemene vergadering.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Partiële/Bekendmaking.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Partiële/Datum van inwerkingtreding.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Partiële/Tegenwerpbaarheid.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Partiële/Rechtsgevolgen.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Partiële/Praktische opvolging.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Partiële/Gevolgen lopende overeenkomsten.htm" />
       </TocEntry>
       <TocEntry
-        Title="Overdracht van bedrijfstak"
-        Link="/Content/Traject SHM/Bedrijfstak/Overdracht van bedrijfstak.htm">
-        <TocEntry
-          Title="Toepassingsgebied"
-          Link="/Content/Traject SHM/Bedrijfstak/Toepassingsgebied.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Bedrijfstak/Maatschappijen met verschillende rechtsvormen.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Bedrijfstak/Formule.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="Fiscale aspecten">
-          <TocEntry
-            Title="Inkomstenbelasting"
-            Link="/Content/Traject SHM/Bedrijfstak/Inkomstenbelastying.htm"
-            ComputeToc="false" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Bedrijfstak/Registratierechten.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Bedrijfstak/Btw.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="Voorbereiden raad van bestuur"
-          Link="/Content/Traject SHM/Bedrijfstak/Voorbereiden raad van bestuur.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Bedrijfstak/Voorstel van overdracht.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Bedrijfstak/Uitnodigingen raden van bestuur.htm" />
-        </TocEntry>
+        Title="Gevolgen van individuele overdrachten"
+        Link="/Content/Traject SHM/Gevolgen/Gevolgen individuele overdracht.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Bedrijfstak/Bijeenkomsten raden van bestuur.htm" />
-        <TocEntry
-          Title="Neerlegging en bekendmaking"
-          Link="/Content/Traject SHM/Bedrijfstak/Neerlegging en bekandmaking.htm" />
-        <TocEntry
-          Title="Personeelszaken">
-          <TocEntry
-            Title="New Entry" />
-        </TocEntry>
-        <TocEntry
-          Title="Raden van bestuur"
-          Link="/Content/Traject SHM/Bedrijfstak/Raden van bestuur.htm" />
+          Link="/Content/Traject SHM/Gevolgen/Reststuctuur.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Bedrijfstak/Notariële overdrachtsakte.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Bedrijfstak/Datum van inwerkingtreding.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Bedrijfstak/Tegenwerpbaarheid.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Bedrijfstak/Rechtsgevolgen.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Bedrijfstak/Gevolgen lopende overeenkomsten.htm" />
-      </TocEntry>
-      <TocEntry
-        Title="Overdracht van algemeenheid"
-        Link="/Content/Traject SHM/Algemeenheid/Overdracht van algemeenheid.htm">
-        <TocEntry
-          Title="Toepassingsgebied"
-          Link="/Content/Traject SHM/Algemeenheid/Toepassingsgebied.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Algemeenheid/Maatschappijen met verschillende rechtsvormen.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Algemeenheid/Formule.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="Fiscale aspecten">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Algemeenheid/Inkomstenbelasting.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Algemeenheid/Registratierechten.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Algemeenheid/Btw.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="Voorbereiden raad van bestuur"
-          Link="/Content/Traject SHM/Algemeenheid/Voorbereiden raad van bestuur.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Algemeenheid/Voorstel van overdracht.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Algemeenheid/Bijzonder schriftelijk verslag.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Algemeenheid/Uitnodiging raden van bestuur.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="Bijeenkomsten raden van bestuur"
-          Link="/Content/Traject SHM/Algemeenheid/Bijeenkomsten raden van bestuur.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Algemeenheid/Neerlegging en bekendmaking.htm" />
-        <TocEntry
-          Title="Personeelszaken">
-          <TocEntry
-            Title="New Entry" />
-        </TocEntry>
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Algemeenheid/Algemene vergadering voorbereiden.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Algemeenheid/Bijzondere algemene vergadering.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Algemeenheid/Raad van bestuur verkrijger.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Algemeenheid/Notariële overdrachtsakte.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Algemeenheid/Datum van inwerkingtreding.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Algemeenheid/Tegenwerpbaarheid.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Algemeenheid/Rechtsgevolgen.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Algemeenheid/Gevolgen lopende overeenkomsten.htm" />
-      </TocEntry>
-      <TocEntry
-        Title="Individuele overdrachten">
-        <TocEntry
-          Title="Individuele overeenkomsten"
-          Link="/Content/Traject SHM/Individuele overeenkomsten/Individuele overeenkomsten.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Individuele overeenkomsten/Sociale huurovereenkomsten.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Individuele overeenkomsten/Overeenkomsten met andere derden.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Individuele overeenkomsten/Arbeidsovereenkomsten.htm" />
-        </TocEntry>
-        <TocEntry
-          Title="Patrimonium overdracht"
-          Link="/Content/Traject SHM/Patrimonium overdracht.htm">
-          <TocEntry
-            Title="Verkoop"
-            Link="/Content/Traject SHM/Verkoop/Verkoop.htm">
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Verkoop/Kenmerken.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Verkoop/Prijs.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Verkoop/Kosten.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Verkoop/Financiering.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Verkoop/Programmatieprocedure.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Verkoop/Kennisgeving.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Verkoop/Voor- en nadelen.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Verkoop/Stappenplan.htm" />
-          </TocEntry>
-          <TocEntry
-            Title="Ruil"
-            Link="/Content/Traject SHM/Ruil/Ruil.htm">
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Ruil/Voor- en nadelen.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Ruil/Stappenplan.htm" />
-          </TocEntry>
-          <TocEntry
-            Title="Schenking"
-            Link="/Content/Traject SHM/Schenking/Schenking.htm">
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Schenking/Voor- en nadelen.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Schenking/Stappenplan.htm" />
-          </TocEntry>
-          <TocEntry
-            Title="Overdracht bestaande erfpacht- of opstalrechten"
-            Link="/Content/Traject SHM/Bestaande erfpacht/Overdracht bestaande.htm">
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Bestaande erfpacht/Kenmerken.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Bestaande erfpacht/Prijs.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Bestaande erfpacht/Kosten.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Bestaande erfpacht/Financiering.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Bestaande erfpacht/Programmatieprocedure.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Bestaande erfpacht/Kennisgeving.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Bestaande erfpacht/Voor- en nadelen.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Bestaande erfpacht/Stappenplan.htm" />
-          </TocEntry>
-          <TocEntry
-            Title="Patrimonium koopsector"
-            Link="/Content/Traject SHM/Koopsector/Patrimonium koopsector.htm">
-            <TocEntry
-              Title="New Entry" />
-          </TocEntry>
-        </TocEntry>
-        <TocEntry
-          Title="Patrimonium vestiging tot 2028"
-          Link="/Content/Traject SHM/Individuele overeenkomsten/Patrimonium vestiging 2028.htm">
-          <TocEntry
-            Title="Huur"
-            Link="/Content/Traject SHM/Huur/Huur.htm">
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Huur/Voor- en nadelen.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Huur/Stappenplan.htm" />
-          </TocEntry>
-          <TocEntry
-            Title="Inbeheergave"
-            Link="/Content/Traject SHM/Inbeheergave/Inbeheergave.htm">
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Inbeheergave/Voor- en nadelen.htm" />
-            <TocEntry
-              Title="[%=System.LinkedTitle%]"
-              Link="/Content/Traject SHM/Inbeheergave/Stappenplan.htm" />
-          </TocEntry>
-        </TocEntry>
-        <TocEntry
-          Title="Gevolgen van individuele overdrachten"
-          Link="/Content/Traject SHM/Gevolgen/Gevolgen individuele overdracht.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Gevolgen/Reststuctuur.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Gevolgen/Te ondernemen stappen.htm" />
-        </TocEntry>
+          Link="/Content/Traject SHM/Gevolgen/Te ondernemen stappen.htm" />
       </TocEntry>
     </TocEntry>
   </TocEntry>
