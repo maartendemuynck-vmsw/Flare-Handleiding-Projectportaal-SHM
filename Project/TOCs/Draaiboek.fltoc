@@ -484,6 +484,21 @@
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Splitsing/Uw sociaal secretariaat.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Splitsing/Verzekeringsmaatschappijen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Splitsing/Externe dienst voor preventie en bescherming op het werk.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Splitsing/Kinderbijslagfonds.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Splitsing/RVA (bij bruggepensioneerden).htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Splitsing/Meer informatie.htm" />
         </TocEntry>
         <TocEntry
           Title="Buitengewone algemene vergadering voorbereiden"
@@ -497,6 +512,9 @@
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Splitsing/Informeren aandeelhouders en aandeelhoudersregister.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Splitsing/Uittreding of inkoop van eigen aandelen.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Splitsing/Uitnodiging en agenda.htm" />
