@@ -496,6 +496,9 @@
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Splitsing/RVA (bij bruggepensioneerden).htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Splitsing/Meer informatie.htm" />
         </TocEntry>
         <TocEntry
           Title="Buitengewone algemene vergadering voorbereiden"
