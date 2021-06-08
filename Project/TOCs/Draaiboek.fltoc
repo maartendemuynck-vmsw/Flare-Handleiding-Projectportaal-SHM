@@ -603,17 +603,23 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Neerlegging en bekendmaking splitsingsvoorstel.htm" />
         <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Wijziging statuten.htm" />
+        <TocEntry
           Title="Personeelszaken"
           Link="/Content/Traject SHM/Partiële/Personeelszaken.htm">
           <TocEntry
             Title="New Entry" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Partiële/Personeelsleden.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Partiële/Gevolgen cao 32bis.htm" />
         </TocEntry>
         <TocEntry
           Title="Buitengewone vergadering voorbereiden"
           Link="/Content/Traject SHM/Partiële/Informeren aandeelhouders en aandeelhoudersregister.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Partiële/Wijziging statuten.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Partiële/Nieuwe RvB en AV.htm" />
