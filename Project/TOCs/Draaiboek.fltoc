@@ -514,6 +514,9 @@
             Link="/Content/Traject SHM/Splitsing/Informeren aandeelhouders en aandeelhoudersregister.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Splitsing/Uittreding of inkoop van eigen aandelen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Splitsing/Uitnodiging en agenda.htm" />
         </TocEntry>
         <TocEntry
