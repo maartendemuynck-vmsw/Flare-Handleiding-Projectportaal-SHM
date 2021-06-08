@@ -524,6 +524,9 @@
           Link="/Content/Traject SHM/Splitsing/Buitengewone algemene vergadering.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Informeer tijdig de toezichthouder 2.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Bekendmaking.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
