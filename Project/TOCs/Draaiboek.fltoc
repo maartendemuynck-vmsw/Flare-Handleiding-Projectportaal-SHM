@@ -265,9 +265,6 @@
     Title="Trajecten voor SHM's"
     Link="/Content/Trajecten voor SHM's.htm">
     <TocEntry
-      Title="Keuze van procedure"
-      Link="/Content/Traject SHM/Keuze van procedure.htm"></TocEntry>
-    <TocEntry
       Title="Fusie"
       Link="/Content/Traject SHM/Fusie/Fusie.htm">
       <TocEntry
