@@ -470,6 +470,9 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Informeer de toezichthouder.htm" />
         <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Wijziging staturen.htm" />
+        <TocEntry
           Title="Personeelszaken">
           <TocEntry
             Title="Uw personeelsleden"
@@ -478,8 +481,6 @@
         <TocEntry
           Title="Buitengewone algemene vergadering voorbereiden"
           Link="/Content/Traject SHM/Splitsing/Buitengewone algemene vergadering voorbereiden.htm">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]" />
           <TocEntry
             Title="Nieuwe RvB en AV"
             Link="/Content/Traject SHM/Splitsing/Nieuwe raad van bestuur en algemene vergadering samenstellen.htm" />
