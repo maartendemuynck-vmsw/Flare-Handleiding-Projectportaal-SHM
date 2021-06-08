@@ -404,7 +404,8 @@
           Link="/Content/Traject SHM/Fusie/Gevolgen lopende overeenkomsten.htm" />
       </TocEntry>
       <TocEntry
-        Title="Splitsing">
+        Title="Splitsing"
+        Link="/Content/Traject SHM/Splitsing/Splitsing.htm">
         <TocEntry
           Title="Toepassingsgebied"
           Link="/Content/Traject SHM/Splitsing/Toepassingsgebied.htm">
@@ -522,6 +523,9 @@
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Buitengewone algemene vergadering.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Informeer tijdig de toezichthouder 2.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Bekendmaking.htm" />
