@@ -414,7 +414,8 @@
           Link="/Content/Traject SHM/Splitsing/Splitsingsformule.htm" />
       </TocEntry>
       <TocEntry
-        Title="Fiscale aspecten">
+        Title="Fiscale aspecten"
+        Link="/Content/Traject SHM/Splitsing/Fiscale aspecten.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Inkomstenbelasting.htm" />
@@ -616,14 +617,19 @@
           Link="/Content/Traject SHM/Partiële/Anderen.htm" />
       </TocEntry>
       <TocEntry
-        Title="Buitengewone vergadering voorbereiden"
-        Link="/Content/Traject SHM/Partiële/Informeren aandeelhouders en aandeelhoudersregister.htm">
+        Title="Buitengewone vergadering voorbereiden">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Nieuwe RvB en AV.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Recente jaarrekening en controleverslag.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Informeren aandeelhouders en aandeelhoudersregister.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Partiële splitsing en erkenning woonmaatschappij.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Uitnodiging en agenda.htm" />
