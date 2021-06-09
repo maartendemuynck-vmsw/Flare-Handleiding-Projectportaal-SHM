@@ -749,7 +749,8 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Algemeenheid/Overdracht ten bezwarende titel.htm" />
       <TocEntry
-        Title="Fiscale aspecten">
+        Title="Fiscale aspecten"
+        Link="/Content/Traject SHM/Algemeenheid/Fiscale aspecten.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Algemeenheid/Inkomstenbelasting.htm" />
@@ -780,9 +781,17 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Algemeenheid/Neerlegging en bekendmaking.htm" />
       <TocEntry
-        Title="Personeelszaken">
+        Title="Personeelszaken"
+        Link="/Content/Traject SHM/Algemeenheid/personeelszaken.htm">
         <TocEntry
-          Title="New Entry" />
+          Title="uw personeelsleden"
+          Link="/Content/Traject SHM/Algemeenheid/uw personeelsleden.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Gevolgen van cao 32bis.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Algemeenheid/Anderen.htm" />
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
