@@ -706,13 +706,7 @@
           Link="/Content/Traject SHM/Bedrijfstak/Gevolgen cao 32 bis.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Bedrijfstak/Dienst voor preventie en bescherming.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Bedrijfstak/Kinderbijslagfonds.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Bedrijfstak/RVA.htm" />
+          Link="/Content/Traject SHM/Bedrijfstak/Anderen.htm" />
       </TocEntry>
       <TocEntry
         Title="Raden van bestuur"
