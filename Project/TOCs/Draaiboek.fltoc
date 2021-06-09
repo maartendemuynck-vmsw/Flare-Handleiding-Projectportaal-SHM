@@ -407,9 +407,8 @@
         Title="Toepassingsgebied"
         Link="/Content/Traject SHM/Splitsing/Toepassingsgebied.htm">
         <TocEntry
-          Title="[%=System.LinkedTitle%]" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]" />
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Maatschappijen met verschillende rechtsvormen.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Splitsingsformule.htm" />
