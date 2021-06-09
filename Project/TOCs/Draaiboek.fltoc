@@ -414,7 +414,8 @@
           Link="/Content/Traject SHM/Splitsing/Splitsingsformule.htm" />
       </TocEntry>
       <TocEntry
-        Title="Fiscale aspecten">
+        Title="Fiscale aspecten"
+        Link="/Content/Traject SHM/Splitsing/Fiscale aspecten.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Inkomstenbelasting.htm" />
