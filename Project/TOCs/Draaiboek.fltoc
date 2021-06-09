@@ -680,6 +680,9 @@
           Link="/Content/Traject SHM/Bedrijfstak/Formule.htm" />
       </TocEntry>
       <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Bedrijfstak/Vaststelling van de prijs.htm" />
+      <TocEntry
         Title="Fiscale aspecten">
         <TocEntry
           Title="Inkomstenbelasting"
