@@ -683,7 +683,8 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Bedrijfstak/Vaststelling van de prijs.htm" />
       <TocEntry
-        Title="Fiscale aspecten">
+        Title="Fiscale aspecten"
+        Link="/Content/Traject SHM/Bedrijfstak/Fiscale aspecten bedrijfstak.htm">
         <TocEntry
           Title="Inkomstenbelasting"
           Link="/Content/Traject SHM/Bedrijfstak/Inkomstenbelastying.htm"
@@ -712,9 +713,29 @@
         Title="Neerlegging en bekendmaking"
         Link="/Content/Traject SHM/Bedrijfstak/Neerlegging en bekandmaking.htm" />
       <TocEntry
-        Title="Personeelszaken">
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Bedrijfstak/Reactietijd toezichthouder.htm" />
+      <TocEntry
+        Title="Personeelszaken"
+        Link="/Content/Traject SHM/Bedrijfstak/Personeelszaken.htm">
         <TocEntry
-          Title="New Entry" />
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Bedrijfstak/Personeelsleden.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Bedrijfstak/Gevolgen cao 32 bis.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Sociaal secretariaat.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Bedrijfstak/Dienst voor preventie en bescherming.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Bedrijfstak/Kinderbijslagfonds.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Bedrijfstak/RVA.htm" />
       </TocEntry>
       <TocEntry
         Title="Raden van bestuur"
