@@ -630,7 +630,17 @@
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SHM/Partiële/Buitengewone algemene vergadering.htm" />
+        Link="/Content/Traject SHM/Partiële/Buitengewone algemene vergadering.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Aanwezigheid en meerderheid.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Notulen bij notariële akte laten vaststellen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Toezichthouder.htm" />
+      </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Partiële/Bekendmaking.htm" />
