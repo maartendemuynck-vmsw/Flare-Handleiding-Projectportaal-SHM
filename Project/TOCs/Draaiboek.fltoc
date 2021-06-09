@@ -439,8 +439,7 @@
             Title="[%=System.LinkedTitle%]" />
         </TocEntry>
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Splitsingsvoorstel.htm" />
+          Title="[%=System.LinkedTitle%]" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Bijzonder schriftelijk verslag.htm" />
@@ -453,6 +452,9 @@
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Uitnodiging raden van bestuur.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Splitsingsvoorstel.htm" />
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
