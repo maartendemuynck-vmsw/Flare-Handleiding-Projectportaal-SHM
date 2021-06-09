@@ -444,8 +444,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Bijzonder schriftelijk verslag.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Controleverslag bedrijfsrevisor.htm" />
+          Title="[%=System.LinkedTitle%]" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Bijzonder verslag wijziging rechten verbonden aan soorten aandelen.htm" />
@@ -455,6 +454,9 @@
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Splitsingsvoorstel.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Controleverslag van de bedrijfsrevisor.htm" />
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
