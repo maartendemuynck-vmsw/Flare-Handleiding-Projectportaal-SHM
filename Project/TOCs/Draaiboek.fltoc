@@ -467,6 +467,8 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Splitsing/Wijziging statuten.htm" />
       <TocEntry
+        Title="[%=System.LinkedTitle%]" />
+      <TocEntry
         Title="Personeelszaken"
         Link="/Content/Traject SHM/Splitsing/Personeelszaken.htm">
         <TocEntry
