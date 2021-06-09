@@ -706,9 +706,6 @@
           Link="/Content/Traject SHM/Bedrijfstak/Gevolgen cao 32 bis.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Sociaal secretariaat.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Bedrijfstak/Dienst voor preventie en bescherming.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
