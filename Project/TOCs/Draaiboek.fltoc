@@ -427,13 +427,8 @@
           Link="/Content/Traject SHM/Splitsing/Btw.htm" />
       </TocEntry>
       <TocEntry
-        Title="Waardering van de aandelen">
-        <TocEntry
-          Title="New Entry" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Bepaling ruilverhouding.htm" />
-      </TocEntry>
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Splitsing/Bepaling ruilverhouding.htm" />
       <TocEntry
         Title="Voorbereiding raad van bestuur"
         Link="/Content/Traject SHM/Splitsing/Voorbereiding raad van bestuur.htm">
