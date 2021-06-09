@@ -693,7 +693,8 @@
         Title="Neerlegging en bekendmaking"
         Link="/Content/Traject SHM/Bedrijfstak/Neerlegging en bekandmaking.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]" />
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Bedrijfstak/Reactietijd toezichthouder.htm" />
       <TocEntry
         Title="Personeelszaken"
         Link="/Content/Traject SHM/Bedrijfstak/Personeelszaken.htm">
@@ -725,9 +726,6 @@
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Bedrijfstak/Gevolgen lopende overeenkomsten.htm" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SHM/Bedrijfstak/Reactietijd toezichthouder.htm" />
     </TocEntry>
     <TocEntry
       Title="Overdracht van algemeenheid"
