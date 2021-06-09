@@ -653,11 +653,13 @@
         Title="Toepassingsgebied"
         Link="/Content/Traject SHM/Bedrijfstak/Toepassingsgebied.htm">
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Bedrijfstak/Maatschappijen met verschillende rechtsvormen.htm" />
+          Title="[%=System.LinkedTitle%]" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Bedrijfstak/Formule.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Bedrijfstak/Maatschappijen met verschillende rechtsvormen.htm" />
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
