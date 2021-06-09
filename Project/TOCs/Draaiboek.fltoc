@@ -439,24 +439,20 @@
             Title="[%=System.LinkedTitle%]" />
         </TocEntry>
         <TocEntry
-          Title="[%=System.LinkedTitle%]" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Bijzonder schriftelijk verslag.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Bijzonder verslag wijziging rechten verbonden aan soorten aandelen.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Splitsing/Uitnodiging raden van bestuur.htm" />
-        <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Splitsingsvoorstel.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Bijzonder schriftelijk verslag.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Splitsing/Controleverslag van de bedrijfsrevisor.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Het bijzonder verslag wijziging van de rechten verbonden aan soorten aandelen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Uitnodiging raden van bestuur.htm" />
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
