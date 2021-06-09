@@ -746,6 +746,9 @@
           Link="/Content/Traject SHM/Algemeenheid/Formule.htm" />
       </TocEntry>
       <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Algemeenheid/Overdracht ten bezwarende titel.htm" />
+      <TocEntry
         Title="Fiscale aspecten">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
