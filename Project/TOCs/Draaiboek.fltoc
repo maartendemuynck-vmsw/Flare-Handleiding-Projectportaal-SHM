@@ -628,6 +628,9 @@
           Link="/Content/Traject SHM/Partiële/Informeren aandeelhouders en aandeelhoudersregister.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Partiële splitsing en erkenning woonmaatschappij.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Uitnodiging en agenda.htm" />
       </TocEntry>
       <TocEntry
