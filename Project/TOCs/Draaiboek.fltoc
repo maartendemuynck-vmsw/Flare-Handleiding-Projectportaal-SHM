@@ -464,6 +464,8 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Splitsing/Informeer de toezichthouder.htm" />
       <TocEntry
+        Title="[%=System.LinkedTitle%]" />
+      <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Splitsing/Wijziging statuten.htm" />
       <TocEntry
