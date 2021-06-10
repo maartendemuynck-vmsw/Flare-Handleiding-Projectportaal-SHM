@@ -71,7 +71,8 @@
         Link="/Content/Woonmaatschappijen/Opdrachten/Participatiemogelijkheden.htm" />
     </TocEntry>
     <TocEntry
-      Title="Werkingsgebieden">
+      Title="Werkingsgebieden"
+      Link="/Content/Woonmaatschappijen/Werkingsgebieden/Werkingsgebieden.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Woonmaatschappijen/Werkingsgebieden/Referentieregio's.htm" />
