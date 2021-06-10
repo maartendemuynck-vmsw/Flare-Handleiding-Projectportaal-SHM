@@ -733,14 +733,14 @@
         Title="Toepassingsgebied"
         Link="/Content/Traject SHM/Algemeenheid/Toepassingsgebied.htm">
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Maatschappijen met verschillende rechtvormen"
           Link="/Content/Traject SHM/Algemeenheid/Maatschappijen met verschillende rechtsvormen.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Formule"
           Link="/Content/Traject SHM/Algemeenheid/Formule.htm" />
       </TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Vaststelling van de prijs"
         Link="/Content/Traject SHM/Algemeenheid/Overdracht ten bezwarende titel.htm" />
       <TocEntry
         Title="Fiscale aspecten"
@@ -765,14 +765,14 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Algemeenheid/Bijzonder schriftelijk verslag.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Uitnodiging raden van bestuur"
           Link="/Content/Traject SHM/Algemeenheid/Uitnodiging raden van bestuur.htm" />
       </TocEntry>
       <TocEntry
         Title="Bijeenkomsten raden van bestuur"
         Link="/Content/Traject SHM/Algemeenheid/Bijeenkomsten raden van bestuur.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Neerlegging en bekendmaking"
         Link="/Content/Traject SHM/Algemeenheid/Neerlegging en bekendmaking.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
