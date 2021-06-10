@@ -707,6 +707,9 @@
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Bedrijfstak/Anderen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Bedrijfstak/Uw sociaal secretariaat.htm" />
       </TocEntry>
       <TocEntry
         Title="Raden van bestuur"
