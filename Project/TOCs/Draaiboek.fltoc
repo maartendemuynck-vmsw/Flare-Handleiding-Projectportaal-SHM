@@ -229,7 +229,8 @@
     </TocEntry>
   </TocEntry>
   <TocEntry
-    Title="Voorbereidende handelingen">
+    Title="Voorbereidende handelingen"
+    Link="/Content/Voorbereidende handelingen/Voorbereidende handelingen.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Voorbereidende handelingen/Verkenningsfase.htm" />
@@ -263,7 +264,7 @@
   </TocEntry>
   <TocEntry
     Title="Trajecten voor SHM's"
-    Link="/Content/Trajecten voor SHM's.htm">
+    Link="/Content/Traject SHM/Trajecten voor SHM's.htm">
     <TocEntry
       Title="Fusie"
       Link="/Content/Traject SHM/Fusie/Fusie.htm">
@@ -279,7 +280,7 @@
       </TocEntry>
       <TocEntry
         Title="Fiscale aspecten"
-        Link="/Content/Fiscale aspecten.htm">
+        Link="/Content/Traject SVK vzw/Fusie/Fiscale aspecten.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Fusie/Inkomstenbelasting.htm" />
@@ -351,7 +352,7 @@
         Link="/Content/Traject SHM/Fusie/Voorbereiding statutenwijziging.htm" />
       <TocEntry
         Title="Voorbereiding algemene vergadering"
-        Link="/Content/Voorbereiding algemene vergadering.htm">
+        Link="/Content/Traject SVK vzw/Fusie/Voorbereiding algemene vergadering.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Fusie/Nieuwe RvB en AV.htm" />
@@ -373,7 +374,7 @@
         Link="/Content/Traject SHM/Fusie/Buitengewone algemene vergadering.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Aanwezigheid en meerderheid.htm" />
+          Link="/Content/Traject SVK vzw/Fusie/Aanwezigheid en meerderheid.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Fusie/Notulen bij notariële akte.htm" />
