@@ -791,7 +791,7 @@
           Link="/Content/Traject SHM/Algemeenheid/uw personeelsleden.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Gevolgen van cao 32bis.htm" />
+          Link="/Content/Traject SHM/Algemeenheid/Gevolgen van cao 32bis.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Algemeenheid/Anderen.htm"></TocEntry>
