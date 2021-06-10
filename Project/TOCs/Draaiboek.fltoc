@@ -111,10 +111,10 @@
           Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Overdrachten.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Beperkingen.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Lopende Financiering.htm" />
+        <TocEntry
+          Title="Vaststelling van de kostprijs van de overdracht"
+          Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Beperkingen.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Financiering overdrachten.htm" />
