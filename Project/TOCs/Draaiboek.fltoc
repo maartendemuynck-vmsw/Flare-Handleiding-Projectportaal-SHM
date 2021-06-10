@@ -458,6 +458,8 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Splitsing/Bijeenkomst raden van bestuur.htm" />
       <TocEntry
+        Title="[%=System.LinkedTitle%]" />
+      <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Splitsing/Neerlegging en bekendmaking splitsingsvoorstel.htm" />
       <TocEntry
