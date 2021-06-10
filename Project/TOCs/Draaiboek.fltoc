@@ -90,7 +90,8 @@
       Title="Fiscale gunsttarieven"
       Link="/Content/Woonmaatschappijen/Fiscale tarieven/Fiscale gunsttarieven.htm" />
     <TocEntry
-      Title="Nieuw opgerichte woonmaatschappij">
+      Title="Nieuw opgerichte woonmaatschappij"
+      Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Nieuw opgerichte woonmaatschappijen.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Erkenning.htm" />
