@@ -247,7 +247,8 @@
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Voorbereidende handelingen/Plan van aanpak.htm" />
     <TocEntry
-      Title="Aandachtspunten">
+      Title="Aandachtspunten"
+      Link="/Content/Voorbereidende handelingen/Aandachtspunten.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Voorbereidende handelingen/Boekenonderzoek.htm" />
