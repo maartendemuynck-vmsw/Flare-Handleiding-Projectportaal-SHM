@@ -82,9 +82,6 @@
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Woonmaatschappijen/Werkingsgebieden/Statutaire en werkelijke zetel.htm" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Woonmaatschappijen/Werkingsgebieden/Beperkingen sociale woonbeleidscovenanten.htm" />
     </TocEntry>
     <TocEntry
       Title="Rechtsvorm"
