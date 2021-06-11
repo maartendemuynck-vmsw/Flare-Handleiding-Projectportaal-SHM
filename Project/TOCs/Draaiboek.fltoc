@@ -1033,6 +1033,9 @@
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Toepassingsgebied.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Vaststelling van de prijs.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Fiscale aspecten.htm" />
         <TocEntry
           Title="Voorbereiden raad van bestuur"
