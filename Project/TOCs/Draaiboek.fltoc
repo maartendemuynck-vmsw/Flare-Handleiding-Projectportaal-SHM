@@ -1060,6 +1060,9 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Neerlegging en bekendmaking voorstel.htm" />
         <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Informeer toezichthouder.htm" />
+        <TocEntry
           Title="Personeelszaken">
           <TocEntry
             Title="New Entry" />
