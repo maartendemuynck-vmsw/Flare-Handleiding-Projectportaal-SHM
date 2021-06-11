@@ -1063,9 +1063,17 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Informeer toezichthouder.htm" />
         <TocEntry
-          Title="Personeelszaken">
+          Title="Personeelszaken"
+          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Personeelzaken.htm">
           <TocEntry
-            Title="New Entry" />
+            Title="Anderen"
+            Link="/Content/Traject SVK vzw/overdracht algemeenheid/Anderen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Gevolgen cao 32 bis.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/overdracht algemeenheid/Uw personeelsleden.htm" />
         </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
