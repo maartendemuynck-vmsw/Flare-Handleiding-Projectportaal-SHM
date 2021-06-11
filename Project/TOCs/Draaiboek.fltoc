@@ -1108,6 +1108,9 @@
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Inwerkingtreding.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Overdracht om niet.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Tegenwerpbaarheid.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
