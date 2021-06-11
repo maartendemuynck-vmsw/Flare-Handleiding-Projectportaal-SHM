@@ -335,6 +335,9 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Fusie/Toezichthouder informeren.htm" />
       <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Fusie/Nieuw opgerichte woonmaatschappijen.htm" />
+      <TocEntry
         Title="Personeelszaken"
         Link="/Content/Traject SHM/Fusie/Personeelszaken.htm">
         <TocEntry
