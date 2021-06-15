@@ -1132,6 +1132,9 @@
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Entiteiten verschillende rechtsvormen.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Formule.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Fiscale aspecten.htm" />
         <TocEntry
           Title="Voorbereiden raad van bestuur"
@@ -1153,7 +1156,8 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Neerlegging en bekendmaking voorstel.htm" />
         <TocEntry
-          Title="Personeelszaken">
+          Title="Personeelszaken"
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Personeelszaken.htm">
           <TocEntry
             Title="New Entry" />
         </TocEntry>
