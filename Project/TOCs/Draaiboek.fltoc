@@ -1148,20 +1148,30 @@
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Staat van activa en passiva.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Uitnodiging raden van bestuur.htm" />
         </TocEntry>
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Uitnodiging raden van bestuur.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Bijeenkomsten raden van bestuur.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]" />
         <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Toezichthouder.htm" />
+        <TocEntry
           Title="Personeelszaken"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Personeelszaken.htm">
           <TocEntry
-            Title="New Entry" />
+            Title="Uw personeelsleden"
+            Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Uw personeelsleden.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Gevolgen cao.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Anderen.htm" />
         </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
