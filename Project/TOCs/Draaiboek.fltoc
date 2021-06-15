@@ -1156,8 +1156,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Bijeenkomsten raden van bestuur.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Neerlegging en bekendmaking voorstel.htm" />
+          Title="[%=System.LinkedTitle%]" />
         <TocEntry
           Title="Personeelszaken"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Personeelszaken.htm">
