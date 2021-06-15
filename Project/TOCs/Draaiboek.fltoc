@@ -629,10 +629,10 @@
           Link="/Content/Traject SHM/Partiële/Toezichthouder.htm" />
       </TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Bekendmaking"
         Link="/Content/Traject SHM/Partiële/Bekendmaking.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Inwerkingtreding"
         Link="/Content/Traject SHM/Partiële/Datum van inwerkingtreding.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
