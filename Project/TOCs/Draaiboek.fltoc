@@ -569,7 +569,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Controleverslag bedrijfsrevisor.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Het bijzonder verslag wijziging rechten verbonden aan soorten aandelen"
           Link="/Content/Traject SHM/Partiële/Bijzonder verslag wijzigingen rechten verbonden aan soorten aandelen.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -588,13 +588,13 @@
         Title="Personeelszaken"
         Link="/Content/Traject SHM/Partiële/Personeelszaken.htm">
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Uw personeelsleden"
           Link="/Content/Traject SHM/Partiële/Personeelsleden.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Gevolgen cao 32bis.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Anderen"
           Link="/Content/Traject SHM/Partiële/Anderen.htm" />
       </TocEntry>
       <TocEntry
