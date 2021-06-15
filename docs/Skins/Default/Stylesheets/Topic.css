@@ -431,35 +431,43 @@ div.MCBreadcrumbsBox_0
 	text-decoration: underline;
 }
 
-.dropDownHotspot
+.a
+{
+	color: #23789c;
+	text-decoration: underline;
+	text-decoration-skip: ink;
+	cursor: pointer;
+	text-decoration-skip-ink: auto;
+}
+
+.a:link
+{
+	text-decoration: underline;
+	color: blue;
+}
+
+.a:visited
+{
+	text-decoration: underline;
+	color: purple;
+}
+
+.a:hover
 {
 	text-decoration: none;
+	color: #15465b;
 }
 
-.dropDownHotspot:link
+.a:active
+{
+	outline: thin dotted invert;
+}
+
+.a:focus
 {
 	text-decoration: none;
-}
-
-.MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('DropDownOpen.gif');
-	padding-left: 1px;
-	padding-right: 0;
-}
-
-.MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('DropDownClosed.gif');
-	padding-left: 0px;
-	padding-right: 0;
-}
-
-.dropDownHead
-{
-	text-decoration: none;
+	color: #15465b;
+	outline: auto #001328 3px;
 }
 
 .MCWebHelpFramesetLink a

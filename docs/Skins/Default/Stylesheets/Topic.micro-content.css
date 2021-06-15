@@ -431,35 +431,43 @@
 	text-decoration: underline;
 }
 
-.micro-response .dropDownHotspot
+.micro-response .a
+{
+	color: #23789c;
+	text-decoration: underline;
+	text-decoration-skip: ink;
+	cursor: pointer;
+	text-decoration-skip-ink: auto;
+}
+
+.micro-response .a:link
+{
+	text-decoration: underline;
+	color: blue;
+}
+
+.micro-response .a:visited
+{
+	text-decoration: underline;
+	color: purple;
+}
+
+.micro-response .a:hover
 {
 	text-decoration: none;
+	color: #15465b;
 }
 
-.micro-response .dropDownHotspot:link
+.micro-response .a:active
+{
+	outline: thin dotted invert;
+}
+
+.micro-response .a:focus
 {
 	text-decoration: none;
-}
-
-.micro-response .MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('DropDownOpen.gif');
-	padding-left: 1px;
-	padding-right: 0;
-}
-
-.micro-response .MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('DropDownClosed.gif');
-	padding-left: 0px;
-	padding-right: 0;
-}
-
-.micro-response .dropDownHead
-{
-	text-decoration: none;
+	color: #15465b;
+	outline: auto #001328 3px;
 }
 
 .micro-response .MCWebHelpFramesetLink a
