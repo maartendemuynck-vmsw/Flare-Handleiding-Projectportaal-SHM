@@ -1135,6 +1135,9 @@
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Formule.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Overdracht bezwarenden titel.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Fiscale aspecten.htm" />
         <TocEntry
           Title="Voorbereiden raad van bestuur"
