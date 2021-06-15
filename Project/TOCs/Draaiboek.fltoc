@@ -1056,10 +1056,10 @@
             Link="/Content/Traject SVK vzw/overdracht algemeenheid/Uitnodiging raden van bestuur.htm" />
         </TocEntry>
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Bijeenkomsten raden van bestuur"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Bijeenkomsten raden van bestuur.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Neerlegging en bekendmaking voorstel"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Neerlegging en bekendmaking voorstel.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -1103,19 +1103,19 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Notariële overdrachtsakte.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Informeer toezichthouder"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Informeer de toezichthouder.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Inwerkingtreding"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Inwerkingtreding.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Nettoactief onbeschikbare reserverekening"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Overdracht om niet.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Tegenwerpbaarheid"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Tegenwerpbaarheid.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Rechtsgevolgen"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Rechtsgevolgen.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -1172,7 +1172,13 @@
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Notariële overdrachtsakte.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Informeer toezichthouder.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Inwerkingtreding.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Nettoactief onbeschikbare reserverekening.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Tegenwerpbaarheid.htm" />
