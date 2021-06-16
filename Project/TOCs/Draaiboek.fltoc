@@ -966,6 +966,9 @@
     Title="Trajecten voor SVK-vzw's"
     Link="/Content/Traject SVK vzw's.htm">
     <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Traject SVK vzw.htm" />
+    <TocEntry
       Title="Voorafgaande Splitsing"
       Link="/Content/Traject SVK vzw/Splitsing/Splitsing.htm">
       <TocEntry
@@ -1026,7 +1029,7 @@
     </TocEntry>
     <TocEntry
       Title="Overdrachten van een SVK aan een SHM of WM"
-      Link="/Content/Traject SVK vzw/Overdrachten SVK aan SHM-WM.htm">
+      Link="/Content/Traject SVK vzw/overdracht algemeenheid/Overdrachten SVK aan SHM-WM.htm">
       <TocEntry
         Title="Overdracht van algemeenheid"
         Link="/Content/Traject SVK vzw/overdracht algemeenheid/Overdracht van algemeenheid.htm">
@@ -1180,9 +1183,6 @@
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Notariële overdrachtsakte.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Inwerkingtreding.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Tegenwerpbaarheid.htm" />
