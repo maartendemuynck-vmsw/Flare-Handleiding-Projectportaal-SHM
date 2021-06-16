@@ -1128,7 +1128,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Toepassingsgebied.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Entiteiten met verschillende rechtsvormen"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Entiteiten verschillende rechtsvormen.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -1189,10 +1189,10 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Nettoactief onbeschikbare reserverekening.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Tegenwerpbaarheid"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Tegenwerpbaarheid.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Rechtsgevolgen"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Rechtsgevolgen.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
