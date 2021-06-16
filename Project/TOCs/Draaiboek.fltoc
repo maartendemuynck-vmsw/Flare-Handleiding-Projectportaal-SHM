@@ -1298,10 +1298,14 @@
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Overdracht van bedrijfstak.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/bedrijfstak/Toepassingsgebied.htm" />
+          Link="/Content/Welzijnsverenigingen/bedrijfstak/Toepassingsgebied.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/bedrijfstak/Formule.htm" />
+        </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/bedrijfstak/Fiscale aspecten.htm" />
+          Link="/Content/Welzijnsverenigingen/bedrijfstak/Vaststelling van de prijs.htm" />
         <TocEntry
           Title="Voorbereiden raad van bestuur"
           Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorbereiden raad van bestuur.htm">
@@ -1318,6 +1322,9 @@
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/bedrijfstak/Bijeenkomsten raden van bestuur.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/bedrijfstak/Fiscale aspecten.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/bedrijfstak/Neerlegging en bekendmaking voorstel.htm" />
