@@ -1324,15 +1324,13 @@
           Link="/Content/Welzijnsverenigingen/bedrijfstak/Bijeenkomsten raden van bestuur.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/bedrijfstak/Fiscale aspecten.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/bedrijfstak/Neerlegging en bekendmaking voorstel.htm" />
         <TocEntry
-          Title="Personeelszaken">
-          <TocEntry
-            Title="New Entry" />
-        </TocEntry>
+          Title="Informeer de toezichthouder"
+          Link="/Content/Welzijnsverenigingen/bedrijfstak/Informeer de toezichthouder.htm" />
+        <TocEntry
+          Title="Personeelszaken"
+          Link="/Content/Welzijnsverenigingen/bedrijfstak/Personeelszaken.htm"></TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/bedrijfstak/Raden van bestuur.htm" />
@@ -1341,7 +1339,13 @@
           Link="/Content/Welzijnsverenigingen/bedrijfstak/Notariële overdrachtsakte.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/bedrijfstak/Informeer tijdig de toezichthouder.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/bedrijfstak/Inwerkingtreding.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/bedrijfstak/Nettoactief onbeschikbare reserverekening.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/bedrijfstak/Tegenwerpbaarheid.htm" />
