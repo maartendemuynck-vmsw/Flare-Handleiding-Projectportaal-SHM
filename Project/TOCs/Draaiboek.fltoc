@@ -1241,10 +1241,14 @@
         Link="/Content/Welzijnsverenigingen/Overdracht van algemeenheid.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/Fiscale aspecten.htm" />
+          Link="/Content/Welzijnsverenigingen/Toepassingsgebied.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/Formule.htm" />
+        </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/Toepassingsgebied.htm" />
+          Link="/Content/Welzijnsverenigingen/Fiscale aspecten.htm" />
         <TocEntry
           Title="Voorbereiden raad van bestuur"
           Link="/Content/Welzijnsverenigingen/Voorbereiden raad van bestuur.htm">
