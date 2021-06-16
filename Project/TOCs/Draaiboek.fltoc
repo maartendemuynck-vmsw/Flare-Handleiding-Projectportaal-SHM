@@ -1147,8 +1147,11 @@
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Voorstel van overdracht.htm" />
           <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Staat van activa en passiva.htm" />
+            Title="Staat van passiva en activa"
+            Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Staat van activa en passiva.htm"
+            SectionNumberReset="continue"
+            VolumeNumberReset="same"
+            ChapterNumberReset="continue" />
         </TocEntry>
         <TocEntry
           Title="Uitnodiging raden van bestuur"
@@ -1258,16 +1261,16 @@
           Link="/Content/Welzijnsverenigingen/Voorbereiden raad van bestuur.htm">
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Welzijnsverenigingen/Uitnodiging raden van bestuur.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Welzijnsverenigingen/Bijzonder schriftelijk verslag.htm" />
+            Link="/Content/Welzijnsverenigingen/Voorstel van overdracht.htm"></TocEntry>
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Welzijnsverenigingen/Staat van activa en passiva.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Welzijnsverenigingen/Voorstel van overdracht.htm" />
+            Link="/Content/Welzijnsverenigingen/Bijzonder schriftelijk verslag.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/Uitnodiging raden van bestuur.htm" />
         </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -1276,22 +1279,40 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/Neerlegging en bekendmaking voorstel.htm" />
         <TocEntry
-          Title="Personeelszaken">
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/Informeer toezichthouder.htm" />
+        <TocEntry
+          Title="Personeelszaken"
+          Link="/Content/Welzijnsverenigingen/Personeelszaken.htm"></TocEntry>
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/Algemene vergadering voorbereiden.htm">
           <TocEntry
-            Title="New Entry" />
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/Uitnodiging en agenda.htm" />
         </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/Algemene vergadering voorbereiden.htm" />
+          Link="/Content/Welzijnsverenigingen/Bijzonder AV overdragende.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/Aanwezigheid en meerderheid AV.htm" />
+        </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/Raad van bestuur verkrijger.htm" />
+          Link="/Content/Welzijnsverenigingen/(Tweede) rvb verkrijgende.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/Notariële overdrachtsakte.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/Informeer toezicht.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/Inwerkingtreding.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/Overdracht om niet- nettoactief reserverekening.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/Tegenwerpbaarheid.htm" />
