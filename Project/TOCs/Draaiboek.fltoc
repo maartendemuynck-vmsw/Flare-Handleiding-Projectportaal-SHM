@@ -1126,13 +1126,14 @@
         Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Overdracht van bedrijfstak.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Toepassingsgebied.htm" />
-        <TocEntry
-          Title="Entiteiten met verschillende rechtsvormen"
-          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Entiteiten verschillende rechtsvormen.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Formule.htm" />
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Toepassingsgebied.htm">
+          <TocEntry
+            Title="Entiteiten met verschillende rechtsvormen"
+            Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Entiteiten verschillende rechtsvormen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Formule.htm" />
+        </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Overdracht bezwarenden titel.htm" />
@@ -1244,8 +1245,11 @@
           Link="/Content/Welzijnsverenigingen/Toepassingsgebied.htm">
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Welzijnsverenigingen/Formule.htm" />
+            Link="/Content/Welzijnsverenigingen/Formule.htm"></TocEntry>
         </TocEntry>
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/Overdracht bezwarende titel.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/Fiscale aspecten.htm" />
