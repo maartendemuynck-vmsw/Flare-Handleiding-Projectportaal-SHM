@@ -563,8 +563,9 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Bijzonder schriftelijk verslag.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Partiële/Controleverslag bedrijfsrevisor.htm" />
+          Title="Het controleverslag"
+          Link="/Content/Traject SHM/Partiële/Controleverslag bedrijfsrevisor.htm"
+          ReplaceMergeNode="false" />
         <TocEntry
           Title="Het bijzonder verslag wijziging rechten verbonden aan soorten aandelen"
           Link="/Content/Traject SHM/Partiële/Bijzonder verslag wijzigingen rechten verbonden aan soorten aandelen.htm" />
