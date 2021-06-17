@@ -324,9 +324,6 @@
         Link="/Content/Traject SHM/Fusie/Neerlegging en bekendmaking fusievoorstel.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SHM/Fusie/Toezichthouder informeren.htm" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Fusie/Voorbereiding statutenwijziging.htm" />
       <TocEntry
         Title="Personeelszaken"
@@ -380,13 +377,13 @@
         Title="Inwerkingtreding"
         Link="/Content/Traject SHM/Fusie/Datum van inwerkingtreding.htm" />
       <TocEntry
-        Title="Tegenwerpbaarheid van de fusie"
+        Title="Tegenwerpbaarheid"
         Link="/Content/Traject SHM/Fusie/Tegenwerpbaarheid.htm" />
       <TocEntry
-        Title="Rechtsgevolgen van de fusie"
+        Title="Rechtsgevolgen"
         Link="/Content/Traject SHM/Fusie/Rechtsgevolgen.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Praktische opvolging"
         Link="/Content/Traject SHM/Fusie/Praktische opvolging.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
