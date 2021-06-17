@@ -1218,10 +1218,15 @@
   <TocEntry
     Title="Trajecten voor SVK-OCMW's">
     <TocEntry
-      Title="New Entry" />
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/OCMW/bedrijfstak/Overdracht van bedrijfstak.htm">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/test.htm" />
+    </TocEntry>
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/OCMW/individuele/Individuele overdrachten.htm" />
+      Link="/Content/OCMW/individuele/Individuele overdrachten.htm"></TocEntry>
   </TocEntry>
   <TocEntry
     Title="Feitelijk traject">
@@ -1256,16 +1261,10 @@
     Title="Trajecten voor anderen">
     <TocEntry
       Title="Lokale besturen"
-      Link="/Content/Anderen/Lokale besturen/Lokale besturen.htm">
-      <TocEntry
-        Title="New Entry" />
-    </TocEntry>
+      Link="/Content/Anderen/Lokale besturen/Lokale besturen.htm"></TocEntry>
     <TocEntry
       Title="VWF"
-      Link="/Content/Anderen/VWF/VWF.htm">
-      <TocEntry
-        Title="New Entry" />
-    </TocEntry>
+      Link="/Content/Anderen/VWF/VWF.htm"></TocEntry>
     <TocEntry
       Title="VMSW"
       Link="/Content/Anderen/VMSW/VMSW.htm">
