@@ -252,7 +252,7 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Voorbereidende handelingen/Boekenonderzoek.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Voorbereiding overdracht onroerende goederen"
         Link="/Content/Voorbereidende handelingen/Voorbereiding overdracht onroerende goederen.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
