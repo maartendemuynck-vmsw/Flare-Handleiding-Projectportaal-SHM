@@ -1306,9 +1306,6 @@
           Link="/Content/Welzijnsverenigingen/Notariële overdrachtsakte.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/Informeer toezicht.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/Inwerkingtreding.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
