@@ -292,17 +292,8 @@
           Link="/Content/Traject SHM/Fusie/Btw.htm" />
       </TocEntry>
       <TocEntry
-        Title="Waardering van de aandelen">
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Fusie/Ruilverhouding.htm" />
-        <TocEntry
-          Title="Beperkingen sociale onderneming"
-          Link="/Content/Traject SHM/Fusie/Beperkingen sociale onderneming.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Fusie/Nominale vs. economische waarde.htm" />
-      </TocEntry>
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Fusie/Ruilverhouding.htm" />
       <TocEntry
         Title="Voorbereiding raad van bestuur"
         Link="/Content/Traject SHM/Fusie/Voorbereiding raad van bestuur.htm">
