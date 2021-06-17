@@ -316,7 +316,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Fusie/Bijzonder schriftelijk verslag.htm" />
         <TocEntry
-          Title="Controleverslag bedrijfsrevisor"
+          Title="Controleverslag"
           Link="/Content/Traject SHM/Fusie/Controleverslag bedrijfsrevisor.htm" />
         <TocEntry
           Title="Bijzonder verslag wijzigingen rechten verbonden aan soorten aandelen"
@@ -335,8 +335,8 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Fusie/Toezichthouder informeren.htm" />
       <TocEntry
-        Title="Wijziging van de statuten"
-        Link="/Content/Traject SHM/Fusie/Nieuw opgerichte woonmaatschappijen.htm" />
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Fusie/Voorbereiding statutenwijziging.htm" />
       <TocEntry
         Title="Personeelszaken"
         Link="/Content/Traject SHM/Fusie/Personeelszaken.htm">
@@ -350,9 +350,6 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Fusie/Anderen.htm" />
       </TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SHM/Fusie/Voorbereiding statutenwijziging.htm" />
       <TocEntry
         Title="Voorbereiding algemene vergadering"
         Link="/Content/Traject SVK vzw/Fusie/Voorbereiding algemene vergadering.htm">
