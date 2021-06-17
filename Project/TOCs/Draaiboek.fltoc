@@ -1234,9 +1234,6 @@
       Link="/Content/Ondersteuning/Ondersteuning VMSW.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Ondersteuning/Externe begeleiding opstartfase.htm" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
         Link="/Content/Ondersteuning/Externe begeleiding organisatieontwikkeling.htm" />
     </TocEntry>
   </TocEntry>
