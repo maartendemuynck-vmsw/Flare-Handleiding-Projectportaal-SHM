@@ -560,7 +560,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Splitsingsvoorstel.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Bijzonder schriftelijk verslag"
           Link="/Content/Traject SHM/Partiële/Bijzonder schriftelijk verslag.htm" />
         <TocEntry
           Title="Het controleverslag"
@@ -633,10 +633,10 @@
         Title="Inwerkingtreding"
         Link="/Content/Traject SHM/Partiële/Datum van inwerkingtreding.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Tegenwerpbaarheid"
         Link="/Content/Traject SHM/Partiële/Tegenwerpbaarheid.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Rechtsgevolgen"
         Link="/Content/Traject SHM/Partiële/Rechtsgevolgen.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
