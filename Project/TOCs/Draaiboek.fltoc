@@ -140,7 +140,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Algemene vergadering.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Bestuursorgaan"
           Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Bestuursorgaan.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
