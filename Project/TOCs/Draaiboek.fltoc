@@ -651,7 +651,7 @@
         Link="/Content/Traject SHM/Bedrijfstak/Fiscale aspecten bedrijfstak.htm">
         <TocEntry
           Title="Inkomstenbelasting"
-          Link="/Content/Traject SHM/Bedrijfstak/Inkomstenbelastying.htm"
+          Link="/Content/Traject SHM/Bedrijfstak/Inkomstenbelasting.htm"
           ComputeToc="false" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -675,7 +675,7 @@
         Link="/Content/Traject SHM/Bedrijfstak/Bijeenkomsten raden van bestuur.htm" />
       <TocEntry
         Title="Neerlegging en bekendmaking"
-        Link="/Content/Traject SHM/Bedrijfstak/Neerlegging en bekandmaking.htm" />
+        Link="/Content/Traject SHM/Bedrijfstak/Neerlegging en bekendmaking.htm" />
       <TocEntry
         Title="Reactietijd toezichthouder"
         Link="/Content/Traject SHM/Bedrijfstak/Reactietijd toezichthouder.htm" />
