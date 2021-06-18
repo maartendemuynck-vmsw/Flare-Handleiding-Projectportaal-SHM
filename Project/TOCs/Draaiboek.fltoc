@@ -608,9 +608,6 @@
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Notulen bij notariële akte laten vaststellen.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Partiële/Toezichthouder.htm" />
       </TocEntry>
       <TocEntry
         Title="Bekendmaking"
