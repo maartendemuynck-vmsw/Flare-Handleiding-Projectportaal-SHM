@@ -1166,7 +1166,16 @@
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/OCMW/bedrijfstak/Voorstel overdracht.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/OCMW/bedrijfstak/Staat activa en passiva.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/OCMW/bedrijfstak/Uitnodigingen vast bureau en raad van bestuur.htm" />
       </TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/OCMW/bedrijfstak/Bijeenkomsten vast bureau en raad van bestuur.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/OCMW/bedrijfstak/Neerlegging en bekendmaking.htm" />
