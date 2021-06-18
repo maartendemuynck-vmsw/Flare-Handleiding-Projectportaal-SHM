@@ -581,10 +581,11 @@
           Link="/Content/Traject SHM/Partiële/Anderen.htm" />
       </TocEntry>
       <TocEntry
-        Title="Buitengewone vergadering voorbereiden">
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Partiële/Algemene vergadering voorbereiden.htm">
         <TocEntry
           Title="Nieuwe RvB en AV"
-          Link="/Content/Traject SHM/Partiële/Nieuwe RvB en AV.htm" />
+          Link="/Content/Traject SHM/Partiële/Nieuwe RvB en AV.htm"></TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Recente jaarrekening en controleverslag.htm" />
