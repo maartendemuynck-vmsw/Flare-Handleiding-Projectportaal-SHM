@@ -1038,7 +1038,7 @@
         Title="Personeelszaken"
         Link="/Content/Welzijnsverenigingen/Personeelszaken.htm"></TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="De algemene vergadering van de overdragende welzijnsvereniging"
         Link="/Content/Welzijnsverenigingen/Algemene vergadering voorbereiden.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -1046,17 +1046,16 @@
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/Bijzonder AV overdragende.htm">
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/Aanwezigheid en meerderheid AV.htm" />
-      </TocEntry>
+        Link="/Content/Welzijnsverenigingen/Bijzonder AV overdragende.htm"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/(Tweede) rvb verkrijgende.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/Notariële overdrachtsakte.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Welzijnsverenigingen/Toezichthouder.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/Inwerkingtreding.htm" />
