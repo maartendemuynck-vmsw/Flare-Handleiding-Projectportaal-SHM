@@ -1021,17 +1021,17 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/Voorstel van overdracht.htm"></TocEntry>
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Activa en passiva"
           Link="/Content/Welzijnsverenigingen/Staat van activa en passiva.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/Bijzonder schriftelijk verslag.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Uitnodigingen raden van bestuur"
           Link="/Content/Welzijnsverenigingen/Uitnodiging raden van bestuur.htm" />
       </TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Bijeenkomsten raden van bestuur"
         Link="/Content/Welzijnsverenigingen/Bijeenkomsten raden van bestuur.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
