@@ -922,11 +922,11 @@
           Title="Entiteiten met verschillende rechtsvormen"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Entiteiten verschillende rechtsvormen.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Keuze van de formule"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Formule.htm" />
       </TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Vaststelling van de prijs"
         Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Overdracht bezwarenden titel.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
@@ -943,17 +943,17 @@
           SectionNumberReset="continue"
           VolumeNumberReset="same"
           ChapterNumberReset="continue" />
+        <TocEntry
+          Title="Uitnodiging raden van bestuur"
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Uitnodiging raden van bestuur.htm"
+          ReplaceMergeNode="false" />
       </TocEntry>
-      <TocEntry
-        Title="Uitnodiging raden van bestuur"
-        Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Uitnodiging raden van bestuur.htm"
-        ReplaceMergeNode="false" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Bijeenkomsten raden van bestuur.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Toezichthouder.htm" />
+        Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Neerlegging en bekendmaking.htm" />
       <TocEntry
         Title="Personeelszaken"
         Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Personeelszaken.htm">
