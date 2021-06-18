@@ -54,8 +54,8 @@
         Link="/Content/Woonmaatschappijen/Doel/Andere actoren.htm" />
     </TocEntry>
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Woonmaatschappijen/Regelgeving.htm">
+      Title="Regelgeving"
+      StartSection="false">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Woonmaatschappijen/Regelgeving/KT decreet.htm" />
@@ -581,11 +581,10 @@
           Link="/Content/Traject SHM/Partiële/Anderen.htm" />
       </TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SHM/Partiële/Algemene vergadering voorbereiden.htm">
+        Title="Buitengewone vergadering voorbereiden">
         <TocEntry
           Title="Nieuwe RvB en AV"
-          Link="/Content/Traject SHM/Partiële/Nieuwe RvB en AV.htm"></TocEntry>
+          Link="/Content/Traject SHM/Partiële/Nieuwe RvB en AV.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Recente jaarrekening en controleverslag.htm" />
@@ -608,6 +607,9 @@
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Notulen bij notariële akte laten vaststellen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Toezichthouder.htm" />
       </TocEntry>
       <TocEntry
         Title="Bekendmaking"
@@ -1029,16 +1031,19 @@
           Link="/Content/Welzijnsverenigingen/Uitnodiging raden van bestuur.htm" />
       </TocEntry>
       <TocEntry
-        Title="Bijeenkomsten raden van bestuur"
+        Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/Bijeenkomsten raden van bestuur.htm" />
       <TocEntry
-        Title="Neerlegging en bekendmaking"
+        Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/Neerlegging en bekendmaking voorstel.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Welzijnsverenigingen/Informeer toezichthouder.htm" />
       <TocEntry
         Title="Personeelszaken"
         Link="/Content/Welzijnsverenigingen/Personeelszaken.htm"></TocEntry>
       <TocEntry
-        Title="De algemene vergadering van de overdragende welzijnsvereniging"
+        Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/Algemene vergadering voorbereiden.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -1046,16 +1051,17 @@
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/Bijzonder AV overdragende.htm"></TocEntry>
+        Link="/Content/Welzijnsverenigingen/Bijzonder AV overdragende.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/Aanwezigheid en meerderheid AV.htm" />
+      </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/(Tweede) rvb verkrijgende.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/Notariële overdrachtsakte.htm" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/Toezichthouder.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/Inwerkingtreding.htm" />
@@ -1146,7 +1152,52 @@
       Link="/Content/OCMW/bedrijfstak/Overdracht van bedrijfstak.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
+        Link="/Content/OCMW/bedrijfstak/Toepassingsgebied.htm" />
+      <TocEntry
+        Title="Vaststelling van de prijs"
         Link="/Content/test.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/OCMW/bedrijfstak/Voorbereiden vast bureau en raad van bestuur.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/OCMW/bedrijfstak/Bijeenkomsten vast bureau en raad van bestuur.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/OCMW/bedrijfstak/Neerlegging en bekendmaking.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/OCMW/bedrijfstak/Personeelszaken.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/OCMW/bedrijfstak/Voorbereiden raad voor maatschappelijk welzijn.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/OCMW/bedrijfstak/Raad voor maatschappelijk welzijn.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/OCMW/bedrijfstak/(Tweede) raad van bestuur.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/OCMW/bedrijfstak/Notariële overdrachtsakte.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/OCMW/bedrijfstak/Informeer toezichthouder.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/OCMW/bedrijfstak/Inwerkingtreding.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/OCMW/bedrijfstak/Nettoactief onbeschikbare reserverekening.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/OCMW/bedrijfstak/Tegenwerpbaarheid.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/OCMW/bedrijfstak/Rechtsgevolgen.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/OCMW/bedrijfstak/Gevolgen voor lopende overeenkomsten.htm" />
     </TocEntry>
     <TocEntry
       Title="[%=System.LinkedTitle%]"
