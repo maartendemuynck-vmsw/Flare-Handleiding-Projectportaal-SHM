@@ -968,7 +968,7 @@
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Anderen.htm" />
       </TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="(Tweede) raad van bestuur van de betrokken entiteiten"
         Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Raden van bestuur.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
@@ -1158,8 +1158,18 @@
         Title="Vaststelling van de prijs"
         Link="/Content/OCMW/bedrijfstak/Vaststelling prijs.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/OCMW/bedrijfstak/Voorbereiden vast bureau en raad van bestuur.htm" />
+        Title="Voorbereiden vast bureau en raad van bestuur"
+        Link="/Content/OCMW/bedrijfstak/Voorbereiden vast bureau en raad van bestuur.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/OCMW/bedrijfstak/Voorstel overdracht.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/OCMW/bedrijfstak/Staat activa en passiva.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/OCMW/bedrijfstak/Uitnodigingen vast bureau en raad van bestuur.htm" />
+      </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/OCMW/bedrijfstak/Bijeenkomsten vast bureau en raad van bestuur.htm" />
