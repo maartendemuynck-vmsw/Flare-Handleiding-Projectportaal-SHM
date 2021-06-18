@@ -1161,11 +1161,12 @@
         Title="Vaststelling van de prijs"
         Link="/Content/OCMW/bedrijfstak/Vaststelling prijs.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/OCMW/bedrijfstak/Voorbereiden vast bureau en raad van bestuur.htm" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/OCMW/bedrijfstak/Bijeenkomsten vast bureau en raad van bestuur.htm" />
+        Title="Voorbereiden vast bureau en raad van bestuur"
+        Link="/Content/OCMW/bedrijfstak/Voorbereiden vast bureau en raad van bestuur.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/OCMW/bedrijfstak/Voorstel overdracht.htm" />
+      </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/OCMW/bedrijfstak/Neerlegging en bekendmaking.htm" />
