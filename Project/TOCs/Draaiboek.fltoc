@@ -699,13 +699,13 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Bedrijfstak/Notariële overdrachtsakte.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Inwerkingtreding"
         Link="/Content/Traject SHM/Bedrijfstak/Datum van inwerkingtreding.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Tegenwerpbaarheid"
         Link="/Content/Traject SHM/Bedrijfstak/Tegenwerpbaarheid.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Rechtsgevolgen"
         Link="/Content/Traject SHM/Bedrijfstak/Rechtsgevolgen.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
