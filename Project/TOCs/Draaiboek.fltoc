@@ -1029,10 +1029,10 @@
           Link="/Content/Welzijnsverenigingen/Uitnodiging raden van bestuur.htm" />
       </TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Bijeenkomsten raden van bestuur"
         Link="/Content/Welzijnsverenigingen/Bijeenkomsten raden van bestuur.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Neerlegging en bekendmaking"
         Link="/Content/Welzijnsverenigingen/Neerlegging en bekendmaking voorstel.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
