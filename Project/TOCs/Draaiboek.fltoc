@@ -1152,7 +1152,11 @@
       Link="/Content/OCMW/bedrijfstak/Overdracht van bedrijfstak.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/OCMW/bedrijfstak/Toepassingsgebied.htm" />
+        Link="/Content/OCMW/bedrijfstak/Toepassingsgebied.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/OCMW/bedrijfstak/Formule.htm" />
+      </TocEntry>
       <TocEntry
         Title="Vaststelling van de prijs"
         Link="/Content/test.htm" />
