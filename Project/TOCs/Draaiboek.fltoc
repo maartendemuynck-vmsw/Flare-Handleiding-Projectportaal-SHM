@@ -54,8 +54,8 @@
         Link="/Content/Woonmaatschappijen/Doel/Andere actoren.htm" />
     </TocEntry>
     <TocEntry
-      Title="Regelgeving"
-      StartSection="false">
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Woonmaatschappijen/Regelgeving.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Woonmaatschappijen/Regelgeving/KT decreet.htm" />
