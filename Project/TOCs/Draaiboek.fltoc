@@ -1035,9 +1035,6 @@
         Title="Neerlegging en bekendmaking"
         Link="/Content/Welzijnsverenigingen/Neerlegging en bekendmaking voorstel.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/Informeer toezichthouder.htm" />
-      <TocEntry
         Title="Personeelszaken"
         Link="/Content/Welzijnsverenigingen/Personeelszaken.htm"></TocEntry>
       <TocEntry
