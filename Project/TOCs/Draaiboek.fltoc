@@ -1111,8 +1111,7 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Neerlegging en bekendmaking voorstel.htm" />
       <TocEntry
-        Title="Informeer de toezichthouder"
-        Link="/Content/Welzijnsverenigingen/bedrijfstak/Informeer de toezichthouder.htm" />
+        Title="Informeer de toezichthouder" />
       <TocEntry
         Title="Personeelszaken"
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Personeelszaken.htm"></TocEntry>
