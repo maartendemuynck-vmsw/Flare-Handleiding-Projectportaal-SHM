@@ -288,7 +288,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Fusie/Registratierechten.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Btw"
           Link="/Content/Traject SHM/Fusie/Btw.htm" />
       </TocEntry>
       <TocEntry
@@ -364,7 +364,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/Fusie/Aanwezigheid en meerderheid.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Notulen notariële akte"
           Link="/Content/Traject SHM/Fusie/Notulen bij notariële akte.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -786,7 +786,7 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Algemeenheid/Bijzondere algemene vergadering.htm">
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Aanwezigheid en meerderheid"
           Link="/Content/Traject SHM/Algemeenheid/Aanwezigheid en meerderheid AV overdragende.htm" />
       </TocEntry>
       <TocEntry
@@ -878,7 +878,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Tijd tussen voorstel overdracht en bijz AV.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="De uitnodiging en de agenda"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Uitnodiging en agenda.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
