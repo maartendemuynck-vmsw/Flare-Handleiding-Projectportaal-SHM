@@ -1119,7 +1119,7 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Informeer tijdig de toezichthouder.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Datum van inwerkingtreding"
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Inwerkingtreding.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
