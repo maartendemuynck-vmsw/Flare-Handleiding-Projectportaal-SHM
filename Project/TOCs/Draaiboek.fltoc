@@ -158,7 +158,8 @@
       Title="Omgevormde SHM's"
       Link="/Content/Woonmaatschappijen/Omgevormde SHM/SHM's die omgevormd zijn tot woonmaatschappijen.htm">
       <TocEntry
-        Title="Erkenning">
+        Title="Erkenning"
+        Link="/Content/Woonmaatschappijen/Omgevormde SHM/Erkenning.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/SHM's.htm" />
@@ -1145,7 +1146,8 @@
       Link="/Content/Welzijnsverenigingen/individuele overdracht/Individuele.htm"></TocEntry>
   </TocEntry>
   <TocEntry
-    Title="Trajecten voor SVK-OCMW's">
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/OCMW/Trajecten voor SVK-OCMW's.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/OCMW/bedrijfstak/Overdracht van bedrijfstak.htm">
