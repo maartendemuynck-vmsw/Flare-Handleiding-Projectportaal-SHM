@@ -1125,10 +1125,10 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Nettoactief onbeschikbare reserverekening.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Tegenwerpbaarheid"
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Tegenwerpbaarheid.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Rechtsgevolgen"
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Rechtsgevolgen.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
@@ -1192,16 +1192,16 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/OCMW/bedrijfstak/Informeer toezichthouder.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Datum van inwerkingtreding"
         Link="/Content/OCMW/bedrijfstak/Inwerkingtreding.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/OCMW/bedrijfstak/Nettoactief onbeschikbare reserverekening.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Tegenwerpbaarheid"
         Link="/Content/OCMW/bedrijfstak/Tegenwerpbaarheid.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Rechtsgevolgen"
         Link="/Content/OCMW/bedrijfstak/Rechtsgevolgen.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
