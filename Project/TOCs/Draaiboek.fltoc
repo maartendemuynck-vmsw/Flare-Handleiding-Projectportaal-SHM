@@ -200,7 +200,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Aandelen.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Aandeelhouders"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Aandeelhouders.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
