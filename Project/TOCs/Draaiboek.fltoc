@@ -33,7 +33,7 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Huidige situatie/Anderen/VWF.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="VMSW"
         Link="/Content/Huidige situatie/Anderen/VMSW.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
