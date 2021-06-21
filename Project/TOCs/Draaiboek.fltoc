@@ -762,9 +762,6 @@
         Title="Neerlegging en bekendmaking"
         Link="/Content/Traject SHM/Algemeenheid/Neerlegging en bekendmaking.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SHM/Algemeenheid/Toezichthouder tijdig informeren.htm" />
-      <TocEntry
         Title="Personeelszaken"
         Link="/Content/Traject SHM/Algemeenheid/personeelszaken.htm">
         <TocEntry
