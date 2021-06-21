@@ -768,7 +768,7 @@
         Title="Personeelszaken"
         Link="/Content/Traject SHM/Algemeenheid/personeelszaken.htm">
         <TocEntry
-          Title="uw personeelsleden"
+          Title="Uw personeelsleden"
           Link="/Content/Traject SHM/Algemeenheid/uw personeelsleden.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -798,16 +798,16 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Algemeenheid/Notariële overdrachtsakte.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Datum van inwerkingtreding"
         Link="/Content/Traject SHM/Algemeenheid/Datum van inwerkingtreding.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Tegenwerpbaarheid"
         Link="/Content/Traject SHM/Algemeenheid/Tegenwerpbaarheid.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Rechtsgevolgen "
         Link="/Content/Traject SHM/Algemeenheid/Rechtsgevolgen.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Gevolgen voor lopende overeenkomsten"
         Link="/Content/Traject SHM/Algemeenheid/Gevolgen lopende overeenkomsten.htm" />
     </TocEntry>
     <TocEntry
