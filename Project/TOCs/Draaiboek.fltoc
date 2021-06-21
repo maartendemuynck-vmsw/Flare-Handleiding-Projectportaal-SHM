@@ -998,7 +998,8 @@
       Link="/Content/Traject SVK vzw/Individuele contacten/Individuele overdrachten.htm"></TocEntry>
   </TocEntry>
   <TocEntry
-    Title="Trajecten voor SVK-welzijnsverenigingen">
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Welzijnsverenigingen/Trajecten voor SVK-welzijnsverenigingen.htm">
     <TocEntry
       Title="Overdracht van algemeenheid"
       Link="/Content/Welzijnsverenigingen/Overdracht van algemeenheid.htm">
