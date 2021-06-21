@@ -55,7 +55,8 @@
     </TocEntry>
     <TocEntry
       Title="Regelgeving"
-      StartSection="false">
+      StartSection="false"
+      Link="/Content/Woonmaatschappijen/Regelgeving/Regelgeving.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Woonmaatschappijen/Regelgeving/KT decreet.htm" />
