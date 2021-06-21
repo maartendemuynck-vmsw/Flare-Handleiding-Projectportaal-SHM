@@ -1059,7 +1059,7 @@
           Link="/Content/Welzijnsverenigingen/Aanwezigheid en meerderheid AV.htm" />
       </TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="(Tweede) Raad van bestuur van de verkrijgende maatschappij"
         Link="/Content/Welzijnsverenigingen/(Tweede) rvb verkrijgende.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
