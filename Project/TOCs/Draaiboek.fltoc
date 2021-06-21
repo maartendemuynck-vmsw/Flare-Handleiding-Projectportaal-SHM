@@ -1054,11 +1054,7 @@
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/Bijzonder AV overdragende.htm">
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/Aanwezigheid en meerderheid AV.htm" />
-      </TocEntry>
+        Link="/Content/Welzijnsverenigingen/Bijzonder AV overdragende.htm"></TocEntry>
       <TocEntry
         Title="(Tweede) Raad van bestuur van de verkrijgende maatschappij"
         Link="/Content/Welzijnsverenigingen/(Tweede) rvb verkrijgende.htm" />
