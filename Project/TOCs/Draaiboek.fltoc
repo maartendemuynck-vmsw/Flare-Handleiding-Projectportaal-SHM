@@ -97,7 +97,7 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Erkenning.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Schaalgrootte"
         Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Schaalgrootte.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
