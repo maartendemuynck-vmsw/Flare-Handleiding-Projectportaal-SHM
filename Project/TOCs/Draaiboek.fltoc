@@ -362,7 +362,7 @@
           Title="Notulen notariële akte"
           Link="/Content/Traject SHM/Fusie/Notulen bij notariële akte.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Informeer tijdig de toezichthouder"
           Link="/Content/Traject SHM/Fusie/Toezichthouder tijdig informeren.htm" />
       </TocEntry>
       <TocEntry
