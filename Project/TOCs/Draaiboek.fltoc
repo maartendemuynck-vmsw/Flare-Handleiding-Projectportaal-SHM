@@ -1237,10 +1237,7 @@
       Link="/Content/Anderen/VWF/VWF.htm"></TocEntry>
     <TocEntry
       Title="VMSW"
-      Link="/Content/Anderen/VMSW/VMSW.htm">
-      <TocEntry
-        Title="New Entry" />
-    </TocEntry>
+      Link="/Content/Anderen/VMSW/VMSW.htm"></TocEntry>
   </TocEntry>
   <TocEntry
     Title="Ondersteunende maatregelen"
