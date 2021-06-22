@@ -927,7 +927,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Voorstel van overdracht.htm" />
         <TocEntry
-          Title="Staat van passiva en activa"
+          Title="Staat van activa en passiva"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Staat van activa en passiva.htm"
           SectionNumberReset="continue"
           VolumeNumberReset="same"
