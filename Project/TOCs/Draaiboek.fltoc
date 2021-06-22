@@ -159,14 +159,7 @@
       Link="/Content/Woonmaatschappijen/Omgevormde SHM/SHM's die omgevormd zijn tot woonmaatschappijen.htm">
       <TocEntry
         Title="Erkenning"
-        Link="/Content/Woonmaatschappijen/Omgevormde SHM/Erkenning.htm">
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Woonmaatschappijen/Omgevormde SHM/SHM's.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Woonmaatschappijen/Omgevormde SHM/SVK's.htm" />
-      </TocEntry>
+        Link="/Content/Woonmaatschappijen/Omgevormde SHM/Erkenning.htm"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Woonmaatschappijen/Omgevormde SHM/Schaalgrootte.htm" />
