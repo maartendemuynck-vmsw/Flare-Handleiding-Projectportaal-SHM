@@ -1053,16 +1053,16 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/Notariële overdrachtsakte.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Datum van inwerkingtreding"
         Link="/Content/Welzijnsverenigingen/Inwerkingtreding.htm" />
       <TocEntry
         Title="Bij overdracht om niet: nettoactief op een onbeschikbare reserverekening bij overnemende maatschappij"
         Link="/Content/Welzijnsverenigingen/Overdracht om niet- nettoactief reserverekening.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Tegenwerpbaarheid"
         Link="/Content/Welzijnsverenigingen/Tegenwerpbaarheid.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Rechtsgevolgen"
         Link="/Content/Welzijnsverenigingen/Rechtsgevolgen.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
