@@ -1031,7 +1031,7 @@
         Title="Bijeenkomsten raden van bestuur"
         Link="/Content/Welzijnsverenigingen/Bijeenkomsten raden van bestuur.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Neerlegging en bekendmaking"
         Link="/Content/Welzijnsverenigingen/Neerlegging en bekendmaking voorstel.htm" />
       <TocEntry
         Title="Personeelszaken"
@@ -1053,10 +1053,10 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/Notariële overdrachtsakte.htm" />
       <TocEntry
-        Title="Datum van inwerkingtreding"
+        Title="Inwerkingtreding"
         Link="/Content/Welzijnsverenigingen/Inwerkingtreding.htm" />
       <TocEntry
-        Title="Bij overdracht om niet: nettoactief op een onbeschikbare reserverekening bij overnemende maatschappij"
+        Title="Nettoactief op een onbeschikbare reserverekening "
         Link="/Content/Welzijnsverenigingen/Overdracht om niet- nettoactief reserverekening.htm" />
       <TocEntry
         Title="Tegenwerpbaarheid"
