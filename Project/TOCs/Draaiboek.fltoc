@@ -960,7 +960,7 @@
         Title="(Tweede) raad van bestuur van de betrokken entiteiten"
         Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Raden van bestuur.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Notariële overdrachtsakte"
         Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Notariële overdrachtsakte.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
