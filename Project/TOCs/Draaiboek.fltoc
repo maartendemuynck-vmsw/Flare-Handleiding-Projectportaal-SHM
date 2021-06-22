@@ -1215,14 +1215,7 @@
     </TocEntry>
     <TocEntry
       Title="Thematische werkgroepen"
-      Link="/Content/Feitelijk traject/Thematische werkgroepen.htm">
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Feitelijk traject/Mogelijke aanpak.htm" />
-      <TocEntry
-        Title="Werkgroepen volgens de opdrachten"
-        Link="/Content/Feitelijk traject/Werkgroep volgens de opdrachten.htm" />
-    </TocEntry>
+      Link="/Content/Feitelijk traject/Thematische werkgroepen.htm"></TocEntry>
   </TocEntry>
   <TocEntry
     Title="Trajecten voor anderen">
