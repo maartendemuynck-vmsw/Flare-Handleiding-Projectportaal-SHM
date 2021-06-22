@@ -669,9 +669,6 @@
         Title="Neerlegging en bekendmaking"
         Link="/Content/Traject SHM/Bedrijfstak/Neerlegging en bekendmaking.htm" />
       <TocEntry
-        Title="Reactietijd toezichthouder"
-        Link="/Content/Traject SHM/Bedrijfstak/Reactietijd toezichthouder.htm" />
-      <TocEntry
         Title="Personeelszaken"
         Link="/Content/Traject SHM/Bedrijfstak/Personeelszaken.htm">
         <TocEntry
@@ -841,9 +838,6 @@
       <TocEntry
         Title="Neerlegging en bekendmaking voorstel"
         Link="/Content/Traject SVK vzw/overdracht algemeenheid/Neerlegging en bekendmaking voorstel.htm" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SVK vzw/overdracht algemeenheid/Informeer toezichthouder.htm" />
       <TocEntry
         Title="Personeelszaken"
         Link="/Content/Traject SVK vzw/overdracht algemeenheid/Personeelzaken.htm">
