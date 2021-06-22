@@ -1256,11 +1256,7 @@
       Title="Financiële ondersteuning"
       Link="/Content/Ondersteuning/Financiële ondersteuning.htm"></TocEntry>
     <TocEntry
-      Title="Procesbegeleiding"
-      Link="/Content/Ondersteuning/Ondersteuning VMSW.htm">
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Ondersteuning/Externe begeleiding organisatieontwikkeling.htm" />
-    </TocEntry>
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Ondersteuning/Externe begeleiding organisatieontwikkeling.htm" />
   </TocEntry>
 </CatapultToc>
