@@ -1136,7 +1136,7 @@
     Title="[%=System.LinkedTitle%]"
     Link="/Content/OCMW/Trajecten voor SVK-OCMW's.htm">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
+      Title="Overdracht van bedrijfstak"
       Link="/Content/OCMW/bedrijfstak/Overdracht van bedrijfstak.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
