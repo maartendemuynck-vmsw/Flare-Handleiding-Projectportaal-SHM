@@ -772,7 +772,7 @@
           Link="/Content/Traject SHM/Algemeenheid/Uitnodiging en agenda.htm" />
       </TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="De bijzondere algemene vergadering van de overdragende maatschappij"
         Link="/Content/Traject SHM/Algemeenheid/Bijzondere algemene vergadering.htm">
         <TocEntry
           Title="Aanwezigheid en meerderheid"
