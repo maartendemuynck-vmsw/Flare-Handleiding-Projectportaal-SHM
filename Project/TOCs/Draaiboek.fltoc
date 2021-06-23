@@ -1075,14 +1075,14 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/bedrijfstak/Staat van activa en passiva.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Uitnodiging raden van bestuur"
           Link="/Content/Welzijnsverenigingen/bedrijfstak/Uitnodiging raden van bestuur.htm" />
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Bijeenkomsten raden van bestuur.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Neerlegging en bekendmaking"
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Neerlegging en bekendmaking voorstel.htm" />
       <TocEntry
         Title="Personeelszaken"
