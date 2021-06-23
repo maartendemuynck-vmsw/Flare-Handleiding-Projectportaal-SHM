@@ -1149,7 +1149,7 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/OCMW/bedrijfstak/Bijeenkomsten vast bureau en raad van bestuur.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Neerlegging en bekendmaking"
         Link="/Content/OCMW/bedrijfstak/Neerlegging en bekendmaking.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
@@ -1170,7 +1170,7 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/OCMW/bedrijfstak/Informeer toezichthouder.htm" />
       <TocEntry
-        Title="Datum van inwerkingtreding"
+        Title="Inwerkingtreding"
         Link="/Content/OCMW/bedrijfstak/Inwerkingtreding.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
