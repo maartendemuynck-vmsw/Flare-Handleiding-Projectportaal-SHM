@@ -170,7 +170,8 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Woonmaatschappijen/Omgevormde SHM/Financiering.htm" />
       <TocEntry
-        Title="Patrimonium ">
+        Title="Patrimonium "
+        Link="/Content/Woonmaatschappijen/Omgevormde SHM/Patrimonium.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Overdrachten.htm" />
