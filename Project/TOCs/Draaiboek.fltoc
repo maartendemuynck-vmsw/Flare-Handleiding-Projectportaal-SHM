@@ -175,7 +175,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Overdrachten.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Vaststelling van de kostprijs"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Vaststelling kostprijs.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -989,7 +989,7 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/Toepassingsgebied.htm">
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="De keuze van formule"
           Link="/Content/Welzijnsverenigingen/Formule.htm"></TocEntry>
       </TocEntry>
       <TocEntry
@@ -1059,7 +1059,7 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Toepassingsgebied.htm">
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="De keuze van formule"
           Link="/Content/Welzijnsverenigingen/bedrijfstak/Formule.htm" />
       </TocEntry>
       <TocEntry
