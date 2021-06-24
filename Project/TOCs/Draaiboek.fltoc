@@ -125,7 +125,8 @@
           Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Herinvesteringsverplichting.htm" />
       </TocEntry>
       <TocEntry
-        Title="Organisatie">
+        Title="Organisatie"
+        Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Organisatie.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Aandelen.htm" />
