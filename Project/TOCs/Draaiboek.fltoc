@@ -115,7 +115,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Lopende Financiering.htm" />
         <TocEntry
-          Title="Vaststelling van de kostprijs van de overdracht"
+          Title="Vaststelling van de kostprijs "
           Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Beperkingen.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
