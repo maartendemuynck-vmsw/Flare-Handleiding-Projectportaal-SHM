@@ -106,7 +106,8 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Financiering.htm" />
       <TocEntry
-        Title="Patrimonium">
+        Title="Patrimonium"
+        Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Patrimonium.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Overdrachten.htm" />
@@ -171,7 +172,7 @@
         Link="/Content/Woonmaatschappijen/Omgevormde SHM/Financiering.htm" />
       <TocEntry
         Title="Patrimonium "
-        Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Patrimonium.htm">
+        Link="/Content/Woonmaatschappijen/Omgevormde SHM/Patrimonium.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Overdrachten.htm" />
