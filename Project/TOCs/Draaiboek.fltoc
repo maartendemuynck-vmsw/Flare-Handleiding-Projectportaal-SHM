@@ -779,7 +779,7 @@
         Title="(Tweede) Raad van bestuur verkrijgende maatschappij"
         Link="/Content/Traject SHM/Algemeenheid/Raad van bestuur verkrijger.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Notariële overdrachtsakte"
         Link="/Content/Traject SHM/Algemeenheid/Notariële overdrachtsakte.htm" />
       <TocEntry
         Title="Inwerkingtreding"
@@ -1034,7 +1034,7 @@
         Title="(Tweede) Raad van bestuur van de verkrijgende maatschappij"
         Link="/Content/Welzijnsverenigingen/(Tweede) rvb verkrijgende.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Notariële overdrachtsakte"
         Link="/Content/Welzijnsverenigingen/Notariële overdrachtsakte.htm" />
       <TocEntry
         Title="Inwerkingtreding"
