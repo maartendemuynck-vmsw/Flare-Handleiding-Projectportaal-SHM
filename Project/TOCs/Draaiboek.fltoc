@@ -177,11 +177,11 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Overdrachten.htm" />
         <TocEntry
-          Title="Vaststelling van de kostprijs"
-          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Vaststelling kostprijs.htm" />
-        <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Lopende financiering.htm" />
+        <TocEntry
+          Title="Vaststelling van de kostprijs"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Vaststelling kostprijs.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Financiering overdrachten.htm" />
