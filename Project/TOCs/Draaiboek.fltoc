@@ -191,7 +191,8 @@
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Herinvesteringsverplichting.htm" />
       </TocEntry>
       <TocEntry
-        Title="Organisatie">
+        Title="Organisatie"
+        Link="/Content/Woonmaatschappijen/Omgevormde SHM/Organisatie.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Aandelen.htm" />
