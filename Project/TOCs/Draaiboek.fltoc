@@ -811,7 +811,7 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SVK vzw/overdracht algemeenheid/Toepassingsgebied.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Vaststelling van de prijs"
         Link="/Content/Traject SVK vzw/overdracht algemeenheid/Vaststelling van de prijs.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
@@ -905,7 +905,7 @@
           Title="Entiteiten met verschillende rechtsvormen"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Entiteiten verschillende rechtsvormen.htm" />
         <TocEntry
-          Title="Keuze van de formule"
+          Title="De keuze van de formule"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Formule.htm" />
       </TocEntry>
       <TocEntry
@@ -989,11 +989,11 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/Toepassingsgebied.htm">
         <TocEntry
-          Title="De keuze van formule"
+          Title="De keuze van de formule"
           Link="/Content/Welzijnsverenigingen/Formule.htm"></TocEntry>
       </TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Vaststelling van de prijs"
         Link="/Content/Welzijnsverenigingen/Overdracht bezwarende titel.htm" />
       <TocEntry
         Title="Voorbereiden raad van bestuur"
@@ -1059,11 +1059,11 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Toepassingsgebied.htm">
         <TocEntry
-          Title="De keuze van formule"
+          Title="De keuze van de formule"
           Link="/Content/Welzijnsverenigingen/bedrijfstak/Formule.htm" />
       </TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Vaststelling van de prijs"
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Vaststelling van de prijs.htm" />
       <TocEntry
         Title="Voorbereiden raad van bestuur"
@@ -1126,7 +1126,7 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/OCMW/bedrijfstak/Toepassingsgebied.htm">
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="De keuze van de formule"
           Link="/Content/OCMW/bedrijfstak/Formule.htm" />
       </TocEntry>
       <TocEntry
