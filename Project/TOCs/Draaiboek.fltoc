@@ -1150,7 +1150,7 @@
           Link="/Content/OCMW/bedrijfstak/Uitnodigingen vast bureau en raad van bestuur.htm" />
       </TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Bijeenkomsten vast bureau en raad van bestuur"
         Link="/Content/OCMW/bedrijfstak/Bijeenkomsten vast bureau en raad van bestuur.htm" />
       <TocEntry
         Title="Neerlegging en bekendmaking"
@@ -1159,13 +1159,13 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/OCMW/bedrijfstak/Personeelszaken.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Voorbereiden raad voor maatschappelijk welzijn"
         Link="/Content/OCMW/bedrijfstak/Voorbereiden raad voor maatschappelijk welzijn.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Raad voor maatschappelijk welzijn"
         Link="/Content/OCMW/bedrijfstak/Raad voor maatschappelijk welzijn.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="(Tweede) raad van bestuur"
         Link="/Content/OCMW/bedrijfstak/(Tweede) raad van bestuur.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
