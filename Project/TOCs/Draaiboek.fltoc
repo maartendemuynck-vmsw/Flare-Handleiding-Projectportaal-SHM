@@ -1224,7 +1224,8 @@
       Link="/Content/Feitelijk traject/Feitelijk traject.htm" />
   </TocEntry>
   <TocEntry
-    Title="Trajecten voor anderen">
+    Title="Trajecten voor anderen"
+    Link="/Content/Anderen/Trajecten voor anderen.htm">
     <TocEntry
       Title="Lokale besturen"
       Link="/Content/Anderen/Lokale besturen/Lokale besturen.htm"></TocEntry>
@@ -1234,6 +1235,9 @@
     <TocEntry
       Title="VMSW"
       Link="/Content/Anderen/VMSW/VMSW.htm"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Anderen/Trajecten voor anderen.htm" />
   </TocEntry>
   <TocEntry
     Title="Ondersteunende maatregelen"
