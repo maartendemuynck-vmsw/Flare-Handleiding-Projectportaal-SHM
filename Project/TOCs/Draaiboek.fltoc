@@ -5,7 +5,8 @@
     Title="Draaiboek woonmaatschappijen"
     Link="/Content/Inleiding.htm" />
   <TocEntry
-    Title="Huidige situatie">
+    Title="Huidige situatie"
+    Link="/Content/Huidige situatie/Huidige situatie.htm">
     <TocEntry
       Title="SHM's"
       Link="/Content/Huidige situatie/SHM/SHM's.htm">
