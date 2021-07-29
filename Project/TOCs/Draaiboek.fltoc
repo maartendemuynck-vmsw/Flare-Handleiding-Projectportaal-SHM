@@ -1219,9 +1219,6 @@
     <TocEntry
       Title="Thematische werkgroepen"
       Link="/Content/Feitelijk traject/Thematische werkgroepen.htm"></TocEntry>
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Feitelijk traject/Feitelijk traject.htm" />
   </TocEntry>
   <TocEntry
     Title="Trajecten voor anderen"
@@ -1235,9 +1232,6 @@
     <TocEntry
       Title="VMSW"
       Link="/Content/Anderen/VMSW/VMSW.htm"></TocEntry>
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Anderen/Trajecten voor anderen.htm" />
   </TocEntry>
   <TocEntry
     Title="Ondersteunende maatregelen"
