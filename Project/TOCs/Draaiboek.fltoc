@@ -1198,7 +1198,8 @@
       Link="/Content/OCMW/individuele/Individuele overdrachten.htm"></TocEntry>
   </TocEntry>
   <TocEntry
-    Title="Feitelijk traject">
+    Title="Feitelijk traject"
+    Link="/Content/Feitelijk traject/Feitelijk traject.htm">
     <TocEntry
       Title="Naar één WM met één missie/visie"
       Link="/Content/Feitelijk traject/Naar één WM.htm">
@@ -1218,6 +1219,9 @@
     <TocEntry
       Title="Thematische werkgroepen"
       Link="/Content/Feitelijk traject/Thematische werkgroepen.htm"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Feitelijk traject/Feitelijk traject.htm" />
   </TocEntry>
   <TocEntry
     Title="Trajecten voor anderen">
