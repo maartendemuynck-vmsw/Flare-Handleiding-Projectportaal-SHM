@@ -59,7 +59,7 @@
       StartSection="false"
       Link="/Content/Woonmaatschappijen/Regelgeving/Regelgeving.htm">
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Decreet houdende wijziging van diverse decreten met betrekking tot wonen/Vlaamse Codex Wonen"
         Link="/Content/Woonmaatschappijen/Regelgeving/KT decreet.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
@@ -84,6 +84,9 @@
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Woonmaatschappijen/Werkingsgebieden/Statutaire en werkelijke zetel.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Werkingsgebieden/Toewijzingsraad.htm" />
     </TocEntry>
     <TocEntry
       Title="Rechtsvorm"
@@ -185,7 +188,7 @@
           Title="Vaststelling van de kostprijs"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Vaststelling kostprijs.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Financiering overdrachten"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Financiering overdrachten.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -789,6 +792,9 @@
       <TocEntry
         Title="Notariële overdrachtsakte"
         Link="/Content/Traject SHM/Algemeenheid/Notariële overdrachtsakte.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Algemeenheid/Toezichthouder informeren.htm" />
       <TocEntry
         Title="Inwerkingtreding"
         Link="/Content/Traject SHM/Algemeenheid/Datum van inwerkingtreding.htm" />
