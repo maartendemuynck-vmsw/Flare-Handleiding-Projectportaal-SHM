@@ -1248,5 +1248,8 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Ondersteuning/Externe begeleiding organisatieontwikkeling.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Veelgestelde vragen.htm" />
   </TocEntry>
 </CatapultToc>
