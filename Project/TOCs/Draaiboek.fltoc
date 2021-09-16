@@ -810,7 +810,25 @@
     </TocEntry>
     <TocEntry
       Title="Individuele overdrachten"
-      Link="/Content/Traject SHM/Individuele overeenkomsten/Individuele.htm"></TocEntry>
+      Link="/Content/Traject SHM/Individuele overeenkomsten/Individuele overdrachten.htm">
+      <TocEntry
+        Title="Patrimonium-definitieve overdracht vermogensrechten"
+        Link="/Content/Traject SHM/Individuele overeenkomsten/Patrimonium-definitieve overdracht vermogensrechten.htm">
+        <TocEntry
+          Title="Verkoop"
+          Link="/Content/Traject SHM/Individuele overeenkomsten/Verkoop.htm">
+          <TocEntry
+            Title="Kenmerken"
+            Link="/Content/Traject SHM/Individuele overeenkomsten/Kenmerken verkoop.htm" />
+          <TocEntry
+            Title="Prijs"
+            Link="/Content/Traject SHM/Individuele overeenkomsten/Prijs verkoop.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Individuele overeenkomsten/Kosten verkoop.htm" />
+        </TocEntry>
+      </TocEntry>
+    </TocEntry>
   </TocEntry>
   <TocEntry
     Title="Trajecten voor SVK-vzw's"
