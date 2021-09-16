@@ -267,7 +267,7 @@
   </TocEntry>
   <TocEntry
     Title="Trajecten voor SHM's"
-    Link="/Content/Traject SHM/Trajecten voor SHM's.htm">
+    Link="/Content/Traject SHM/Ruil.htm">
     <TocEntry
       Title="Fusie"
       Link="/Content/Traject SHM/Fusie/Fusie.htm">
@@ -819,13 +819,44 @@
           Link="/Content/Traject SHM/Individuele overeenkomsten/Verkoop.htm">
           <TocEntry
             Title="Kenmerken"
-            Link="/Content/Traject SHM/Individuele overeenkomsten/Kenmerken verkoop.htm" />
+            Link="/Content/Traject SHM/Verkoop/Kenmerken verkoop.htm" />
           <TocEntry
             Title="Prijs"
-            Link="/Content/Traject SHM/Individuele overeenkomsten/Prijs verkoop.htm" />
+            Link="/Content/Traject SHM/Verkoop/Prijs verkoop.htm" />
+          <TocEntry
+            Title="Kosten"
+            Link="/Content/Traject SHM/Verkoop/Kosten verkoop.htm" />
+          <TocEntry
+            Title="Fiscale aspecten"
+            Link="/Content/Traject SHM/Verkoop/Fiscale aspecten verkoop.htm" />
+          <TocEntry
+            Title="Financiering"
+            Link="/Content/Traject SHM/Verkoop/Financiering verkoop.htm" />
+          <TocEntry
+            Title="Programmatieprocedure"
+            Link="/Content/Traject SHM/Verkoop/Programmatieprocedure verkoop.htm" />
+          <TocEntry
+            Title="Kennisgeving"
+            Link="/Content/Traject SHM/Verkoop/Kennisgeving verkoop.htm" />
+          <TocEntry
+            Title="Voor- en nadelen"
+            Link="/Content/Traject SHM/Verkoop/Voor- en nadelen verkoop.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Individuele overeenkomsten/Kosten verkoop.htm" />
+            Link="/Content/Traject SHM/Verkoop/Stappenplan verkoop.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Individuele overeenkomsten/Ruil.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Individuele overeenkomsten/Kenmerken ruil.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Individuele overeenkomsten/Kosten ruil.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Individuele overeenkomsten/Fiscale aspecten ruil.htm" />
         </TocEntry>
       </TocEntry>
     </TocEntry>
