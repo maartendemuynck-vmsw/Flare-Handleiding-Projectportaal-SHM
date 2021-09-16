@@ -850,13 +850,13 @@
           Link="/Content/Traject SHM/Individuele overeenkomsten/Ruil.htm">
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Individuele overeenkomsten/Kenmerken ruil.htm" />
+            Link="/Content/Traject SHM/Ruil/Kenmerken ruil.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Individuele overeenkomsten/Kosten ruil.htm" />
+            Link="/Content/Traject SHM/Ruil/Kosten ruil.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SHM/Individuele overeenkomsten/Fiscale aspecten ruil.htm" />
+            Link="/Content/Traject SHM/Ruil/Fiscale aspecten ruil.htm" />
         </TocEntry>
       </TocEntry>
     </TocEntry>
