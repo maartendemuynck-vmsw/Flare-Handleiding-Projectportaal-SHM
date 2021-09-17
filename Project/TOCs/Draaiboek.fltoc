@@ -810,13 +810,13 @@
     </TocEntry>
     <TocEntry
       Title="Individuele overdrachten"
-      Link="/Content/Traject SHM/Individuele overeenkomsten/Individuele overdrachten.htm">
+      Link="/Content/Traject SHM/Patrimonium - definitieve overdrachten/Individuele overdrachten.htm">
       <TocEntry
         Title="Patrimonium-definitieve overdracht vermogensrechten"
-        Link="/Content/Traject SHM/Individuele overeenkomsten/Patrimonium-definitieve overdracht vermogensrechten.htm">
+        Link="/Content/Traject SHM/Patrimonium - definitieve overdrachten/Patrimonium-definitieve overdracht vermogensrechten.htm">
         <TocEntry
           Title="Verkoop"
-          Link="/Content/Traject SHM/Individuele overeenkomsten/Verkoop.htm">
+          Link="/Content/Traject SHM/Verkoop/Verkoop.htm">
           <TocEntry
             Title="Kenmerken"
             Link="/Content/Traject SHM/Verkoop/Kenmerken verkoop.htm" />
@@ -847,7 +847,7 @@
         </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Individuele overeenkomsten/Ruil.htm">
+          Link="/Content/Traject SHM/Ruil/Ruil.htm">
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Ruil/Kenmerken ruil.htm" />
@@ -886,6 +886,32 @@
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Bestaande erfpacht/Bestaande erfpacht.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Inbeheergave of overdracht huurovereenkomst"
+        Link="/Content/Traject SHM/Inbeheergave/Inbeheergave.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Individuele overeenkomsten/Individuele overeenkomsten.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Individuele overeenkomsten/Sociale huurovereenkomsten.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Individuele overeenkomsten/Overeenkomsten met andere derden.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Individuele overeenkomsten/Arbeidsovereenkomsten.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Gevolgen/Gevolgen individuele overdracht.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Gevolgen/Reststuctuur.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Gevolgen/Te ondernemen stappen.htm" />
       </TocEntry>
     </TocEntry>
   </TocEntry>
