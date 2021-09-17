@@ -883,6 +883,9 @@
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Schenking/Stappenplan.htm" />
         </TocEntry>
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Bestaande erfpacht/Bestaande erfpacht.htm" />
       </TocEntry>
     </TocEntry>
   </TocEntry>
