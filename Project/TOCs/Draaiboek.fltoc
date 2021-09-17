@@ -267,7 +267,7 @@
   </TocEntry>
   <TocEntry
     Title="Trajecten voor SHM's"
-    Link="/Content/Traject SHM/Ruil.htm">
+    Link="/Content/Traject SHM/Trajecten voor SHM's.htm">
     <TocEntry
       Title="Fusie"
       Link="/Content/Traject SHM/Fusie/Fusie.htm">
@@ -857,6 +857,12 @@
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Ruil/Fiscale aspecten ruil.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Ruil/Voor- en nadelen ruil.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Ruil/Stappenplan.htm" />
         </TocEntry>
       </TocEntry>
     </TocEntry>
