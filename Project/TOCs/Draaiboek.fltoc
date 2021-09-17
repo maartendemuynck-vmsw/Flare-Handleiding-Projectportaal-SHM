@@ -864,6 +864,25 @@
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SHM/Ruil/Stappenplan.htm" />
         </TocEntry>
+        <TocEntry
+          Title="Schenking"
+          Link="/Content/Traject SHM/Schenking/Schenking.htm">
+          <TocEntry
+            Title="Kenmerken"
+            Link="/Content/Traject SHM/Schenking/Kenmerken schenking.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Schenking/Kosten schenking.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Schenking/Fiscale aspecten schenking.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Schenking/Voor- en nadelen schenking.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Schenking/Stappenplan.htm" />
+        </TocEntry>
       </TocEntry>
     </TocEntry>
   </TocEntry>
