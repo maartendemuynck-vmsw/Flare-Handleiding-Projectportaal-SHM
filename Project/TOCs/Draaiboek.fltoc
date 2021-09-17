@@ -885,7 +885,32 @@
         </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Bestaande erfpacht/Bestaande erfpacht.htm" />
+          Link="/Content/Traject SHM/Bestaande erfpacht/Bestaande erfpacht.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bestaande erfpacht/Kenmerken.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bestaande erfpacht/Prijs.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bestaande erfpacht/Kosten.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bestaande erfpacht/Financiering.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bestaande erfpacht/Programmatieprocedure.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bestaande erfpacht/Kennisgeving.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bestaande erfpacht/Voor- en nadelen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SHM/Bestaande erfpacht/Stappenplan.htm" />
+        </TocEntry>
       </TocEntry>
       <TocEntry
         Title="Inbeheergave of overdracht huurovereenkomst"
