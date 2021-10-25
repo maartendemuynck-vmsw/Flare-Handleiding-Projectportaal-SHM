@@ -1378,6 +1378,9 @@
       Link="/Content/Ondersteuning/Externe begeleiding organisatieontwikkeling.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
+      Link="/Content/Ondersteuning/Voorbeeldstappenplan.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
       Link="/Content/Ondersteuning/Veelgestelde vragen.htm" />
   </TocEntry>
 </CatapultToc>
