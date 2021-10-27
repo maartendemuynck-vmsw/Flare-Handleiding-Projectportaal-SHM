@@ -956,8 +956,18 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SVK vzw/Splitsing/Bijeenkomsten van de bestuursorganen.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SVK vzw/Splitsing/Informeer de toezichthouder.htm" />
+        Title="Personeelszaken"
+        Link="/Content/Traject SVK vzw/Splitsing/Personeelszaken.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/Splitsing/Uw personeelsleden.htm" />
+        <TocEntry
+          Title="Gevolgen van cao nr.32 bis"
+          Link="/Content/Traject SVK vzw/Splitsing/Gevolgen van cao nr.32 bis.htm"></TocEntry>
+        <TocEntry
+          Title="Anderen"
+          Link="/Content/Traject SVK vzw/Splitsing/Anderen.htm" />
+      </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SVK vzw/Splitsing/Voorbereien buitengewone AV van de betrokken vzw's.htm" />
