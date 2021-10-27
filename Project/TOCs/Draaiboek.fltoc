@@ -944,6 +944,9 @@
     Title="Trajecten voor SVK-vzw's"
     Link="/Content/Traject SVK vzw/Traject SVK vzw.htm">
     <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Traject SVK vzw/Inleiding traject voor SVK-vzw's.htm" />
+    <TocEntry
       Title="Voorafgaande Splitsing"
       Link="/Content/Traject SVK vzw/Splitsing/Splitsing.htm"></TocEntry>
     <TocEntry
