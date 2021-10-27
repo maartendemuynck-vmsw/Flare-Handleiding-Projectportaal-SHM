@@ -963,35 +963,35 @@
           Link="/Content/Traject SVK vzw/Splitsing/Uw personeelsleden.htm" />
         <TocEntry
           Title="Gevolgen van cao nr.32 bis"
-          Link="/Content/Traject SVK vzw/Splitsing/Gevolgen van cao nr.32 bis.htm"></TocEntry>
+          Link="/Content/Traject SVK vzw/Splitsing/Gevolgen cao 32 bis.htm"></TocEntry>
         <TocEntry
           Title="Anderen"
           Link="/Content/Traject SVK vzw/Splitsing/Anderen.htm" />
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SVK vzw/Splitsing/Buitengewone algemene vergadering voorbereiden.htm" />
+        Link="/Content/Traject SVK vzw/Splitsing/Voorbereiding buitengewone algemene vergadering.htm" />
       <TocEntry
         Title="Buitengewone algemene vergaderingen"
-        Link="/Content/Traject SVK vzw/Splitsing/Buitengewone AV.htm" />
+        Link="/Content/Traject SVK vzw/Splitsing/Buitengewone algemene vergadering.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SVK vzw/Splitsing/Informeer tijdig de toezichthouder.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SVK vzw/Splitsing/Bekendmaking van de splitsing.htm" />
+        Link="/Content/Traject SVK vzw/Splitsing/Bekendmaking.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SVK vzw/Splitsing/Datum van inwerkingtreding van de splitsing.htm" />
+        Link="/Content/Traject SVK vzw/Splitsing/Inwerkingtreding.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SVK vzw/Splitsing/Tegenwerpbaarheid van de splitsing.htm" />
+        Link="/Content/Traject SVK vzw/Splitsing/Tegenwerpbaarheid.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SVK vzw/Splitsing/Rechtsgevolgen van de splitsing.htm" />
+        Link="/Content/Traject SVK vzw/Splitsing/Rechtsgevolgen.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SVK vzw/Splitsing/Praktische opvolging na de splitsing.htm" />
+        Link="/Content/Traject SVK vzw/Splitsing/Praktische opvolging.htm" />
     </TocEntry>
     <TocEntry
       Title="Overdracht van algemeenheid"
