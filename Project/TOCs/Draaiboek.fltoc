@@ -950,7 +950,7 @@
         Title="Toepassingsgebied"
         Link="/Content/Traject SVK vzw/Splitsing/Toepassingsgebied.htm"></TocEntry>
       <TocEntry
-        Title="Voorbereiding van elke raad van bestuur"
+        Title="Voorbereiding raad van bestuur"
         Link="/Content/Traject SVK vzw/Splitsing/Voorbereiding raad van bestuur.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
@@ -969,7 +969,7 @@
           Link="/Content/Traject SVK vzw/Splitsing/Anderen.htm" />
       </TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Voorbereiden buitengewone algemene vergadering"
         Link="/Content/Traject SVK vzw/Splitsing/Voorbereiding buitengewone algemene vergadering.htm" />
       <TocEntry
         Title="Buitengewone algemene vergaderingen"
@@ -978,19 +978,19 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SVK vzw/Splitsing/Informeer tijdig de toezichthouder.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Bekendmaking"
         Link="/Content/Traject SVK vzw/Splitsing/Bekendmaking.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Inwerkingtreding"
         Link="/Content/Traject SVK vzw/Splitsing/Inwerkingtreding.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Tegenwerpbaarheid"
         Link="/Content/Traject SVK vzw/Splitsing/Tegenwerpbaarheid.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Rechtsgevolgen"
         Link="/Content/Traject SVK vzw/Splitsing/Rechtsgevolgen.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Praktische opvolging"
         Link="/Content/Traject SVK vzw/Splitsing/Praktische opvolging.htm" />
     </TocEntry>
     <TocEntry
