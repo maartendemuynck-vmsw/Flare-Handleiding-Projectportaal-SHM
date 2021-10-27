@@ -944,11 +944,45 @@
     Title="Trajecten voor SVK-vzw's"
     Link="/Content/Traject SVK vzw/Traject SVK vzw.htm">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Traject SVK vzw/Inleiding traject voor SVK-vzw's.htm" />
-    <TocEntry
       Title="Voorafgaande Splitsing"
-      Link="/Content/Traject SVK vzw/Splitsing/Splitsing.htm"></TocEntry>
+      Link="/Content/Traject SVK vzw/Splitsing/Splitsing.htm">
+      <TocEntry
+        Title="Toepassingsgebied"
+        Link="/Content/Traject SVK vzw/Splitsing/Toepassingsgebied.htm"></TocEntry>
+      <TocEntry
+        Title="Voorbereiding van elke raad van bestuur"
+        Link="/Content/Traject SVK vzw/Splitsing/Voorbereiding raad van bestuur.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SVK vzw/Splitsing/Bijeenkomsten van de bestuursorganen.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SVK vzw/Splitsing/Informeer de toezichthouder.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SVK vzw/Splitsing/Voorbereien buitengewone AV van de betrokken vzw's.htm" />
+      <TocEntry
+        Title="Buitengewone algemene vergaderingen"
+        Link="/Content/Traject SVK vzw/Splitsing/VoorBuitengewone AV.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SVK vzw/Splitsing/Informeer tijdig de toezichthouder.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SVK vzw/Splitsing/Bekendmaking van de splitsing.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SVK vzw/Splitsing/Datum van inwerkingtreding van de splitsing.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SVK vzw/Splitsing/Tegenwerpbaarheid van de splitsing.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SVK vzw/Splitsing/Rechtsgevolgen van de splitsing.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SVK vzw/Splitsing/Praktische opvolging na de splitsing.htm" />
+    </TocEntry>
     <TocEntry
       Title="Overdracht van algemeenheid"
       Link="/Content/Traject SVK vzw/overdracht algemeenheid/Overdracht van algemeenheid.htm">
