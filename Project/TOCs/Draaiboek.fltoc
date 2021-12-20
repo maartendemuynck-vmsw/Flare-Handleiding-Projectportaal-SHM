@@ -1172,7 +1172,20 @@
         Link="/Content/Traject SVK vzw/Individuele contacten/Patrimonium - definitieve overdracht vermogensrechten.htm">
         <TocEntry
           Title="Verkoop"
-          Link="/Content/Traject SVK vzw/Individuele contacten/verkoop.htm" />
+          Link="/Content/Traject SVK vzw/Individuele contacten/verkoop.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/Individuele contacten/Prijs.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/Individuele contacten/Kosten.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/Individuele contacten/Financiering.htm" />
+          <TocEntry
+            Title="Voor- en nadelen"
+            Link="/Content/Traject SVK vzw/Individuele contacten/Voor- en nadelen.htm" />
+        </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/Individuele contacten/Schenking.htm" />
