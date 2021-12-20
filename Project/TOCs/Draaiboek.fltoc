@@ -1185,6 +1185,9 @@
           <TocEntry
             Title="Voor- en nadelen"
             Link="/Content/Traject SVK vzw/Individuele contacten/Voor- en nadelen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/Individuele contacten/Stappenplan.htm" />
         </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
