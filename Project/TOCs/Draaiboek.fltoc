@@ -1166,7 +1166,31 @@
     </TocEntry>
     <TocEntry
       Title="Individuele overdrachten"
-      Link="/Content/Traject SVK vzw/Individuele contacten/Individuele overdrachten.htm"></TocEntry>
+      Link="/Content/Traject SVK vzw/Individuele contacten/Individuele overdrachten.htm">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SVK vzw/Individuele contacten/Patrimonium - definitieve overdracht vermogensrechten.htm">
+        <TocEntry
+          Title="Verkoop"
+          Link="/Content/Traject SVK vzw/Individuele contacten/verkoop.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/Individuele contacten/Schenking.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/Individuele contacten/Overdracht bestaande erfpacht- of erfpachtrechten.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SVK vzw/Individuele contacten/Individuele overeenkomsten.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/Individuele contacten/Sociale huurovereenkomsten.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/Individuele contacten/Overeenkomsten met derden.htm" />
+      </TocEntry>
+    </TocEntry>
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
