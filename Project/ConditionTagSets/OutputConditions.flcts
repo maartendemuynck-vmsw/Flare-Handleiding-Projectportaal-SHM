@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultConditionTagSet>
   <ConditionTag
     Comment=""
@@ -19,5 +19,9 @@
   <ConditionTag
     BackgroundColor="#8b008b"
     Name="Mobile"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Unpublished"
     Comment="" />
 </CatapultConditionTagSet>
