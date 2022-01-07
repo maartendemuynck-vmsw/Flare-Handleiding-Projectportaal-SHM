@@ -11,7 +11,8 @@
   OutputFolder="C:\Flare-Handleiding-Draaiboek-Woonmaatschappijen\docs"
   MasterToc="/Project/TOCs/Draaiboek.fltoc"
   Skin="/Project/Skins/HTML5 - Side Navigation.flskn"
-  MasterStylesheet="/Content/Resources/Stylesheets/vmsw.webuniversum.css">
+  MasterStylesheet="/Content/Resources/Stylesheets/vmsw.webuniversum.css"
+  ConditionTagExpression="exclude[OutputConditions.Unpublished]">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
