@@ -1166,7 +1166,79 @@
     </TocEntry>
     <TocEntry
       Title="Individuele overdrachten"
-      Link="/Content/Traject SVK vzw/Individuele contacten/Individuele overdrachten.htm"></TocEntry>
+      Link="/Content/Traject SVK vzw/Individuele contracten/Individuele overdrachten.htm">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SVK vzw/Individuele contracten/Patrimonium - definitieve overdracht vermogensrechten.htm">
+        <TocEntry
+          Title="Verkoop"
+          Link="/Content/Traject SVK vzw/Individuele contracten/verkoop.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/Individuele contracten/Prijs.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/Individuele contracten/Kosten.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/Individuele contracten/Financiering.htm" />
+          <TocEntry
+            Title="Voor- en nadelen"
+            Link="/Content/Traject SVK vzw/Individuele contracten/Voor- en nadelen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/Individuele contracten/Stappenplan.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/Individuele contracten/Schenking.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/Individuele contracten/Kosten schenking.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/Individuele contracten/Fiscale aspecten.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/Individuele contracten/Voor- en nadelen schenking.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/Individuele contracten/Stappenplan schenking.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Overdracht bestaande erfpacht- en opstalrechten"
+          Link="/Content/Traject SVK vzw/Individuele contracten/Overdracht bestaande erfpacht- of opstalrechten.htm">
+          <TocEntry
+            Title="Prijs overdracht"
+            Link="/Content/Traject SVK vzw/Individuele contracten/Prijs erfpacht-rechten.htm" />
+          <TocEntry
+            Title="Kosten overdracht "
+            Link="/Content/Traject SVK vzw/Individuele contracten/Kosten erfpacht-rechten.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/Individuele contracten/Registratierechten.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/Individuele contracten/Financiering overdracht erfpacht(rechten).htm" />
+          <TocEntry
+            Title="Voor-en nadelen overdracht rechten"
+            Link="/Content/Traject SVK vzw/Individuele contracten/Voor- en nadelen overdracht erfpacht(rechten).htm" />
+          <TocEntry
+            Title="Stappenplan overdracht rechten"
+            Link="/Content/Traject SVK vzw/Individuele contracten/Stappenplan overdracht erfpacht(rechten).htm" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SVK vzw/Individuele contracten/Individuele overeenkomsten.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/Individuele contracten/Sociale huurovereenkomsten.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/Individuele contracten/Overeenkomsten met derden.htm" />
+      </TocEntry>
+    </TocEntry>
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
