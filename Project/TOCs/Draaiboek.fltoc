@@ -263,6 +263,9 @@
       <TocEntry
         Title="ICT-aandachtspunten"
         Link="/Content/Voorbereidende handelingen/ICT.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Voorbereidende handelingen/Archief- en informatiebeheer.htm" />
     </TocEntry>
   </TocEntry>
   <TocEntry
