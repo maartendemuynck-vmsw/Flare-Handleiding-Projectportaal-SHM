@@ -1184,6 +1184,9 @@
             Link="/Content/Traject SVK vzw/Individuele contracten/Kosten.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
+            Link="/Content/Fiscale aspecten verkoop.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SVK vzw/Individuele contracten/Financiering.htm" />
           <TocEntry
             Title="Voor- en nadelen"
@@ -1200,7 +1203,7 @@
             Link="/Content/Traject SVK vzw/Individuele contracten/Kosten schenking.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SVK vzw/Individuele contracten/Fiscale aspecten.htm" />
+            Link="/Content/Traject SVK vzw/Individuele contracten/Fiscale aspecten schenking.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SVK vzw/Individuele contracten/Voor- en nadelen schenking.htm" />
