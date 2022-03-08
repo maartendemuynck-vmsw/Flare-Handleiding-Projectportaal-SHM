@@ -1183,7 +1183,8 @@
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SVK vzw/Individuele contracten/Kosten.htm" />
           <TocEntry
-            Title="[%=System.LinkedTitle%]" />
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/Individuele contracten/Fiscale aspecten verkoop.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SVK vzw/Individuele contracten/Financiering.htm" />
