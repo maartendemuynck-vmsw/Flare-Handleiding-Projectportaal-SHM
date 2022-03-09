@@ -1249,7 +1249,20 @@
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SVK vzw/Individuele contracten/Individuele overeenkomsten.htm">
+        Link="/Content/Traject SVK vzw/Individuele contracten/Tijdelijke overdrachten tot 2028.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/Individuele contracten/Inbeheergave.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/Individuele contracten/Overdracht huur.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/Individuele contracten/Vruchtgebruik.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Andere overeenkomsten"
+        Link="/Content/Traject SVK vzw/Individuele contracten/Tijdelijke overdrachten tot 2028.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/Individuele contracten/Sociale huurovereenkomsten.htm" />
