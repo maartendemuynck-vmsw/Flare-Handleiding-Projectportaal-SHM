@@ -266,6 +266,9 @@
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Voorbereidende handelingen/Archief- en informatiebeheer.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Voorbereidende handelingen/Renovatieverplichting voor niet-residentiële gebouwen.htm" />
     </TocEntry>
   </TocEntry>
   <TocEntry
