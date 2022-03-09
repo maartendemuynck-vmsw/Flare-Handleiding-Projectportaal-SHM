@@ -920,7 +920,17 @@
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SHM/Tijdelijke overdrachten tot 2028.htm" />
+        Link="/Content/Traject SHM/Tijdelijke overdrachten tot 2028.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Inbeheergave.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Overdracht huur.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Vruchtgebruik.htm" />
+      </TocEntry>
       <TocEntry
         Title="Andere overeenkomsten"
         Link="/Content/Traject SHM/Individuele overeenkomsten/Individuele overeenkomsten.htm">
