@@ -919,10 +919,10 @@
         </TocEntry>
       </TocEntry>
       <TocEntry
-        Title="Inbeheergave of overdracht huurovereenkomst"
-        Link="/Content/Traject SHM/Inbeheergave/Inbeheergave.htm" />
-      <TocEntry
         Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Tijdelijke overdrachten tot 2028.htm" />
+      <TocEntry
+        Title="Andere overeenkomsten"
         Link="/Content/Traject SHM/Individuele overeenkomsten/Individuele overeenkomsten.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
