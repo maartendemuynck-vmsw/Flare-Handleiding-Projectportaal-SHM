@@ -304,7 +304,7 @@
         Title="Bepaling van de ruilverhouding"
         Link="/Content/Traject SHM/Fusie/Ruilverhouding.htm" />
       <TocEntry
-        Title="Voorbereiding raad van bestuur"
+        Title="Voorbereiding van de vergadering van het bestuursorgaan"
         Link="/Content/Traject SHM/Fusie/Voorbereiding raad van bestuur.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -326,7 +326,7 @@
           Link="/Content/Traject SHM/Fusie/Uitnodiging raden van bestuur.htm" />
       </TocEntry>
       <TocEntry
-        Title="Bijeenkomsten raad van bestuur"
+        Title="Bijeenkomsten van de bestuursorganen"
         Link="/Content/Traject SHM/Fusie/Bijeenkomsten raden van bestuur.htm" />
       <TocEntry
         Title="Neerlegging en bekendmaking"
@@ -351,7 +351,7 @@
         Title="Voorbereiding algemene vergadering"
         Link="/Content/Traject SHM/Fusie/Voorbereiding algemene vergadering.htm">
         <TocEntry
-          Title="Nieuwe RvB en AV"
+          Title="Nieuw bestuursorgaan"
           Link="/Content/Traject SHM/Fusie/Nieuwe RvB en AV.htm" />
         <TocEntry
           Title="Recente jaarrekening en controleverslag"
