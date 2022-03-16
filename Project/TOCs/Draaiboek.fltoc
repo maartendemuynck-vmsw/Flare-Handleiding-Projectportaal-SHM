@@ -431,7 +431,7 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Splitsing/Bepaling ruilverhouding.htm" />
       <TocEntry
-        Title="Voorbereiding raad van bestuur"
+        Title="Voorbereiding vergadering bestuursorgaan"
         Link="/Content/Traject SHM/Splitsing/Voorbereiding bestuursorgaan.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -440,7 +440,7 @@
           Title="Splitsingsvoorstel"
           Link="/Content/Traject SHM/Splitsing/Splitsingsvoorstel.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Bijzonder schriftelijk verslag"
           Link="/Content/Traject SHM/Splitsing/Bijzonder schriftelijk verslag.htm" />
         <TocEntry
           Title="Controleverslag "
@@ -453,7 +453,7 @@
           Link="/Content/Traject SHM/Splitsing/Uitnodiging bestuursorgaan.htm" />
       </TocEntry>
       <TocEntry
-        Title="Bijeenkomsten raden van bestuur"
+        Title="Bijeenkomsten bestuursorgaan"
         Link="/Content/Traject SHM/Splitsing/Bijeenkomst bestuursorganen.htm" />
       <TocEntry
         Title="Neerlegging en bekendmaking"
@@ -478,7 +478,7 @@
         Title="Voorbereiding algemene vergadering"
         Link="/Content/Traject SHM/Splitsing/Buitengewone algemene vergadering voorbereiden.htm">
         <TocEntry
-          Title="Nieuwe RvB en AV"
+          Title="Nieuwe bestuursorgaan"
           Link="/Content/Traject SHM/Splitsing/Nieuwe raad van bestuur en algemene vergadering samenstellen.htm" />
         <TocEntry
           Title="Recente jaarrekening en controleverslag"
@@ -490,15 +490,25 @@
           Title="Uittreding of inkoop van eigen aandelen"
           Link="/Content/Traject SHM/Splitsing/Uittreding of inkoop van eigen aandelen.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Uitnodiging en agenda"
           Link="/Content/Traject SHM/Splitsing/Uitnodiging en agenda.htm" />
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SHM/Splitsing/Buitengewone algemene vergadering.htm" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SHM/Splitsing/Informeer tijdig de toezichthouder 2.htm" />
+        Link="/Content/Traject SHM/Splitsing/Buitengewone algemene vergadering.htm">
+        <TocEntry
+          Title="Aanwezigheid en meerderheid bij de buitengewone algemene vergaderingen"
+          Link="/Content/Traject SHM/Splitsing/Aanwezigheid en meerderheid bij de buitengewone.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Wijziging samenstelling algemene vergadering na goedkeuring van de splitsing.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Notulen bij notariële akte.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Splitsing/Informeer tijdig de toezichthouder 2.htm" />
+      </TocEntry>
       <TocEntry
         Title="Bekendmaking"
         Link="/Content/Traject SHM/Splitsing/Bekendmaking.htm" />
@@ -525,10 +535,10 @@
         Title="Toepassingsgebied"
         Link="/Content/Traject SHM/Partiële/Toepassingsgebied.htm">
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Maatschappijen met verschillende rechtsvormen"
           Link="/Content/Traject SHM/Partiële/Maatschappijen met verschillende rechtsvormen.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Partiële splitsingsformule"
           Link="/Content/Traject SHM/Partiële/Splitsingsformule.htm" />
       </TocEntry>
       <TocEntry
@@ -549,7 +559,7 @@
         Link="/Content/Traject SHM/Partiële/Ruilverhouding.htm"></TocEntry>
       <TocEntry
         Title="Voorbereiding raad van bestuur"
-        Link="/Content/Traject SHM/Partiële/Voorbereiding raad van bestuur.htm">
+        Link="/Content/Traject SHM/Partiële/Voorbereiding vergadering bestuursorgaan.htm">
         <TocEntry
           Title="Tussentijdse financiële cijfers"
           Link="/Content/Traject SHM/Partiële/tussentijdse financiële cijfers.htm" />
@@ -560,7 +570,7 @@
           Title="Bijzonder schriftelijk verslag"
           Link="/Content/Traject SHM/Partiële/Bijzonder schriftelijk verslag.htm" />
         <TocEntry
-          Title="Het controleverslag"
+          Title="Controleverslag"
           Link="/Content/Traject SHM/Partiële/Controleverslag bedrijfsrevisor.htm"
           ReplaceMergeNode="false" />
         <TocEntry
@@ -593,7 +603,7 @@
           Link="/Content/Traject SHM/Partiële/Anderen.htm" />
       </TocEntry>
       <TocEntry
-        Title="Buitengewone vergadering voorbereiden">
+        Title="Voorbereiden buitengewone vergadering">
         <TocEntry
           Title="Nieuwe RvB en AV"
           Link="/Content/Traject SHM/Partiële/Nieuwe RvB en AV.htm" />
@@ -607,7 +617,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Partiële splitsing en erkenning woonmaatschappij.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Uitnodiging en agenda"
           Link="/Content/Traject SHM/Partiële/Uitnodiging en agenda.htm" />
       </TocEntry>
       <TocEntry
@@ -623,6 +633,9 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Informeer tijdig de toezichthouder.htm" />
       </TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SHM/Partiële/Informeer de toezichthouder.htm" />
       <TocEntry
         Title="Bekendmaking"
         Link="/Content/Traject SHM/Partiële/Bekendmaking.htm" />
