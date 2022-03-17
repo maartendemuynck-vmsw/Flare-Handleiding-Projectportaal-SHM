@@ -577,12 +577,12 @@
           Title="Het bijzonder verslag wijziging rechten verbonden aan soorten aandelen"
           Link="/Content/Traject SHM/Partiële/Bijzonder verslag wijzigingen rechten verbonden aan soorten aandelen.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Partiële/Uitnodiging raden van bestuur.htm" />
+          Title="Uitnodigingen van de bestuursorganen"
+          Link="/Content/Traject SHM/Partiële/Uitnodigingen van de bestuursorganen.htm" />
       </TocEntry>
       <TocEntry
         Title="Bijeenkomsten raden van bestuur"
-        Link="/Content/Traject SHM/Partiële/Bijeenkomsten raden van bestuur.htm" />
+        Link="/Content/Traject SHM/Partiële/Bijeenkomsten van de bestuursorganen.htm" />
       <TocEntry
         Title="Neerlegging en bekendmaking"
         Link="/Content/Traject SHM/Partiële/Neerlegging en bekendmaking splitsingsvoorstel.htm" />
