@@ -603,16 +603,17 @@
           Link="/Content/Traject SHM/Partiële/Anderen.htm" />
       </TocEntry>
       <TocEntry
-        Title="Voorbereiden buitengewone vergadering">
+        Title="Voorbereiden buitengewone vergadering"
+        Link="/Content/Traject SHM/Partiële/Voorbereiden buitengewone algemene vergadering.htm">
         <TocEntry
-          Title="Nieuwe RvB en AV"
+          Title="Een nieuw bestuursorgaan"
           Link="/Content/Traject SHM/Partiële/Nieuw bestuursorgaan samenstellen.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Partiële/Recente jaarrekening en controleverslag.htm" />
         <TocEntry
           Title="Informeren aandeelhouders en aandeelhoudersregister"
           Link="/Content/Traject SHM/Partiële/Informeren aandeelhouders en aandeelhoudersregister.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Recente jaarrekening en controleverslag.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Partiële splitsing en erkenning woonmaatschappij.htm" />
@@ -626,6 +627,9 @@
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Aanwezigheid en meerderheid.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SHM/Partiële/Wijziging samenstelling AV.htm" />
         <TocEntry
           Title="Notulen bij notariële akte laten vaststellen"
           Link="/Content/Traject SHM/Partiële/Notulen bij notariële akte laten vaststellen.htm" />
