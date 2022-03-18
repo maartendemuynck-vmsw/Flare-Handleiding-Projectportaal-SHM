@@ -434,7 +434,7 @@
         Title="Voorbereiding vergadering bestuursorgaan"
         Link="/Content/Traject SHM/Splitsing/Voorbereiding bestuursorgaan.htm">
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Tussentijdse financiële cijfers"
           Link="/Content/Traject SHM/Splitsing/Tussentijdse financiële cijfers.htm"></TocEntry>
         <TocEntry
           Title="Splitsingsvoorstel"
@@ -500,7 +500,7 @@
           Title="Aanwezigheid en meerderheid bij de buitengewone algemene vergaderingen"
           Link="/Content/Traject SHM/Splitsing/Aanwezigheid en meerderheid bij de buitengewone.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Wijziging samenstelling algemene vergadering"
           Link="/Content/Traject SHM/Splitsing/Wijziging samenstelling algemene vergadering na goedkeuring van de splitsing.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -545,7 +545,7 @@
         Title="Fiscale aspecten"
         Link="/Content/Traject SHM/Partiële/Fiscale Aspecten.htm">
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Inkomstenbelastingen"
           Link="/Content/Traject SHM/Partiële/Inkomstenbelasting.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -558,13 +558,13 @@
         Title="Bepaling van de ruilverhouding"
         Link="/Content/Traject SHM/Partiële/Ruilverhouding.htm"></TocEntry>
       <TocEntry
-        Title="Voorbereiding raad van bestuur"
+        Title="Voorbereiding vergadering bestuursorgaan"
         Link="/Content/Traject SHM/Partiële/Voorbereiding vergadering bestuursorgaan.htm">
         <TocEntry
           Title="Tussentijdse financiële cijfers"
           Link="/Content/Traject SHM/Partiële/tussentijdse financiële cijfers.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Splitsingsvoorstel"
           Link="/Content/Traject SHM/Partiële/Splitsingsvoorstel.htm" />
         <TocEntry
           Title="Bijzonder schriftelijk verslag"
@@ -581,7 +581,7 @@
           Link="/Content/Traject SHM/Partiële/Uitnodigingen van de bestuursorganen.htm" />
       </TocEntry>
       <TocEntry
-        Title="Bijeenkomsten raden van bestuur"
+        Title="Bijeenkomsten bestuursorgaan"
         Link="/Content/Traject SHM/Partiële/Bijeenkomsten van de bestuursorganen.htm" />
       <TocEntry
         Title="Neerlegging en bekendmaking"
@@ -606,16 +606,16 @@
         Title="Voorbereiden buitengewone vergadering"
         Link="/Content/Traject SHM/Partiële/Voorbereiden buitengewone algemene vergadering.htm">
         <TocEntry
-          Title="Een nieuw bestuursorgaan"
+          Title="Nieuw bestuursorgaan"
           Link="/Content/Traject SHM/Partiële/Nieuw bestuursorgaan samenstellen.htm" />
-        <TocEntry
-          Title="Informeren aandeelhouders en aandeelhoudersregister"
-          Link="/Content/Traject SHM/Partiële/Informeren aandeelhouders en aandeelhoudersregister.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Recente jaarrekening en controleverslag.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Informeren aandeelhouders en aandeelhoudersregister"
+          Link="/Content/Traject SHM/Partiële/Informeren aandeelhouders en aandeelhoudersregister.htm" />
+        <TocEntry
+          Title="Uittreding of inkoop van eigen aandelen"
           Link="/Content/Traject SHM/Partiële/Partiële splitsing en erkenning woonmaatschappij.htm" />
         <TocEntry
           Title="Uitnodiging en agenda"
@@ -628,18 +628,15 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Aanwezigheid en meerderheid.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Wijziging samenstelling algemene vergadering"
           Link="/Content/Traject SHM/Partiële/Wijziging samenstelling AV.htm" />
         <TocEntry
-          Title="Notulen bij notariële akte laten vaststellen"
+          Title="Notulen bij notariële akte"
           Link="/Content/Traject SHM/Partiële/Notulen bij notariële akte laten vaststellen.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Partiële/Informeer tijdig de toezichthouder.htm" />
       </TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SHM/Partiële/Informeer de toezichthouder.htm" />
       <TocEntry
         Title="Bekendmaking"
         Link="/Content/Traject SHM/Partiële/Bekendmaking.htm" />
