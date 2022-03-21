@@ -681,17 +681,17 @@
           Link="/Content/Traject SHM/Bedrijfstak/Btw.htm" />
       </TocEntry>
       <TocEntry
-        Title="Voorbereiden raad van bestuur"
+        Title="Voorbereiden bestuursorgaan"
         Link="/Content/Traject SHM/Bedrijfstak/Voorbereiden bestuursorgaan.htm">
         <TocEntry
           Title="Voorstel van overdracht"
           Link="/Content/Traject SHM/Bedrijfstak/Voorstel van overdracht.htm" />
         <TocEntry
-          Title="Uitnodigingen raden van bestuur"
+          Title="Uitnodigingen van de bestuursorganen"
           Link="/Content/Traject SHM/Bedrijfstak/Uitnodigingen van de bestuursorganen.htm" />
       </TocEntry>
       <TocEntry
-        Title="Eerste vergadering raden van bestuur"
+        Title="Eerste vergadering van de bestuursorganen"
         Link="/Content/Traject SHM/Bedrijfstak/Eerste vergadering van de bestuursorganen.htm" />
       <TocEntry
         Title="Neerlegging en bekendmaking"
@@ -710,7 +710,7 @@
           Link="/Content/Traject SHM/Bedrijfstak/Anderen.htm" />
       </TocEntry>
       <TocEntry
-        Title="Tweede vergadering raden van bestuur"
+        Title="Tweede vergadering van de bestuursorganen"
         Link="/Content/Traject SHM/Bedrijfstak/Tweede vergadering van de bestuursorganen.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
