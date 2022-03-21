@@ -479,10 +479,9 @@
         Link="/Content/Traject SHM/Splitsing/Buitengewone algemene vergadering voorbereiden.htm">
         <TocEntry
           Title="Nieuwe bestuursorgaan"
-          Link="/Content/Traject SHM/Splitsing/Nieuwe raad van bestuur en algemene vergadering samenstellen.htm" />
+          Link="/Content/Traject SHM/Splitsing/Nieuw bestuursorgaan.htm" />
         <TocEntry
-          Title="Recente jaarrekening en controleverslag"
-          Link="/Content/Traject SHM/Splitsing/Recente jaarrekening en controleverslag.htm" />
+          Title="Recente jaarrekening en controleverslag" />
         <TocEntry
           Title="Informeren aandeelhouders en aandeelhoudersregister"
           Link="/Content/Traject SHM/Splitsing/Informeren aandeelhouders en aandeelhoudersregister.htm" />
@@ -608,9 +607,6 @@
         <TocEntry
           Title="Nieuw bestuursorgaan"
           Link="/Content/Traject SHM/Partiële/Nieuw bestuursorgaan samenstellen.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Partiële/Recente jaarrekening en controleverslag.htm" />
         <TocEntry
           Title="Informeren aandeelhouders en aandeelhoudersregister"
           Link="/Content/Traject SHM/Partiële/Informeren aandeelhouders en aandeelhoudersregister.htm" />
