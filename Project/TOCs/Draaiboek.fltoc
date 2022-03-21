@@ -688,11 +688,11 @@
           Link="/Content/Traject SHM/Bedrijfstak/Voorstel van overdracht.htm" />
         <TocEntry
           Title="Uitnodigingen raden van bestuur"
-          Link="/Content/Traject SHM/Bedrijfstak/Uitnodigingen raden van bestuur.htm" />
+          Link="/Content/Traject SHM/Bedrijfstak/Uitnodigingen van de bestuursorganen.htm" />
       </TocEntry>
       <TocEntry
         Title="Eerste vergadering raden van bestuur"
-        Link="/Content/Traject SHM/Bedrijfstak/Bijeenkomsten raden van bestuur.htm" />
+        Link="/Content/Traject SHM/Bedrijfstak/Eerste vergadering van de bestuursorganen.htm" />
       <TocEntry
         Title="Neerlegging en bekendmaking"
         Link="/Content/Traject SHM/Bedrijfstak/Neerlegging en bekendmaking.htm" />
@@ -711,7 +711,7 @@
       </TocEntry>
       <TocEntry
         Title="Tweede vergadering raden van bestuur"
-        Link="/Content/Traject SHM/Bedrijfstak/Tweede vergadering raden van bestuur.htm" />
+        Link="/Content/Traject SHM/Bedrijfstak/Tweede vergadering van de bestuursorganen.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Bedrijfstak/Notariële overdrachtsakte.htm" />
