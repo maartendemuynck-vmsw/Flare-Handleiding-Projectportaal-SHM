@@ -444,7 +444,7 @@
           Link="/Content/Traject SHM/Splitsing/Bijzonder schriftelijk verslag.htm" />
         <TocEntry
           Title="Controleverslag "
-          Link="/Content/Traject SHM/Splitsing/Controleverslag van de bedrijfsrevisor.htm" />
+          Link="/Content/Traject SHM/Splitsing/Controleverslag van de commissaris.htm" />
         <TocEntry
           Title="Het bijzonder verslag wijziging rechten verbonden aan soorten aandelen"
           Link="/Content/Traject SHM/Splitsing/Het bijzonder verslag wijziging van de rechten verbonden aan soorten aandelen.htm" />
@@ -479,10 +479,7 @@
         Link="/Content/Traject SHM/Splitsing/Buitengewone algemene vergadering voorbereiden.htm">
         <TocEntry
           Title="Nieuwe bestuursorgaan"
-          Link="/Content/Traject SHM/Splitsing/Nieuwe raad van bestuur en algemene vergadering samenstellen.htm" />
-        <TocEntry
-          Title="Recente jaarrekening en controleverslag"
-          Link="/Content/Traject SHM/Splitsing/Recente jaarrekening en controleverslag.htm" />
+          Link="/Content/Traject SHM/Splitsing/Nieuw bestuursorgaan.htm" />
         <TocEntry
           Title="Informeren aandeelhouders en aandeelhoudersregister"
           Link="/Content/Traject SHM/Splitsing/Informeren aandeelhouders en aandeelhoudersregister.htm" />
@@ -609,9 +606,6 @@
           Title="Nieuw bestuursorgaan"
           Link="/Content/Traject SHM/Partiële/Nieuw bestuursorgaan samenstellen.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Partiële/Recente jaarrekening en controleverslag.htm" />
-        <TocEntry
           Title="Informeren aandeelhouders en aandeelhoudersregister"
           Link="/Content/Traject SHM/Partiële/Informeren aandeelhouders en aandeelhoudersregister.htm" />
         <TocEntry
@@ -687,18 +681,18 @@
           Link="/Content/Traject SHM/Bedrijfstak/Btw.htm" />
       </TocEntry>
       <TocEntry
-        Title="Voorbereiden raad van bestuur"
-        Link="/Content/Traject SHM/Bedrijfstak/Voorbereiden raad van bestuur.htm">
+        Title="Voorbereiden bestuursorgaan"
+        Link="/Content/Traject SHM/Bedrijfstak/Voorbereiden bestuursorgaan.htm">
         <TocEntry
           Title="Voorstel van overdracht"
           Link="/Content/Traject SHM/Bedrijfstak/Voorstel van overdracht.htm" />
         <TocEntry
-          Title="Uitnodigingen raden van bestuur"
-          Link="/Content/Traject SHM/Bedrijfstak/Uitnodigingen raden van bestuur.htm" />
+          Title="Uitnodigingen van de bestuursorganen"
+          Link="/Content/Traject SHM/Bedrijfstak/Uitnodigingen van de bestuursorganen.htm" />
       </TocEntry>
       <TocEntry
-        Title="Eerste vergadering raden van bestuur"
-        Link="/Content/Traject SHM/Bedrijfstak/Bijeenkomsten raden van bestuur.htm" />
+        Title="Eerste vergadering van de bestuursorganen"
+        Link="/Content/Traject SHM/Bedrijfstak/Eerste vergadering van de bestuursorganen.htm" />
       <TocEntry
         Title="Neerlegging en bekendmaking"
         Link="/Content/Traject SHM/Bedrijfstak/Neerlegging en bekendmaking.htm" />
@@ -716,8 +710,8 @@
           Link="/Content/Traject SHM/Bedrijfstak/Anderen.htm" />
       </TocEntry>
       <TocEntry
-        Title="Tweede vergadering raden van bestuur"
-        Link="/Content/Traject SHM/Bedrijfstak/Tweede vergadering raden van bestuur.htm" />
+        Title="Tweede vergadering van de bestuursorganen"
+        Link="/Content/Traject SHM/Bedrijfstak/Tweede vergadering van de bestuursorganen.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SHM/Bedrijfstak/Notariële overdrachtsakte.htm" />
