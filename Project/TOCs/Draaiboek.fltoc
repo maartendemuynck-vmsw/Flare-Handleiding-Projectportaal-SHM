@@ -758,7 +758,7 @@
           Link="/Content/Traject SHM/Algemeenheid/Btw.htm" />
       </TocEntry>
       <TocEntry
-        Title="Voorbereiden raad van bestuur"
+        Title="Voorbereiden van de vergadering van het bestuursorgaan"
         Link="/Content/Traject SHM/Algemeenheid/Voorbereiden raad van bestuur.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -767,11 +767,11 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Algemeenheid/Bijzonder schriftelijk verslag.htm" />
         <TocEntry
-          Title="Uitnodiging raden van bestuur"
+          Title="Uitnodiging van de bestuursorganen"
           Link="/Content/Traject SHM/Algemeenheid/Uitnodiging raden van bestuur.htm" />
       </TocEntry>
       <TocEntry
-        Title="Bijeenkomsten raden van bestuur"
+        Title="Bijeenkomsten van de bestuursorganen"
         Link="/Content/Traject SHM/Algemeenheid/Bijeenkomsten raden van bestuur.htm" />
       <TocEntry
         Title="Neerlegging en bekendmaking"
@@ -804,7 +804,7 @@
           Link="/Content/Traject SHM/Algemeenheid/Aanwezigheid en meerderheid AV overdragende.htm" />
       </TocEntry>
       <TocEntry
-        Title="(Tweede) Raad van bestuur verkrijgende maatschappij"
+        Title="(Tweede) vergadering van het bestuursorgaan van de verkrijgende maatschappij"
         Link="/Content/Traject SHM/Algemeenheid/Raad van bestuur verkrijger.htm" />
       <TocEntry
         Title="Notariële overdrachtsakte"
