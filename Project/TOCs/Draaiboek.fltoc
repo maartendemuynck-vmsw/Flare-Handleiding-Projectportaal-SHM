@@ -53,6 +53,9 @@
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Woonmaatschappijen/Doel/Andere actoren.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Woonmaatschappijen/Doel/Doel woonmaatschappij.htm" />
     </TocEntry>
     <TocEntry
       Title="Regelgeving"
