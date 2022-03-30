@@ -160,7 +160,7 @@
           Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Adviserende comités.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Presentiegelden en onkosten.htm" />
+          Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Presentiegelden en onkosten.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Nieuw opgerichte/Uitkeringsbeperking.htm" />
