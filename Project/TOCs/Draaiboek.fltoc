@@ -186,13 +186,14 @@
         Link="/Content/Woonmaatschappijen/Omgevormde SHM/Patrimonium.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Overdrachten.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Lopende financiering.htm" />
-        <TocEntry
-          Title="Vaststelling van de kostprijs"
-          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Vaststelling kostprijs.htm" />
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Overdrachten.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Woonmaatschappijen/Omgevormde SHM/Lopende financiering.htm" />
+          <TocEntry
+            Title="Vaststelling van de kostprijs"
+            Link="/Content/Woonmaatschappijen/Omgevormde SHM/Vaststelling kostprijs.htm" />
+        </TocEntry>
         <TocEntry
           Title="Financiering overdrachten"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Financiering overdrachten.htm" />
@@ -227,6 +228,9 @@
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Adviserende comités.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Woonmaatschappijen/Omgevormde SHM/Presentiegelden en onkosten.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Uitkeringsbeperking.htm" />
