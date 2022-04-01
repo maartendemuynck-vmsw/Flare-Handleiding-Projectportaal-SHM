@@ -229,7 +229,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Adviserende comités.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Prestatiegelden en onkosten"
           Link="/Content/Woonmaatschappijen/Omgevormde SHM/Presentiegelden en onkosten.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
