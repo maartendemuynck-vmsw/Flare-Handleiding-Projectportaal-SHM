@@ -60,14 +60,7 @@
     <TocEntry
       Title="Regelgeving"
       StartSection="false"
-      Link="/Content/Woonmaatschappijen/Regelgeving/Regelgeving.htm">
-      <TocEntry
-        Title="Decreet houdende wijziging van diverse decreten met betrekking tot wonen/Vlaamse Codex Wonen"
-        Link="/Content/Woonmaatschappijen/Regelgeving/KT decreet.htm" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Woonmaatschappijen/Regelgeving/Uitvoeringsbesluiten.htm" />
-    </TocEntry>
+      Link="/Content/Woonmaatschappijen/Regelgeving/Regelgeving.htm"></TocEntry>
     <TocEntry
       Title="Opdrachten"
       Link="/Content/Woonmaatschappijen/Opdrachten/Opdrachten.htm">
