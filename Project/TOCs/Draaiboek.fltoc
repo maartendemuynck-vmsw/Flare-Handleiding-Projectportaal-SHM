@@ -1080,7 +1080,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Informeer leden of aandeelhouders.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Veel tijd tussen voorstel en bijzondere algemene vergadering"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Tijd tussen voorstel overdracht en bijz AV.htm" />
         <TocEntry
           Title="De uitnodiging en de agenda"
@@ -1090,7 +1090,7 @@
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Documenten mee versturen.htm" />
       </TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Bijzondere algemene vergadering overdragende vzw"
         Link="/Content/Traject SVK vzw/overdracht algemeenheid/Bijzondere algemene vergadering overdragende vzw.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
