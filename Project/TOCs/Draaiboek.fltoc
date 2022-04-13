@@ -1085,9 +1085,6 @@
         <TocEntry
           Title="De uitnodiging en de agenda"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Uitnodiging en agenda.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Documenten mee versturen.htm" />
       </TocEntry>
       <TocEntry
         Title="Bijzondere algemene vergadering overdragende vzw"
