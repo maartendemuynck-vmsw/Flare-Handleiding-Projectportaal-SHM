@@ -1072,7 +1072,14 @@
       Link="/Content/Traject SVK vzw/overdracht algemeenheid/Overdracht van algemeenheid.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SVK vzw/overdracht algemeenheid/Toepassingsgebied.htm" />
+        Link="/Content/Traject SVK vzw/overdracht algemeenheid/Toepassingsgebied.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Entiteiten met verschillende rechtsvormen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/overdracht algemeenheid/De keuze van de formule.htm" />
+      </TocEntry>
       <TocEntry
         Title="Vaststelling van de prijs"
         Link="/Content/Traject SVK vzw/overdracht algemeenheid/Vaststelling van de prijs.htm" />
