@@ -1068,56 +1068,6 @@
       </TocEntry>
     </TocEntry>
     <TocEntry
-      Title="Voorafgaande Splitsing"
-      Link="/Content/Traject SVK vzw/Splitsing/Splitsing.htm">
-      <TocEntry
-        Title="Toepassingsgebied"
-        Link="/Content/Traject SVK vzw/Splitsing/Toepassingsgebied.htm"></TocEntry>
-      <TocEntry
-        Title="Voorbereiding raad van bestuur"
-        Link="/Content/Traject SVK vzw/Splitsing/Voorbereiding raad van bestuur.htm" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SVK vzw/Splitsing/Bijeenkomsten van de bestuursorganen.htm" />
-      <TocEntry
-        Title="Personeelszaken"
-        Link="/Content/Traject SVK vzw/Splitsing/Personeelszaken.htm">
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/Splitsing/Uw personeelsleden.htm" />
-        <TocEntry
-          Title="Gevolgen van cao nr.32 bis"
-          Link="/Content/Traject SVK vzw/Splitsing/Gevolgen cao 32 bis.htm"></TocEntry>
-        <TocEntry
-          Title="Anderen"
-          Link="/Content/Traject SVK vzw/Splitsing/Anderen.htm" />
-      </TocEntry>
-      <TocEntry
-        Title="Voorbereiden buitengewone algemene vergadering"
-        Link="/Content/Traject SVK vzw/Splitsing/Voorbereiding buitengewone algemene vergadering.htm" />
-      <TocEntry
-        Title="Buitengewone algemene vergaderingen"
-        Link="/Content/Traject SVK vzw/Splitsing/Buitengewone algemene vergadering.htm" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SVK vzw/Splitsing/Informeer tijdig de toezichthouder.htm" />
-      <TocEntry
-        Title="Bekendmaking"
-        Link="/Content/Traject SVK vzw/Splitsing/Bekendmaking.htm" />
-      <TocEntry
-        Title="Inwerkingtreding"
-        Link="/Content/Traject SVK vzw/Splitsing/Inwerkingtreding.htm" />
-      <TocEntry
-        Title="Tegenwerpbaarheid"
-        Link="/Content/Traject SVK vzw/Splitsing/Tegenwerpbaarheid.htm" />
-      <TocEntry
-        Title="Rechtsgevolgen"
-        Link="/Content/Traject SVK vzw/Splitsing/Rechtsgevolgen.htm" />
-      <TocEntry
-        Title="Praktische opvolging"
-        Link="/Content/Traject SVK vzw/Splitsing/Praktische opvolging.htm" />
-    </TocEntry>
-    <TocEntry
       Title="Overdracht van algemeenheid"
       Link="/Content/Traject SVK vzw/overdracht algemeenheid/Overdracht van algemeenheid.htm">
       <TocEntry
@@ -1287,6 +1237,56 @@
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Gevolgen voor lopende overeenkomsten.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Voorafgaande Splitsing"
+      Link="/Content/Traject SVK vzw/Splitsing/Splitsing.htm">
+      <TocEntry
+        Title="Toepassingsgebied"
+        Link="/Content/Traject SVK vzw/Splitsing/Toepassingsgebied.htm"></TocEntry>
+      <TocEntry
+        Title="Voorbereiding raad van bestuur"
+        Link="/Content/Traject SVK vzw/Splitsing/Voorbereiding raad van bestuur.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SVK vzw/Splitsing/Bijeenkomsten van de bestuursorganen.htm" />
+      <TocEntry
+        Title="Personeelszaken"
+        Link="/Content/Traject SVK vzw/Splitsing/Personeelszaken.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Traject SVK vzw/Splitsing/Uw personeelsleden.htm" />
+        <TocEntry
+          Title="Gevolgen van cao nr.32 bis"
+          Link="/Content/Traject SVK vzw/Splitsing/Gevolgen cao 32 bis.htm"></TocEntry>
+        <TocEntry
+          Title="Anderen"
+          Link="/Content/Traject SVK vzw/Splitsing/Anderen.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Voorbereiden buitengewone algemene vergadering"
+        Link="/Content/Traject SVK vzw/Splitsing/Voorbereiding buitengewone algemene vergadering.htm" />
+      <TocEntry
+        Title="Buitengewone algemene vergaderingen"
+        Link="/Content/Traject SVK vzw/Splitsing/Buitengewone algemene vergadering.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SVK vzw/Splitsing/Informeer tijdig de toezichthouder.htm" />
+      <TocEntry
+        Title="Bekendmaking"
+        Link="/Content/Traject SVK vzw/Splitsing/Bekendmaking.htm" />
+      <TocEntry
+        Title="Inwerkingtreding"
+        Link="/Content/Traject SVK vzw/Splitsing/Inwerkingtreding.htm" />
+      <TocEntry
+        Title="Tegenwerpbaarheid"
+        Link="/Content/Traject SVK vzw/Splitsing/Tegenwerpbaarheid.htm" />
+      <TocEntry
+        Title="Rechtsgevolgen"
+        Link="/Content/Traject SVK vzw/Splitsing/Rechtsgevolgen.htm" />
+      <TocEntry
+        Title="Praktische opvolging"
+        Link="/Content/Traject SVK vzw/Splitsing/Praktische opvolging.htm" />
     </TocEntry>
   </TocEntry>
   <TocEntry
