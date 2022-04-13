@@ -1080,7 +1080,7 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SVK vzw/overdracht algemeenheid/Fiscale aspecten.htm" />
       <TocEntry
-        Title="Voorbereiden van de vergadering van het bestuursorgaan"
+        Title="Voorbereiden vergadering van het bestuursorgaan"
         Link="/Content/Traject SVK vzw/overdracht algemeenheid/Voorbereiden vergadering van het bestuursorgaan.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -1096,7 +1096,7 @@
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Uitnodiging van de bestuursorganen.htm" />
       </TocEntry>
       <TocEntry
-        Title="Bijeenkomsten raden van bestuur"
+        Title="Bijeenkomsten van de bestuursorganen"
         Link="/Content/Traject SVK vzw/overdracht algemeenheid/Bijeenkomsten van de bestuursorganen.htm" />
       <TocEntry
         Title="Neerlegging en bekendmaking"
@@ -1126,15 +1126,12 @@
         <TocEntry
           Title="De uitnodiging en de agenda"
           Link="/Content/Traject SVK vzw/overdracht algemeenheid/Uitnodiging en agenda.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SVK vzw/overdracht algemeenheid/Documenten mee versturen.htm" />
       </TocEntry>
       <TocEntry
         Title="Bijzondere algemene vergadering overdragende vzw"
         Link="/Content/Traject SVK vzw/overdracht algemeenheid/Bijzondere algemene vergadering overdragende vzw.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="(Tweede) vergadering van het bestuursorgaan"
         Link="/Content/Traject SVK vzw/overdracht algemeenheid/Tweede vergadering bestuursorgaan verkrijger.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
@@ -1178,8 +1175,8 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Fiscale aspecten.htm" />
       <TocEntry
-        Title="Voorbereiden raad van bestuur"
-        Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Voorbereiden raad van bestuur.htm">
+        Title="Voorbereiden vergadering van het bestuursorgaan"
+        Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Voorbereiden vergadering bestuursorgaan.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Voorstel van overdracht.htm" />
@@ -1190,13 +1187,13 @@
           VolumeNumberReset="same"
           ChapterNumberReset="continue" />
         <TocEntry
-          Title="Uitnodiging raden van bestuur"
-          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Uitnodiging raden van bestuur.htm"
+          Title="Uitnodiging van de bestuursorganen"
+          Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Uitnodiging van de bestuursorganen.htm"
           ReplaceMergeNode="false" />
       </TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Bijeenkomsten raden van bestuur.htm" />
+        Title="Bijeenkomsten van de bestuursorganen"
+        Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Bijeenkomsten bestuursorganen.htm" />
       <TocEntry
         Title="Neerlegging en bekendmaking"
         Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Neerlegging en bekendmaking voorstel.htm" />
@@ -1214,13 +1211,13 @@
           Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Anderen.htm" />
       </TocEntry>
       <TocEntry
-        Title="(Tweede) raad van bestuur van de betrokken entiteiten"
+        Title="(Tweede) vergadering van de bestuursorganen"
         Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Raden van bestuur.htm" />
       <TocEntry
         Title="Notariële overdrachtsakte"
         Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Notariële overdrachtsakte.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Informeer toezichthouder"
         Link="/Content/Traject SVK vzw/overdracht bedrijfstak/Informeer toezichthouder.htm" />
       <TocEntry
         Title="Inwerkingtreding"
