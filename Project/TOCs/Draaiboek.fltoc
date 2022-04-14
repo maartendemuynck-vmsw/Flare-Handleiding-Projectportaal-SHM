@@ -950,16 +950,16 @@
       </TocEntry>
       <TocEntry
         Title="Andere overeenkomsten"
-        Link="/Content/Traject SHM/Individuele overeenkomsten/Individuele overeenkomsten.htm">
+        Link="/Content/Traject SHM/Andere overeenkomsten/Individuele overeenkomsten.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Individuele overeenkomsten/Sociale huurovereenkomsten.htm" />
+          Link="/Content/Traject SHM/Andere overeenkomsten/Sociale huurovereenkomsten.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Individuele overeenkomsten/Overeenkomsten met andere derden.htm" />
+          Link="/Content/Traject SHM/Andere overeenkomsten/Overeenkomsten met andere derden.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Individuele overeenkomsten/Arbeidsovereenkomsten.htm" />
+          Link="/Content/Traject SHM/Andere overeenkomsten/Arbeidsovereenkomsten.htm" />
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
