@@ -1290,7 +1290,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SVK vzw/Splitsing/Informeer uw leden.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Veel tijd tussen verrichtingsvoorstel en buitengewone algemene vergadering"
           Link="/Content/Traject SVK vzw/Splitsing/Veel tijd tussen verrichtingsvoorstel en BAV.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -1324,6 +1324,9 @@
       <TocEntry
         Title="Praktische opvolging"
         Link="/Content/Traject SVK vzw/Splitsing/Praktische opvolging.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Traject SVK vzw/Splitsing/Gevolgen voor lopende overeenkomsten.htm" />
     </TocEntry>
   </TocEntry>
   <TocEntry
