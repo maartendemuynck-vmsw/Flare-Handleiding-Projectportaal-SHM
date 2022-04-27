@@ -15,4 +15,8 @@
 # Add items to be ignored below                                                 #
 #################################################################################
 
-
+/docs/Output
+/docs/Analyzer
+/docs/FileSync
+/docs/Project/Users
+/docs/.svn

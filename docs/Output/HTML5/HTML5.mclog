@@ -1,9 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-04-27T11:56:57.8348644+02:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-04-27T15:53:29.6732386+02:00">
     <Messages>Publishing target HTML5...
 Connecting...
-remote: Repository not found.
-fatal: repository 'https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen.git/' not found
 Uploading files...
 Uploading csh.js... succeeded.
 Uploading index.htm... succeeded.
@@ -843,13 +841,24 @@ Uploading Skins/Fluid/Stylesheets/Images/icon-topic.png... succeeded.
 Uploading Skins/Fluid/Stylesheets/Images/icon-user-white.png... succeeded.
 Uploading Skins/Fluid/Stylesheets/Images/Menu.png... succeeded.
 Uploading Skins/Fluid/Stylesheets/Images/Tekstlogo_VMSW_wit.png... succeeded.
-remote: Repository not found.
-fatal: repository 'https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen.git/' not found
-Publish failed: fatal: repository 'https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen.git/' not found 
+Checking in: index.mcwebhelp
+Checking in: Content/Inleiding.htm
+Checking in: Data/HelpSystem.js
+Checking in: Data/HelpSystem.xml
+Checking in: Data/Search.js
+Checking in: Data/SearchPhrase_Chunk0.js
+Checking in: Data/SearchPhrase_Chunk1.js
+Checking in: Data/SearchPhrase_Chunk2.js
+Checking in: Data/SearchStem_Chunk0.js
+Checking in: Resources/Scripts/require.config.js
+too many redirects or authentication replays : Could not authenticate.
+Publish failed: too many redirects or authentication replays : Could not authenticate.
+ 
 Saving log to "C:\Flare-Handleiding-Draaiboek-Woonmaatschappijen\docs\Output\HTML5\HTML5.mclog"
 </Messages>
     <Warnings />
     <Errors>
-        <LogEntry File="../../../Project/Destinations/GitHub.fldes" Message="Publish failed: fatal: repository 'https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen.git/' not found &#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Publisher" Target="HTML5" ErrorID="140006" />
+        <LogEntry Message="too many redirects or authentication replays : Could not authenticate.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Source Control" ErrorID="160030" />
+        <LogEntry File="../../../Project/Destinations/GitHub.fldes" Message="Publish failed: too many redirects or authentication replays : Could not authenticate.&#xA; &#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Publisher" Target="HTML5" ErrorID="140006" />
     </Errors>
 </MadCapLog>
