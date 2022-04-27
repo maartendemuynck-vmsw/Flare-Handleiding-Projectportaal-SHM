@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Stylesheets/DraaiboekWM_Clean_Flare.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div>
+            <p class="Koptekst_1">&#160;</p>
+            <p class="Koptekst_1">&#160;</p>
+            <p class="Koptekst_1"><span class="span_42">WERKDOCUMENT – LOUTER VOOR DISCUSSIEDOELEINDEN</span>
+            </p>
+            <p class="Koptekst_1"><span class="span_42">Versie 30/03/2021 – Mark-up Eubelius</span>
+            </p>
+            <p class="Koptekst">&#160;</p>
+        </div>
+        <MadCap:bodyProxy />
+        <div>
+            <p class="Plattetekst">
+                <div class="div_1">
+                    <p class="Plattetekst_63">10</p>
+                </div>
+                <div class="div_2">
+                    <p class="p_56">DRAAIBOEK FUSIES VAN SOCIALE HUISVESTINGSMAATSCHAPPIJEN</p>
+                </div>
+            </p>
+        </div>
+    </body>
+</html>

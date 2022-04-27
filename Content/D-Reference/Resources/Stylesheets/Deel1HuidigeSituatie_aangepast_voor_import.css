@@ -1,0 +1,309 @@
+/*<meta />*/
+
+/*<meta sourceDocument="C:\Users\nj1474\OneDrive - VMSW\Documenten\Deel1HuidigeSituatie_aangepast_voor_import.docx" />*/
+
+p
+{
+	font-family: FlandersArtSans-Regular;
+	font-size: 11pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ol
+{
+	font-family: FlandersArtSans-Regular;
+	font-size: 11pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ul
+{
+	font-family: FlandersArtSans-Regular;
+	font-size: 11pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+li
+{
+	font-family: FlandersArtSans-Regular;
+	font-size: 11pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+td
+{
+	font-family: FlandersArtSans-Regular;
+	font-size: 11pt;
+	vertical-align: top;
+}
+
+p.Kop2
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 10pt;
+	margin-bottom: 12pt;
+	mc-heading-level: 2;
+	font-family: FlandersArtSans-Regular;
+	text-transform: uppercase;
+	color: #17465B;
+	font-size: 16pt;
+}
+
+span.Verwijzingopmerking
+{
+	font-size: 8pt;
+}
+
+p.Kop2_1
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 10pt;
+	margin-bottom: 12pt;
+	mc-heading-level: 2;
+	text-transform: uppercase;
+	color: #17465B;
+	font-size: 16pt;
+	font-family: Calibri;
+}
+
+p.p_1
+{
+	text-align: justify;
+	font-family: Calibri;
+}
+
+p.p_2
+{
+	margin-left: 35pt;
+	text-align: justify;
+}
+
+p.p_3
+{
+	text-align: justify;
+}
+
+p.Kop3
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 12pt;
+	margin-bottom: 6pt;
+	mc-heading-level: 3;
+	font-family: FlandersArtSans-Bold;
+	color: #17465B;
+	font-size: 12pt;
+}
+
+p.Kop4
+{
+	font-size: 11pt;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 10pt;
+	margin-bottom: 4pt;
+	mc-heading-level: 4;
+	font-family: FlandersArtSans-Bold;
+	color: #17465B;
+	text-decoration: underline;
+}
+
+p.Kop5
+{
+	font-size: 11pt;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 10pt;
+	mc-heading-level: 5;
+	font-family: FlandersArtSans-Regular;
+	color: #17465B;
+}
+
+p.Kop3_1
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 12pt;
+	margin-bottom: 6pt;
+	mc-heading-level: 3;
+	color: #17465B;
+	font-size: 12pt;
+	font-family: Calibri;
+}
+
+p.Kop4_1
+{
+	font-size: 11pt;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 10pt;
+	margin-bottom: 4pt;
+	mc-heading-level: 4;
+	color: #17465B;
+	text-decoration: underline;
+	font-family: Calibri;
+}
+
+p.Kop5_1
+{
+	font-size: 11pt;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 10pt;
+	mc-heading-level: 5;
+	color: #17465B;
+	font-family: Calibri;
+}
+
+span.span_1
+{
+	font-family: Calibri;
+}
+
+li.li_1
+{
+	text-align: justify;
+	font-family: Calibri;
+}
+
+li.li_2
+{
+	text-align: justify;
+}
+
+ol.ol_1
+{
+	padding-left: 0px;
+	list-style-type: decimal;
+	margin-left: 36pt;
+}
+
+p.Kop4_2
+{
+	font-size: 11pt;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 10pt;
+	margin-bottom: 4pt;
+	mc-heading-level: 4;
+	font-family: FlandersArtSans-Bold;
+	color: #17465B;
+	text-decoration: underline;
+	margin-left: 35pt;
+	text-align: justify;
+}
+
+p.p_4
+{
+	margin-left: 0pt;
+	text-align: justify;
+}
+
+p.Lijstalinea
+{
+	font-size: 11pt;
+	font-family: FlandersArtSans-Regular;
+}
+
+li.Lijstalinea
+{
+	font-size: 11pt;
+	font-family: FlandersArtSans-Regular;
+}
+
+p.p_5
+{
+	text-indent: 15pt;
+	margin-left: 0pt;
+	text-align: justify;
+	font-family: Calibri;
+}
+
+p.Lijstalinea_1
+{
+	font-size: 11pt;
+	text-align: justify;
+	font-family: Calibri;
+}
+
+li.Lijstalinea_1
+{
+	font-size: 11pt;
+	text-align: justify;
+	font-family: Calibri;
+}
+
+ol.ol_2
+{
+	padding-left: 0px;
+	list-style-type: decimal;
+	margin-left: 21pt;
+}
+
+ol.ol_3
+{
+	padding-left: 0px;
+	list-style-type: decimal;
+	margin-left: 39pt;
+}
+
+img.img_1
+{
+	left: 0;
+	text-align: left;
+	z-index: 1;
+	visibility: visible;
+	mso-wrap-style: square;
+	mso-width-percent: 0;
+	mso-height-percent: 0;
+	mso-wrap-distance-left: 9pt;
+	mso-wrap-distance-top: 0;
+	mso-wrap-distance-right: 9pt;
+	mso-wrap-distance-bottom: 0;
+	mso-position-horizontal: absolute;
+	mso-position-horizontal-relative: margin;
+	mso-position-vertical: absolute;
+	mso-position-vertical-relative: margin;
+	mso-width-percent: 0;
+	mso-height-percent: 0;
+	mso-width-relative: margin;
+	mso-height-relative: margin;
+	margin-left: 0pt;
+	width: 508px;
+	height: 348px;
+}
+
+p.Kop2_2
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 10pt;
+	margin-bottom: 12pt;
+	mc-heading-level: 2;
+	font-family: FlandersArtSans-Regular;
+	text-transform: uppercase;
+	color: #17465B;
+	font-size: 16pt;
+	margin-left: 29pt;
+}
+
+p.Lijstalinea_2
+{
+	font-size: 11pt;
+	font-family: FlandersArtSans-Regular;
+	text-align: justify;
+}
+
+li.Lijstalinea_2
+{
+	font-size: 11pt;
+	font-family: FlandersArtSans-Regular;
+	text-align: justify;
+}
+
