@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="ftp.myftpserver.com"
+  User="MyAccountId"
+  Password=""
+  Directory="C:\Flare-Handleiding-Draaiboek-Woonmaatschappijen\docs"
+  Port="22"
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="scm"
+  ProviderType="Git"
+  Database="file:///C:/Flare-Handleiding-Draaiboek-Woonmaatschappijen/.git"
+  DatabaseRoot="file:///C:/Flare-Handleiding-Draaiboek-Woonmaatschappijen/docs"
+  PushToRemote="true"
+  RemoteRepository="origin"
+  UploadLogFile="false"
+  RemoveStale="false"
+  ChangedOnly="false"
+  SftpServerValidation="validation-none"
+  SftpAuthentication="authentication-password"></CatapultDestination>
