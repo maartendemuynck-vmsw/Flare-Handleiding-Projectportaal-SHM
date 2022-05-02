@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-02T12:06:11.4429278+02:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-02T12:11:22.6646553+02:00">
     <Messages>Compiling target HTML5...
 Removing previously generated content...
 Loading skin info...
@@ -1846,7 +1846,7 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated index.htm
 Saving result set...
 Ignored Compiler Warnings: 43
-Output generated in 52 second(s).
+Output generated in 51 second(s).
 
 Done
 Publishing target HTML5...
@@ -2697,43 +2697,7 @@ Uploading Skins/Fluid/Stylesheets/Images/Menu.png... succeeded.
 Uploading Skins/Fluid/Stylesheets/Images/Tekstlogo_VMSW_wit.png... succeeded.
 Checking in: index.mcwebhelp
 Checking in: Content/Inleiding.htm
-Adding: Content/Ondersteuning/FAQ stemrechten.htm
 Checking in: Content/Ondersteuning/FAQ stemrechten.htm
-Checking in: Content/Ondersteuning/Ondersteuning.htm
-Checking in: Content/Traject SHM/Inbeheergave.htm
-Checking in: Content/Traject SHM/Keuze van procedure.htm
-Checking in: Content/Traject SHM/Tijdelijke overdrachten tot 2028.htm
-Checking in: Content/Traject SHM/Vruchtgebruik.htm
-Checking in: Content/Traject SHM/Algemeenheid/Overdracht van algemeenheid.htm
-Checking in: Content/Traject SHM/Andere overeenkomsten/Individuele overeenkomsten.htm
-Checking in: Content/Traject SHM/Andere overeenkomsten/Overeenkomsten met derden.htm
-Checking in: Content/Traject SHM/Andere overeenkomsten/Sociale huurovereenkomsten.htm
-Checking in: Content/Traject SHM/Bestaande erfpacht/Bestaande erfpacht.htm
-Checking in: Content/Traject SHM/Bestaande erfpacht/Financiering.htm
-Checking in: Content/Traject SHM/Bestaande erfpacht/Kenmerken.htm
-Checking in: Content/Traject SHM/Bestaande erfpacht/Kosten.htm
-Checking in: Content/Traject SHM/Bestaande erfpacht/Stappenplan.htm
-Checking in: Content/Traject SHM/Bestaande erfpacht/Voor- en nadelen.htm
-Adding: Content/Traject SHM/Individuele overdrachten/Individuele overdrachten.htm
-Checking in: Content/Traject SHM/Individuele overdrachten/Individuele overdrachten.htm
-Adding: Content/Traject SHM/Individuele overdrachten/Patrimonium-definitieve overdracht vermogensrechten.htm
-Checking in: Content/Traject SHM/Individuele overdrachten/Patrimonium-definitieve overdracht vermogensrechten.htm
-Checking in: Content/Traject SHM/Patrimonium - definitieve overdrachten/Individuele overdrachten.htm
-Checking in: Content/Traject SHM/Patrimonium - definitieve overdrachten/Patrimonium-definitieve overdracht vermogensrechten.htm
-Checking in: Content/Traject SHM/Ruil/Kosten ruil.htm
-Checking in: Content/Traject SHM/Schenking/Kenmerken schenking.htm
-Checking in: Content/Traject SHM/Schenking/Kosten schenking.htm
-Checking in: Content/Traject SHM/Schenking/Stappenplan.htm
-Checking in: Content/Traject SHM/Verkoop/Financiering verkoop.htm
-Checking in: Content/Traject SHM/Verkoop/Fiscale aspecten verkoop.htm
-Checking in: Content/Traject SHM/Verkoop/Kosten verkoop.htm
-Checking in: Content/Traject SHM/Verkoop/Prijs verkoop.htm
-Checking in: Content/Traject SHM/Verkoop/Stappenplan verkoop.htm
-Checking in: Content/Traject SHM/Verkoop/Verkoop.htm
-Checking in: Content/Traject SHM/Verkoop/Voor- en nadelen verkoop.htm
-Checking in: Content/Traject SVK vzw/Traject SVK vzw.htm
-Checking in: Content/Traject SVK vzw/Individuele overdrachten/Inbeheergave.htm
-Checking in: Content/Woonmaatschappijen/Regelgeving/Regelgeving.htm
 Checking in: Data/HelpSystem.js
 Checking in: Data/HelpSystem.xml
 Checking in: Data/Search.js
@@ -2746,9 +2710,6 @@ Checking in: Data/SearchPhrase_Chunk13.js
 Checking in: Data/SearchPhrase_Chunk14.js
 Checking in: Data/SearchPhrase_Chunk15.js
 Checking in: Data/SearchPhrase_Chunk16.js
-Checking in: Data/SearchPhrase_Chunk17.js
-Checking in: Data/SearchPhrase_Chunk18.js
-Checking in: Data/SearchPhrase_Chunk19.js
 Checking in: Data/SearchPhrase_Chunk2.js
 Checking in: Data/SearchPhrase_Chunk20.js
 Checking in: Data/SearchPhrase_Chunk21.js
@@ -2788,7 +2749,6 @@ Checking in: Data/SearchPhrase_Chunk51.js
 Checking in: Data/SearchPhrase_Chunk52.js
 Checking in: Data/SearchPhrase_Chunk53.js
 Checking in: Data/SearchPhrase_Chunk54.js
-Checking in: Data/SearchPhrase_Chunk55.js
 Checking in: Data/SearchPhrase_Chunk56.js
 Checking in: Data/SearchPhrase_Chunk57.js
 Checking in: Data/SearchPhrase_Chunk58.js
@@ -2803,9 +2763,7 @@ Checking in: Data/SearchPhrase_Chunk65.js
 Checking in: Data/SearchPhrase_Chunk66.js
 Checking in: Data/SearchPhrase_Chunk67.js
 Checking in: Data/SearchPhrase_Chunk68.js
-Checking in: Data/SearchPhrase_Chunk69.js
 Checking in: Data/SearchPhrase_Chunk7.js
-Checking in: Data/SearchPhrase_Chunk70.js
 Checking in: Data/SearchPhrase_Chunk71.js
 Checking in: Data/SearchPhrase_Chunk72.js
 Checking in: Data/SearchPhrase_Chunk73.js
@@ -2821,38 +2779,10 @@ Checking in: Data/SearchPhrase_Chunk81.js
 Checking in: Data/SearchPhrase_Chunk82.js
 Checking in: Data/SearchPhrase_Chunk83.js
 Checking in: Data/SearchPhrase_Chunk84.js
-Adding: Data/SearchPhrase_Chunk85.js
 Checking in: Data/SearchPhrase_Chunk85.js
 Checking in: Data/SearchPhrase_Chunk9.js
-Checking in: Data/SearchStem_Chunk0.js
-Checking in: Data/SearchStem_Chunk1.js
-Checking in: Data/SearchStem_Chunk10.js
-Checking in: Data/SearchStem_Chunk11.js
-Checking in: Data/SearchStem_Chunk12.js
-Checking in: Data/SearchStem_Chunk13.js
-Checking in: Data/SearchStem_Chunk14.js
-Checking in: Data/SearchStem_Chunk2.js
-Checking in: Data/SearchStem_Chunk3.js
-Checking in: Data/SearchStem_Chunk4.js
-Checking in: Data/SearchStem_Chunk5.js
-Checking in: Data/SearchStem_Chunk6.js
-Checking in: Data/SearchStem_Chunk7.js
-Checking in: Data/SearchStem_Chunk8.js
-Checking in: Data/SearchStem_Chunk9.js
-Checking in: Data/SearchTopic_Chunk0.js
-Checking in: Data/SearchTopic_Chunk1.js
-Checking in: Data/SearchTopic_Chunk2.js
-Checking in: Data/SearchTopic_Chunk3.js
-Checking in: Data/SearchTopic_Chunk4.js
-Checking in: Data/SearchTopic_Chunk5.js
-Checking in: Data/SearchTopic_Chunk6.js
 Checking in: Data/SearchTopic_Chunk7.js
-Checking in: Data/SearchTopic_Chunk8.js
-Checking in: Data/SearchUrl_Chunk0.js
-Checking in: Data/SearchUrl_Chunk1.js
-Checking in: Data/Tocs/Draaiboek.js
 Checking in: Data/Tocs/Draaiboek_Chunk0.js
-Checking in: Data/Tocs/Draaiboek_Chunk1.js
 Checking in: Resources/Scripts/require.config.js
 too many redirects or authentication replays : Could not authenticate.
 Publish failed: too many redirects or authentication replays : Could not authenticate.
