@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-02T12:25:39.8401807+02:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-02T14:03:43.7017497+02:00">
     <Messages>Compiling target HTML5...
 Removing previously generated content...
 Loading skin info...
@@ -1846,7 +1846,7 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated index.htm
 Saving result set...
 Ignored Compiler Warnings: 43
-Output generated in 1 minute(s) and 20 second(s).
+Output generated in 1 minute(s) and 11 second(s).
 
 Done
 Publishing target HTML5...
@@ -2695,96 +2695,24 @@ Uploading Skins/Fluid/Stylesheets/Images/icon-topic.png... succeeded.
 Uploading Skins/Fluid/Stylesheets/Images/icon-user-white.png... succeeded.
 Uploading Skins/Fluid/Stylesheets/Images/Menu.png... succeeded.
 Uploading Skins/Fluid/Stylesheets/Images/Tekstlogo_VMSW_wit.png... succeeded.
+Checking in: csh.js
+Checking in: index.js
 Checking in: index.mcwebhelp
 Checking in: Content/Inleiding.htm
-Checking in: Content/Ondersteuning/FAQ stemrechten.htm
 Checking in: Data/HelpSystem.js
 Checking in: Data/HelpSystem.xml
-Checking in: Data/Search.js
 Checking in: Data/SearchPhrase_Chunk0.js
 Checking in: Data/SearchPhrase_Chunk1.js
-Checking in: Data/SearchPhrase_Chunk10.js
-Checking in: Data/SearchPhrase_Chunk11.js
-Checking in: Data/SearchPhrase_Chunk12.js
-Checking in: Data/SearchPhrase_Chunk13.js
-Checking in: Data/SearchPhrase_Chunk14.js
-Checking in: Data/SearchPhrase_Chunk15.js
-Checking in: Data/SearchPhrase_Chunk16.js
-Checking in: Data/SearchPhrase_Chunk2.js
-Checking in: Data/SearchPhrase_Chunk20.js
-Checking in: Data/SearchPhrase_Chunk21.js
-Checking in: Data/SearchPhrase_Chunk22.js
-Checking in: Data/SearchPhrase_Chunk23.js
-Checking in: Data/SearchPhrase_Chunk24.js
-Checking in: Data/SearchPhrase_Chunk25.js
-Checking in: Data/SearchPhrase_Chunk26.js
-Checking in: Data/SearchPhrase_Chunk27.js
-Checking in: Data/SearchPhrase_Chunk28.js
-Checking in: Data/SearchPhrase_Chunk29.js
-Checking in: Data/SearchPhrase_Chunk3.js
-Checking in: Data/SearchPhrase_Chunk30.js
-Checking in: Data/SearchPhrase_Chunk31.js
-Checking in: Data/SearchPhrase_Chunk32.js
-Checking in: Data/SearchPhrase_Chunk33.js
-Checking in: Data/SearchPhrase_Chunk34.js
-Checking in: Data/SearchPhrase_Chunk35.js
-Checking in: Data/SearchPhrase_Chunk36.js
-Checking in: Data/SearchPhrase_Chunk37.js
-Checking in: Data/SearchPhrase_Chunk38.js
-Checking in: Data/SearchPhrase_Chunk39.js
-Checking in: Data/SearchPhrase_Chunk4.js
-Checking in: Data/SearchPhrase_Chunk40.js
-Checking in: Data/SearchPhrase_Chunk41.js
-Checking in: Data/SearchPhrase_Chunk42.js
-Checking in: Data/SearchPhrase_Chunk43.js
-Checking in: Data/SearchPhrase_Chunk44.js
-Checking in: Data/SearchPhrase_Chunk45.js
-Checking in: Data/SearchPhrase_Chunk46.js
-Checking in: Data/SearchPhrase_Chunk47.js
-Checking in: Data/SearchPhrase_Chunk48.js
-Checking in: Data/SearchPhrase_Chunk49.js
-Checking in: Data/SearchPhrase_Chunk5.js
-Checking in: Data/SearchPhrase_Chunk50.js
-Checking in: Data/SearchPhrase_Chunk51.js
-Checking in: Data/SearchPhrase_Chunk52.js
-Checking in: Data/SearchPhrase_Chunk53.js
-Checking in: Data/SearchPhrase_Chunk54.js
-Checking in: Data/SearchPhrase_Chunk55.js
-Checking in: Data/SearchPhrase_Chunk56.js
-Checking in: Data/SearchPhrase_Chunk57.js
-Checking in: Data/SearchPhrase_Chunk58.js
-Checking in: Data/SearchPhrase_Chunk59.js
-Checking in: Data/SearchPhrase_Chunk6.js
-Checking in: Data/SearchPhrase_Chunk60.js
-Checking in: Data/SearchPhrase_Chunk61.js
-Checking in: Data/SearchPhrase_Chunk62.js
-Checking in: Data/SearchPhrase_Chunk63.js
-Checking in: Data/SearchPhrase_Chunk64.js
-Checking in: Data/SearchPhrase_Chunk65.js
-Checking in: Data/SearchPhrase_Chunk66.js
-Checking in: Data/SearchPhrase_Chunk67.js
-Checking in: Data/SearchPhrase_Chunk68.js
-Checking in: Data/SearchPhrase_Chunk7.js
-Checking in: Data/SearchPhrase_Chunk71.js
-Checking in: Data/SearchPhrase_Chunk72.js
-Checking in: Data/SearchPhrase_Chunk73.js
-Checking in: Data/SearchPhrase_Chunk74.js
-Checking in: Data/SearchPhrase_Chunk75.js
-Checking in: Data/SearchPhrase_Chunk76.js
-Checking in: Data/SearchPhrase_Chunk77.js
-Checking in: Data/SearchPhrase_Chunk78.js
-Checking in: Data/SearchPhrase_Chunk79.js
-Checking in: Data/SearchPhrase_Chunk8.js
-Checking in: Data/SearchPhrase_Chunk80.js
-Checking in: Data/SearchPhrase_Chunk81.js
-Checking in: Data/SearchPhrase_Chunk82.js
-Checking in: Data/SearchPhrase_Chunk83.js
-Checking in: Data/SearchPhrase_Chunk84.js
-Checking in: Data/SearchPhrase_Chunk85.js
-Checking in: Data/SearchPhrase_Chunk9.js
-Checking in: Data/SearchStem_Chunk10.js
+Checking in: Data/SearchTopic_Chunk0.js
+Checking in: Data/SearchTopic_Chunk1.js
+Checking in: Data/SearchTopic_Chunk2.js
+Checking in: Data/SearchTopic_Chunk3.js
+Checking in: Data/SearchTopic_Chunk4.js
+Checking in: Data/SearchTopic_Chunk5.js
+Checking in: Data/SearchTopic_Chunk6.js
 Checking in: Data/SearchTopic_Chunk7.js
-Checking in: Data/Tocs/Draaiboek_Chunk0.js
+Checking in: Data/SearchTopic_Chunk8.js
+Checking in: Resources/Scripts/MadCapAll.js
 Checking in: Resources/Scripts/require.config.js
 too many redirects or authentication replays : Could not authenticate.
 Publish failed: too many redirects or authentication replays : Could not authenticate.
