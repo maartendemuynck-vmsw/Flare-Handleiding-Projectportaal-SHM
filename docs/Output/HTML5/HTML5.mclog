@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-02T12:11:22.6646553+02:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-02T12:25:39.8401807+02:00">
     <Messages>Compiling target HTML5...
 Removing previously generated content...
 Loading skin info...
@@ -1846,7 +1846,7 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated index.htm
 Saving result set...
 Ignored Compiler Warnings: 43
-Output generated in 51 second(s).
+Output generated in 1 minute(s) and 20 second(s).
 
 Done
 Publishing target HTML5...
@@ -2749,6 +2749,7 @@ Checking in: Data/SearchPhrase_Chunk51.js
 Checking in: Data/SearchPhrase_Chunk52.js
 Checking in: Data/SearchPhrase_Chunk53.js
 Checking in: Data/SearchPhrase_Chunk54.js
+Checking in: Data/SearchPhrase_Chunk55.js
 Checking in: Data/SearchPhrase_Chunk56.js
 Checking in: Data/SearchPhrase_Chunk57.js
 Checking in: Data/SearchPhrase_Chunk58.js
@@ -2781,6 +2782,7 @@ Checking in: Data/SearchPhrase_Chunk83.js
 Checking in: Data/SearchPhrase_Chunk84.js
 Checking in: Data/SearchPhrase_Chunk85.js
 Checking in: Data/SearchPhrase_Chunk9.js
+Checking in: Data/SearchStem_Chunk10.js
 Checking in: Data/SearchTopic_Chunk7.js
 Checking in: Data/Tocs/Draaiboek_Chunk0.js
 Checking in: Resources/Scripts/require.config.js
