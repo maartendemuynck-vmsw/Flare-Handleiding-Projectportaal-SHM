@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-04-27T15:53:29.6732386+02:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-04-27T16:01:16.3441613+02:00">
     <Messages>Publishing target HTML5...
 Connecting...
 Uploading files...
@@ -841,16 +841,6 @@ Uploading Skins/Fluid/Stylesheets/Images/icon-topic.png... succeeded.
 Uploading Skins/Fluid/Stylesheets/Images/icon-user-white.png... succeeded.
 Uploading Skins/Fluid/Stylesheets/Images/Menu.png... succeeded.
 Uploading Skins/Fluid/Stylesheets/Images/Tekstlogo_VMSW_wit.png... succeeded.
-Checking in: index.mcwebhelp
-Checking in: Content/Inleiding.htm
-Checking in: Data/HelpSystem.js
-Checking in: Data/HelpSystem.xml
-Checking in: Data/Search.js
-Checking in: Data/SearchPhrase_Chunk0.js
-Checking in: Data/SearchPhrase_Chunk1.js
-Checking in: Data/SearchPhrase_Chunk2.js
-Checking in: Data/SearchStem_Chunk0.js
-Checking in: Resources/Scripts/require.config.js
 too many redirects or authentication replays : Could not authenticate.
 Publish failed: too many redirects or authentication replays : Could not authenticate.
  
