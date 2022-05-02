@@ -833,10 +833,10 @@
     </TocEntry>
     <TocEntry
       Title="Individuele overdrachten"
-      Link="/Content/Traject SHM/Patrimonium - definitieve overdrachten/Individuele overdrachten.htm">
+      Link="/Content/Traject SHM/Individuele overdrachten/Individuele overdrachten.htm">
       <TocEntry
         Title="Patrimonium-definitieve overdracht vermogensrechten"
-        Link="/Content/Traject SHM/Patrimonium - definitieve overdrachten/Patrimonium-definitieve overdracht vermogensrechten.htm">
+        Link="/Content/Traject SHM/Individuele overdrachten/Patrimonium-definitieve overdracht vermogensrechten.htm">
         <TocEntry
           Title="Verkoop"
           Link="/Content/Traject SHM/Verkoop/Verkoop.htm">
@@ -956,7 +956,7 @@
           Link="/Content/Traject SHM/Andere overeenkomsten/Sociale huurovereenkomsten.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Traject SHM/Andere overeenkomsten/Overeenkomsten met derden.htm" />
+          Link="/Content/Traject SHM/Andere overeenkomsten/Overeenkomsten met andere derden.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Andere overeenkomsten/Arbeidsovereenkomsten.htm" />
@@ -1587,6 +1587,9 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Ondersteuning/Voorbeeldstappenplan.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Ondersteuning/FAQ stemrechten.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Ondersteuning/Veelgestelde vragen.htm" />
