@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-03T14:30:12.6625701+02:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-03T15:01:15.4077818+02:00">
     <Messages>Compiling target HTML5...
 Removing previously generated content...
 Loading skin info...
@@ -1595,9 +1595,6 @@ Generated Traject SVK vzw\Fusie\Aanwezigheid en meerderheid.htm
 Processing topic: Traject SVK vzw\inbreng bedrijfstak\Fiscale aspecten.htm...
 Applying master page Other-Topics.flmsp...
 Generated Traject SVK vzw\inbreng bedrijfstak\Fiscale aspecten.htm
-Processing topic: Traject SVK vzw\overdracht algemeenheid\Overdrachten SVK aan SHM-WM.htm...
-Applying master page Other-Topics.flmsp...
-Generated Traject SVK vzw\overdracht algemeenheid\Overdrachten SVK aan SHM-WM.htm
 Processing topic: Traject SVK vzw\Fusie\Uitnodiging raden van bestuur.htm...
 Applying master page Other-Topics.flmsp...
 Generated Traject SVK vzw\Fusie\Uitnodiging raden van bestuur.htm
@@ -1845,7 +1842,7 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated index.htm
 Saving result set...
 Ignored Compiler Warnings: 43
-Output generated in 55 second(s).
+Output generated in 51 second(s).
 
 Done
 Publishing target HTML5...
@@ -2311,7 +2308,6 @@ Uploading Content/Traject SVK vzw/overdracht algemeenheid/Neerlegging en bekendm
 Uploading Content/Traject SVK vzw/overdracht algemeenheid/Notariële overdrachtsakte.htm... succeeded.
 Uploading Content/Traject SVK vzw/overdracht algemeenheid/Overdracht om niet.htm... succeeded.
 Uploading Content/Traject SVK vzw/overdracht algemeenheid/Overdracht van algemeenheid.htm... succeeded.
-Uploading Content/Traject SVK vzw/overdracht algemeenheid/Overdrachten SVK aan SHM-WM.htm... succeeded.
 Uploading Content/Traject SVK vzw/overdracht algemeenheid/Personeelzaken.htm... succeeded.
 Uploading Content/Traject SVK vzw/overdracht algemeenheid/Rechtsgevolgen.htm... succeeded.
 Uploading Content/Traject SVK vzw/overdracht algemeenheid/Staat van activa en passiva.htm... succeeded.
@@ -2698,8 +2694,8 @@ Uploading Skins/Fluid/Stylesheets/Images/Menu.png... succeeded.
 Uploading Skins/Fluid/Stylesheets/Images/Tekstlogo_VMSW_wit.png... succeeded.
 Checking in: index.mcwebhelp
 Checking in: Content/Inleiding.htm
-Checking in: Content/Traject SHM/Andere overeenkomsten/Individuele overeenkomsten.htm
-Checking in: Content/Traject SHM/Andere overeenkomsten/Overeenkomsten met andere derden.htm
+Checking in: Content/Traject SVK vzw/overdracht algemeenheid/Overdracht van algemeenheid.htm
+Checking in: Content/Woonmaatschappijen/Nieuw opgerichte/Financiering.htm
 Checking in: Data/HelpSystem.js
 Checking in: Data/HelpSystem.xml
 Checking in: Data/Search.js
@@ -2713,7 +2709,6 @@ Checking in: Data/SearchPhrase_Chunk14.js
 Checking in: Data/SearchPhrase_Chunk15.js
 Checking in: Data/SearchPhrase_Chunk16.js
 Checking in: Data/SearchPhrase_Chunk17.js
-Checking in: Data/SearchPhrase_Chunk18.js
 Checking in: Data/SearchPhrase_Chunk19.js
 Checking in: Data/SearchPhrase_Chunk2.js
 Checking in: Data/SearchPhrase_Chunk20.js
@@ -2817,7 +2812,7 @@ Checking in: Data/SearchUrl_Chunk0.js
 Checking in: Data/SearchUrl_Chunk1.js
 Checking in: Resources/Scripts/require.config.js
 To https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen.git
-   95fb1d40..4187f67c  master -&gt; master
+   cfda239d..2f2fb213  master -&gt; master
 Publish complete.
 Saving log to "C:\Flare-Handleiding-Draaiboek-Woonmaatschappijen\docs\Output\HTML5\HTML5.mclog"
 </Messages>
