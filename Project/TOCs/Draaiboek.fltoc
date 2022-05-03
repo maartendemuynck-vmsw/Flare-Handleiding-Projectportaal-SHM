@@ -955,7 +955,7 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Traject SHM/Andere overeenkomsten/Sociale huurovereenkomsten.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Overeenkomsten met derden"
           Link="/Content/Traject SHM/Andere overeenkomsten/Overeenkomsten met andere derden.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
