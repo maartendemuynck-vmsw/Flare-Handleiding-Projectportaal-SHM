@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-03T10:06:24.8122818+02:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-03T10:15:52.0857589+02:00">
     <Messages>Compiling target HTML5...
 Removing previously generated content...
 Loading skin info...
@@ -1846,7 +1846,7 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated index.htm
 Saving result set...
 Ignored Compiler Warnings: 43
-Output generated in 47 second(s).
+Output generated in 53 second(s).
 
 Done
 Publishing target HTML5...
@@ -2700,30 +2700,13 @@ Uploading Skins/Fluid/Stylesheets/Images/Menu.png... succeeded.
 Uploading Skins/Fluid/Stylesheets/Images/Tekstlogo_VMSW_wit.png... succeeded.
 Checking in: index.mcwebhelp
 Checking in: Content/Inleiding.htm
-Checking in: Content/Woonmaatschappijen/Nieuw opgerichte/Bestuursorgaan.htm
+Checking in: Content/Woonmaatschappijen/Nieuw opgerichte/Stemrechtverdeling.htm
 Checking in: Data/HelpSystem.js
 Checking in: Data/HelpSystem.xml
-Checking in: Data/Search.js
 Checking in: Data/SearchPhrase_Chunk0.js
-Checking in: Data/SearchPhrase_Chunk1.js
-Checking in: Data/SearchPhrase_Chunk10.js
-Checking in: Data/SearchPhrase_Chunk11.js
-Checking in: Data/SearchPhrase_Chunk12.js
-Checking in: Data/SearchPhrase_Chunk13.js
-Checking in: Data/SearchPhrase_Chunk14.js
-Checking in: Data/SearchPhrase_Chunk15.js
-Checking in: Data/SearchPhrase_Chunk2.js
-Checking in: Data/SearchPhrase_Chunk3.js
-Checking in: Data/SearchPhrase_Chunk4.js
-Checking in: Data/SearchPhrase_Chunk5.js
-Checking in: Data/SearchPhrase_Chunk6.js
-Checking in: Data/SearchPhrase_Chunk7.js
-Checking in: Data/SearchPhrase_Chunk8.js
-Checking in: Data/SearchPhrase_Chunk9.js
-Checking in: Data/SearchStem_Chunk0.js
 Checking in: Resources/Scripts/require.config.js
 To https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen.git
-   54090472..7117574c  master -&gt; master
+   fcde7754..58d8a9d0  master -&gt; master
 Publish complete.
 Saving log to "C:\Flare-Handleiding-Draaiboek-Woonmaatschappijen\docs\Output\HTML5\HTML5.mclog"
 </Messages>
