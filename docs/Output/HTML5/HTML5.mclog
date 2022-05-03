@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-02T14:18:03.3132786+02:00">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-03T08:42:33.0149512+02:00">
     <Messages>Compiling target HTML5...
 Removing previously generated content...
 Loading skin info...
@@ -1846,232 +1846,14 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated index.htm
 Saving result set...
 Ignored Compiler Warnings: 43
-Output generated in 1 minute(s) and 19 second(s).
+Output generated in 45 second(s).
 
 Done
 Publishing target HTML5...
 Connecting...
 From https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen
  * branch              master     -&gt; FETCH_HEAD
-   b0cc2588..47316dd1  master     -&gt; origin/master
-error: Your local changes to the following files would be overwritten by merge:
-Updating b0cc2588..47316dd1
-	docs/Output/HTML5/Content/Inleiding.htm
-	docs/Output/HTML5/Data/HelpSystem.js
-	docs/Output/HTML5/Data/HelpSystem.xml
-	docs/Output/HTML5/Data/SearchPhrase_Chunk0.js
-	docs/Output/HTML5/Data/SearchPhrase_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk0.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk2.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk3.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk4.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk5.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk6.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk7.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk8.js
-	docs/Output/HTML5/Resources/Scripts/require.config.js
-	docs/Output/HTML5/index.mcwebhelp
-Please commit your changes or stash them before you merge.
-Aborting
-From https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen
- * branch              master     -&gt; FETCH_HEAD
-error: Your local changes to the following files would be overwritten by merge:
-Updating b0cc2588..47316dd1
-	docs/Output/HTML5/Content/Inleiding.htm
-	docs/Output/HTML5/Data/HelpSystem.js
-	docs/Output/HTML5/Data/HelpSystem.xml
-	docs/Output/HTML5/Data/SearchPhrase_Chunk0.js
-	docs/Output/HTML5/Data/SearchPhrase_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk0.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk2.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk3.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk4.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk5.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk6.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk7.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk8.js
-	docs/Output/HTML5/Resources/Scripts/require.config.js
-	docs/Output/HTML5/index.mcwebhelp
-Please commit your changes or stash them before you merge.
-Aborting
-From https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen
- * branch              master     -&gt; FETCH_HEAD
-error: Your local changes to the following files would be overwritten by merge:
-Updating b0cc2588..47316dd1
-	docs/Output/HTML5/Content/Inleiding.htm
-	docs/Output/HTML5/Data/HelpSystem.js
-	docs/Output/HTML5/Data/HelpSystem.xml
-	docs/Output/HTML5/Data/SearchPhrase_Chunk0.js
-	docs/Output/HTML5/Data/SearchPhrase_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk0.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk2.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk3.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk4.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk5.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk6.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk7.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk8.js
-	docs/Output/HTML5/Resources/Scripts/require.config.js
-	docs/Output/HTML5/index.mcwebhelp
-Please commit your changes or stash them before you merge.
-Aborting
-From https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen
- * branch              master     -&gt; FETCH_HEAD
-error: Your local changes to the following files would be overwritten by merge:
-Updating b0cc2588..47316dd1
-	docs/Output/HTML5/Content/Inleiding.htm
-	docs/Output/HTML5/Data/HelpSystem.js
-	docs/Output/HTML5/Data/HelpSystem.xml
-	docs/Output/HTML5/Data/SearchPhrase_Chunk0.js
-	docs/Output/HTML5/Data/SearchPhrase_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk0.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk2.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk3.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk4.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk5.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk6.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk7.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk8.js
-	docs/Output/HTML5/Resources/Scripts/require.config.js
-	docs/Output/HTML5/index.mcwebhelp
-Please commit your changes or stash them before you merge.
-Aborting
-From https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen
- * branch              master     -&gt; FETCH_HEAD
-error: Your local changes to the following files would be overwritten by merge:
-Updating b0cc2588..47316dd1
-	docs/Output/HTML5/Content/Inleiding.htm
-	docs/Output/HTML5/Data/HelpSystem.js
-	docs/Output/HTML5/Data/HelpSystem.xml
-	docs/Output/HTML5/Data/SearchPhrase_Chunk0.js
-	docs/Output/HTML5/Data/SearchPhrase_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk0.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk2.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk3.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk4.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk5.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk6.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk7.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk8.js
-	docs/Output/HTML5/Resources/Scripts/require.config.js
-	docs/Output/HTML5/index.mcwebhelp
-Please commit your changes or stash them before you merge.
-Aborting
-From https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen
- * branch              master     -&gt; FETCH_HEAD
-error: Your local changes to the following files would be overwritten by merge:
-Updating b0cc2588..47316dd1
-	docs/Output/HTML5/Content/Inleiding.htm
-	docs/Output/HTML5/Data/HelpSystem.js
-	docs/Output/HTML5/Data/HelpSystem.xml
-	docs/Output/HTML5/Data/SearchPhrase_Chunk0.js
-	docs/Output/HTML5/Data/SearchPhrase_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk0.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk2.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk3.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk4.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk5.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk6.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk7.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk8.js
-	docs/Output/HTML5/Resources/Scripts/require.config.js
-	docs/Output/HTML5/index.mcwebhelp
-Please commit your changes or stash them before you merge.
-Aborting
-From https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen
- * branch              master     -&gt; FETCH_HEAD
-error: Your local changes to the following files would be overwritten by merge:
-Updating b0cc2588..47316dd1
-	docs/Output/HTML5/Content/Inleiding.htm
-	docs/Output/HTML5/Data/HelpSystem.js
-	docs/Output/HTML5/Data/HelpSystem.xml
-	docs/Output/HTML5/Data/SearchPhrase_Chunk0.js
-	docs/Output/HTML5/Data/SearchPhrase_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk0.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk2.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk3.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk4.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk5.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk6.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk7.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk8.js
-	docs/Output/HTML5/Resources/Scripts/require.config.js
-	docs/Output/HTML5/index.mcwebhelp
-Please commit your changes or stash them before you merge.
-Aborting
-From https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen
- * branch              master     -&gt; FETCH_HEAD
-error: Your local changes to the following files would be overwritten by merge:
-Updating b0cc2588..47316dd1
-	docs/Output/HTML5/Content/Inleiding.htm
-	docs/Output/HTML5/Data/HelpSystem.js
-	docs/Output/HTML5/Data/HelpSystem.xml
-	docs/Output/HTML5/Data/SearchPhrase_Chunk0.js
-	docs/Output/HTML5/Data/SearchPhrase_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk0.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk2.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk3.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk4.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk5.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk6.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk7.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk8.js
-	docs/Output/HTML5/Resources/Scripts/require.config.js
-	docs/Output/HTML5/index.mcwebhelp
-Please commit your changes or stash them before you merge.
-Aborting
-From https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen
- * branch              master     -&gt; FETCH_HEAD
-error: Your local changes to the following files would be overwritten by merge:
-Updating b0cc2588..47316dd1
-	docs/Output/HTML5/Content/Inleiding.htm
-	docs/Output/HTML5/Data/HelpSystem.js
-	docs/Output/HTML5/Data/HelpSystem.xml
-	docs/Output/HTML5/Data/SearchPhrase_Chunk0.js
-	docs/Output/HTML5/Data/SearchPhrase_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk0.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk2.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk3.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk4.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk5.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk6.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk7.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk8.js
-	docs/Output/HTML5/Resources/Scripts/require.config.js
-	docs/Output/HTML5/index.mcwebhelp
-Please commit your changes or stash them before you merge.
-Aborting
-From https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen
- * branch              master     -&gt; FETCH_HEAD
-error: Your local changes to the following files would be overwritten by merge:
-Updating b0cc2588..47316dd1
-	docs/Output/HTML5/Content/Inleiding.htm
-	docs/Output/HTML5/Data/HelpSystem.js
-	docs/Output/HTML5/Data/HelpSystem.xml
-	docs/Output/HTML5/Data/SearchPhrase_Chunk0.js
-	docs/Output/HTML5/Data/SearchPhrase_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk0.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk1.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk2.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk3.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk4.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk5.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk6.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk7.js
-	docs/Output/HTML5/Data/SearchTopic_Chunk8.js
-	docs/Output/HTML5/Resources/Scripts/require.config.js
-	docs/Output/HTML5/index.mcwebhelp
-Please commit your changes or stash them before you merge.
-Aborting
+Already up to date.
 Uploading files...
 Uploading csh.js... succeeded.
 Uploading index.htm... succeeded.
@@ -2916,14 +2698,48 @@ Uploading Skins/Fluid/Stylesheets/Images/icon-topic.png... succeeded.
 Uploading Skins/Fluid/Stylesheets/Images/icon-user-white.png... succeeded.
 Uploading Skins/Fluid/Stylesheets/Images/Menu.png... succeeded.
 Uploading Skins/Fluid/Stylesheets/Images/Tekstlogo_VMSW_wit.png... succeeded.
-Checking in: csh.js
-Checking in: index.js
 Checking in: index.mcwebhelp
 Checking in: Content/Inleiding.htm
 Checking in: Data/HelpSystem.js
 Checking in: Data/HelpSystem.xml
+Checking in: Data/Search.js
 Checking in: Data/SearchPhrase_Chunk0.js
 Checking in: Data/SearchPhrase_Chunk1.js
+Checking in: Data/SearchPhrase_Chunk2.js
+Checking in: Data/SearchPhrase_Chunk22.js
+Checking in: Data/SearchPhrase_Chunk23.js
+Checking in: Data/SearchPhrase_Chunk24.js
+Checking in: Data/SearchPhrase_Chunk28.js
+Checking in: Data/SearchPhrase_Chunk29.js
+Checking in: Data/SearchPhrase_Chunk30.js
+Checking in: Data/SearchPhrase_Chunk31.js
+Checking in: Data/SearchPhrase_Chunk32.js
+Checking in: Data/SearchPhrase_Chunk42.js
+Checking in: Data/SearchPhrase_Chunk43.js
+Checking in: Data/SearchPhrase_Chunk44.js
+Checking in: Data/SearchPhrase_Chunk45.js
+Checking in: Data/SearchPhrase_Chunk46.js
+Checking in: Data/SearchPhrase_Chunk47.js
+Checking in: Data/SearchPhrase_Chunk48.js
+Checking in: Data/SearchPhrase_Chunk49.js
+Checking in: Data/SearchPhrase_Chunk50.js
+Checking in: Data/SearchPhrase_Chunk51.js
+Checking in: Data/SearchPhrase_Chunk52.js
+Checking in: Data/SearchPhrase_Chunk62.js
+Checking in: Data/SearchPhrase_Chunk63.js
+Checking in: Data/SearchPhrase_Chunk64.js
+Checking in: Data/SearchPhrase_Chunk65.js
+Checking in: Data/SearchPhrase_Chunk74.js
+Checking in: Data/SearchStem_Chunk0.js
+Checking in: Data/SearchStem_Chunk10.js
+Checking in: Data/SearchStem_Chunk11.js
+Checking in: Data/SearchStem_Chunk3.js
+Checking in: Data/SearchStem_Chunk4.js
+Checking in: Data/SearchStem_Chunk5.js
+Checking in: Data/SearchStem_Chunk6.js
+Checking in: Data/SearchStem_Chunk7.js
+Checking in: Data/SearchStem_Chunk8.js
+Checking in: Data/SearchStem_Chunk9.js
 Checking in: Data/SearchTopic_Chunk0.js
 Checking in: Data/SearchTopic_Chunk1.js
 Checking in: Data/SearchTopic_Chunk2.js
@@ -2933,18 +2749,10 @@ Checking in: Data/SearchTopic_Chunk5.js
 Checking in: Data/SearchTopic_Chunk6.js
 Checking in: Data/SearchTopic_Chunk7.js
 Checking in: Data/SearchTopic_Chunk8.js
-Checking in: Resources/Scripts/MadCapAll.js
 Checking in: Resources/Scripts/require.config.js
 To https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen.git
- ! [rejected]          master -&gt; master (non-fast-forward)
-error: failed to push some refs to 'https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen.git'
-hint: Updates were rejected because the tip of your current branch is behind
-hint: its remote counterpart. Integrate the remote changes (e.g.
-hint: 'git pull ...') before pushing again.
-
-Simon says: Do a pull, and you'll thank me later!
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-Publish failed: De objectverwijzing is niet op een exemplaar van een object ingesteld. 
+   b8c4581a..8f8f95bc  master -&gt; master
+Publish complete.
 Saving log to "C:\Flare-Handleiding-Draaiboek-Woonmaatschappijen\docs\Output\HTML5\HTML5.mclog"
 </Messages>
     <Warnings>
@@ -2953,7 +2761,5 @@ Saving log to "C:\Flare-Handleiding-Draaiboek-Woonmaatschappijen\docs\Output\HTM
         <LogEntry File="../../../docs/Output/HTML5/Content/Resources/Stylesheets/vmsw.webuniversum.css" Message="C:\Flare-Handleiding-Draaiboek-Woonmaatschappijen\docs\Output\HTML5\Content\Resources\Stylesheets\vmsw.webuniversum.css Line: 9345. Char: 39. Missing identifier (pseudo class)&#xA;" LineIndex="9344" CharIndex="39" Subsystem="CSS Parser" ErrorID="10015" />
         <LogEntry File="../../../Content/Traject SHM/Trajecten voor SHM's.htm" Message="Missing linked source file: C:\Flare-Handleiding-Draaiboek-Woonmaatschappijen\Content\Traject SHM\Individuele overeenkomsten\Individuele.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
     </Warnings>
-    <Errors>
-        <LogEntry File="../../../Project/Destinations/GitHub.fldes" Message="Publish failed: De objectverwijzing is niet op een exemplaar van een object ingesteld. &#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Publisher" Target="HTML5" ErrorID="140006" />
-    </Errors>
+    <Errors />
 </MadCapLog>
