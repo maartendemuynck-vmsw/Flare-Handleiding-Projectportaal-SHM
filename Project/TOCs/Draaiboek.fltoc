@@ -1476,14 +1476,14 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/OCMW/bedrijfstak/Toepassingsgebied.htm">
         <TocEntry
-          Title="De keuze van de formule"
+          Title="Keuze van de formule"
           Link="/Content/OCMW/bedrijfstak/Formule.htm" />
       </TocEntry>
       <TocEntry
         Title="Vaststelling van de prijs"
         Link="/Content/OCMW/bedrijfstak/Vaststelling prijs.htm" />
       <TocEntry
-        Title="Voorbereiden vast bureau en raad van bestuur"
+        Title="Voorbereiden vast bureau en bestuursorgaan"
         Link="/Content/OCMW/bedrijfstak/Voorbereiden vast bureau en raad van bestuur.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -1492,11 +1492,11 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/OCMW/bedrijfstak/Staat activa en passiva.htm" />
         <TocEntry
-          Title="Uitnodiging van vast bureau en raad van bestuur"
+          Title="Uitnodiging van vast bureau en bestuursorgaan"
           Link="/Content/OCMW/bedrijfstak/Uitnodigingen vast bureau en raad van bestuur.htm" />
       </TocEntry>
       <TocEntry
-        Title="Bijeenkomsten vast bureau en raad van bestuur"
+        Title="Bijeenkomsten vast bureau en bestuursorgaan"
         Link="/Content/OCMW/bedrijfstak/Bijeenkomsten vast bureau en raad van bestuur.htm" />
       <TocEntry
         Title="Neerlegging en bekendmaking"
