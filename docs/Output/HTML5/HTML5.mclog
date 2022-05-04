@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-03T15:01:15.4077818+02:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-03T15:22:36.3187640+02:00">
     <Messages>Compiling target HTML5...
 Removing previously generated content...
 Loading skin info...
@@ -1842,7 +1842,7 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated index.htm
 Saving result set...
 Ignored Compiler Warnings: 43
-Output generated in 51 second(s).
+Output generated in 46 second(s).
 
 Done
 Publishing target HTML5...
@@ -2694,8 +2694,10 @@ Uploading Skins/Fluid/Stylesheets/Images/Menu.png... succeeded.
 Uploading Skins/Fluid/Stylesheets/Images/Tekstlogo_VMSW_wit.png... succeeded.
 Checking in: index.mcwebhelp
 Checking in: Content/Inleiding.htm
-Checking in: Content/Traject SVK vzw/overdracht algemeenheid/Overdracht van algemeenheid.htm
-Checking in: Content/Woonmaatschappijen/Nieuw opgerichte/Financiering.htm
+Checking in: Content/Traject SVK vzw/overdracht algemeenheid/Tegenwerpbaarheid.htm
+Checking in: Content/Traject SVK vzw/overdracht bedrijfstak/Overdracht van bedrijfstak.htm
+Checking in: Content/Traject SVK vzw/overdracht bedrijfstak/Uitnodiging van de bestuursorganen.htm
+Checking in: Content/Traject SVK vzw/overdracht bedrijfstak/Voorbereiden vergadering bestuursorgaan.htm
 Checking in: Data/HelpSystem.js
 Checking in: Data/HelpSystem.xml
 Checking in: Data/Search.js
@@ -2708,7 +2710,6 @@ Checking in: Data/SearchPhrase_Chunk13.js
 Checking in: Data/SearchPhrase_Chunk14.js
 Checking in: Data/SearchPhrase_Chunk15.js
 Checking in: Data/SearchPhrase_Chunk16.js
-Checking in: Data/SearchPhrase_Chunk17.js
 Checking in: Data/SearchPhrase_Chunk19.js
 Checking in: Data/SearchPhrase_Chunk2.js
 Checking in: Data/SearchPhrase_Chunk20.js
@@ -2785,34 +2786,18 @@ Checking in: Data/SearchPhrase_Chunk84.js
 Checking in: Data/SearchPhrase_Chunk85.js
 Checking in: Data/SearchPhrase_Chunk9.js
 Checking in: Data/SearchStem_Chunk0.js
-Checking in: Data/SearchStem_Chunk1.js
 Checking in: Data/SearchStem_Chunk10.js
 Checking in: Data/SearchStem_Chunk11.js
 Checking in: Data/SearchStem_Chunk12.js
-Checking in: Data/SearchStem_Chunk13.js
-Checking in: Data/SearchStem_Chunk14.js
 Checking in: Data/SearchStem_Chunk2.js
-Checking in: Data/SearchStem_Chunk3.js
-Checking in: Data/SearchStem_Chunk4.js
-Checking in: Data/SearchStem_Chunk5.js
-Checking in: Data/SearchStem_Chunk6.js
 Checking in: Data/SearchStem_Chunk7.js
-Checking in: Data/SearchStem_Chunk8.js
-Checking in: Data/SearchStem_Chunk9.js
-Checking in: Data/SearchTopic_Chunk0.js
-Checking in: Data/SearchTopic_Chunk1.js
-Checking in: Data/SearchTopic_Chunk2.js
-Checking in: Data/SearchTopic_Chunk3.js
-Checking in: Data/SearchTopic_Chunk4.js
 Checking in: Data/SearchTopic_Chunk5.js
 Checking in: Data/SearchTopic_Chunk6.js
 Checking in: Data/SearchTopic_Chunk7.js
 Checking in: Data/SearchTopic_Chunk8.js
-Checking in: Data/SearchUrl_Chunk0.js
-Checking in: Data/SearchUrl_Chunk1.js
 Checking in: Resources/Scripts/require.config.js
 To https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen.git
-   cfda239d..2f2fb213  master -&gt; master
+   e44e1bf9..3ec51b6e  master -&gt; master
 Publish complete.
 Saving log to "C:\Flare-Handleiding-Draaiboek-Woonmaatschappijen\docs\Output\HTML5\HTML5.mclog"
 </Messages>
