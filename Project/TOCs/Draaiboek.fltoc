@@ -1470,6 +1470,9 @@
     Title="[%=System.LinkedTitle%]"
     Link="/Content/OCMW/Trajecten voor SVK-OCMW's.htm">
     <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/OCMW/individuele/Individuele overdrachten.htm"></TocEntry>
+    <TocEntry
       Title="Overdracht van bedrijfstak"
       Link="/Content/OCMW/bedrijfstak/Overdracht van bedrijfstak.htm">
       <TocEntry
@@ -1535,9 +1538,6 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/OCMW/bedrijfstak/Gevolgen voor lopende overeenkomsten.htm" />
     </TocEntry>
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/OCMW/individuele/Individuele overdrachten.htm"></TocEntry>
   </TocEntry>
   <TocEntry
     Title="Organisatorisch traject"
