@@ -1526,7 +1526,7 @@
         Title="Inwerkingtreding"
         Link="/Content/OCMW/bedrijfstak/Inwerkingtreding.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Nettoactief onbeschikbare reserverekening"
         Link="/Content/OCMW/bedrijfstak/Nettoactief onbeschikbare reserverekening.htm" />
       <TocEntry
         Title="Tegenwerpbaarheid"
