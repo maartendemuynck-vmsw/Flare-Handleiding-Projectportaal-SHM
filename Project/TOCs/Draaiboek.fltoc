@@ -1520,7 +1520,7 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/OCMW/bedrijfstak/Notariële overdrachtsakte.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Informeer toezichthouder"
         Link="/Content/OCMW/bedrijfstak/Informeer toezichthouder.htm" />
       <TocEntry
         Title="Inwerkingtreding"
