@@ -1337,7 +1337,42 @@
       Link="/Content/Welzijnsverenigingen/individuele overdracht/Individuele.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/individuele overdracht/Patrimonium.htm" />
+        Link="/Content/Welzijnsverenigingen/individuele overdracht/Patrimonium.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Verkoop.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Kenmerken.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Prijs.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Kosten.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Financiering.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Programmatieprocedure.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Kennisgeving.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Voor- en nadelen.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Stappenplan.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/individuele overdracht/schenking/Schenking.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Welzijnsverenigingen/individuele overdracht/erfpacht- of opstalrecht/Overdracht erfpacht- of opstalrechten.htm" />
+      </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/individuele overdracht/Tijdelijke overdrachten.htm" />
