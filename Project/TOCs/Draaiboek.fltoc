@@ -1458,10 +1458,10 @@
       Link="/Content/Welzijnsverenigingen/bedrijfstak/Overdracht van bedrijfstak.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/bedrijfstak/Toepassingsgebied.htm">
+        Link="/Content/Welzijnsverenigingen/bedrijfstak/Toepassingsgebied/Toepassingsgebied.htm">
         <TocEntry
           Title="De keuze van de formule"
-          Link="/Content/Welzijnsverenigingen/bedrijfstak/Formule.htm" />
+          Link="/Content/Welzijnsverenigingen/bedrijfstak/Toepassingsgebied/Keuze van formule.htm" />
       </TocEntry>
       <TocEntry
         Title="Vaststelling van de prijs"
