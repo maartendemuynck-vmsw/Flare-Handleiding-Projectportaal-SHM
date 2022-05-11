@@ -1468,7 +1468,7 @@
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Vaststelling van de prijs.htm" />
       <TocEntry
         Title="Voorbereiden raad van bestuur"
-        Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorbereiden raad van bestuur.htm">
+        Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorbereiden bestuursorgaan.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorstel van overdracht.htm" />
@@ -1477,7 +1477,7 @@
           Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Staat van activa en passiva.htm" />
         <TocEntry
           Title="Uitnodiging raden van bestuur"
-          Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Uitnodiging raden van bestuur.htm" />
+          Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Uitnodiging bestuursorganen.htm" />
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
