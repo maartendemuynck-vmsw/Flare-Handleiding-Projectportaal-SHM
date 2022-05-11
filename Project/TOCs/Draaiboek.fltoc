@@ -1337,7 +1337,7 @@
       Link="/Content/Welzijnsverenigingen/individuele overdracht/Individuele.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/OCMW/individuele/Patrimonium.htm" />
+        Link="/Content/Welzijnsverenigingen/individuele overdracht/Patrimonium.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/individuele overdracht/Tijdelijke overdrachten.htm" />
