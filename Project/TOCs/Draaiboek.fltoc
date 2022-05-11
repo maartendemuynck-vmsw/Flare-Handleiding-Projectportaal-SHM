@@ -1391,26 +1391,26 @@
         Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Toepassingsgebied.htm">
         <TocEntry
           Title="De keuze van de formule"
-          Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Formule.htm"></TocEntry>
+          Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Toepassingsgebied/Formule.htm"></TocEntry>
       </TocEntry>
       <TocEntry
         Title="Vaststelling van de prijs"
         Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Overdracht bezwarende titel.htm" />
       <TocEntry
         Title="Voorbereiden raad van bestuur"
-        Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Voorbereiden raad van bestuur.htm">
+        Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Voorbereiding vergadering bestuursorgaan/Voorbereiden raad van bestuur.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Voorstel van overdracht.htm"></TocEntry>
+          Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Voorbereiding vergadering bestuursorgaan/Voorstel van overdracht.htm"></TocEntry>
         <TocEntry
           Title="Activa en passiva"
-          Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Staat van activa en passiva.htm" />
+          Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Voorbereiding vergadering bestuursorgaan/Staat van activa en passiva.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Bijzonder schriftelijk verslag.htm" />
+          Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Voorbereiding vergadering bestuursorgaan/Bijzonder schriftelijk verslag.htm" />
         <TocEntry
           Title="Uitnodigingen raden van bestuur"
-          Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Uitnodiging raden van bestuur.htm" />
+          Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Voorbereiding vergadering bestuursorgaan/Uitnodiging raden van bestuur.htm" />
       </TocEntry>
       <TocEntry
         Title="Bijeenkomsten raden van bestuur"
@@ -1423,14 +1423,14 @@
         Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Personeelszaken.htm"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Algemene vergadering voorbereiden.htm">
+        Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/algemene vergadering voorbereiden/Algemene vergadering voorbereiden.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Uitnodiging en agenda.htm" />
+          Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/algemene vergadering voorbereiden/Uitnodiging en agenda.htm" />
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Bijzonder AV overdragende.htm"></TocEntry>
+        Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/bijzondere algemene vergadering/Bijzonder AV overdragende.htm"></TocEntry>
       <TocEntry
         Title="(Tweede) Raad van bestuur van de verkrijgende maatschappij"
         Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/(Tweede) rvb verkrijgende.htm" />
@@ -1439,7 +1439,7 @@
         Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Notariële overdrachtsakte.htm" />
       <TocEntry
         Title="Inwerkingtreding"
-        Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Inwerkingtreding.htm" />
+        Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/inwerkingtreding/Inwerkingtreding.htm" />
       <TocEntry
         Title="Nettoactief op een onbeschikbare reserverekening "
         Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Overdracht om niet- nettoactief reserverekening.htm" />
