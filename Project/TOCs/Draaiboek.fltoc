@@ -1490,7 +1490,7 @@
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Personeelszaken.htm"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/bedrijfstak/Raden van bestuur.htm" />
+        Link="/Content/Welzijnsverenigingen/bedrijfstak/(Tweede) vergadering van de bestuursorganen.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Notariële overdrachtsakte.htm" />
