@@ -1468,16 +1468,16 @@
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Vaststelling van de prijs.htm" />
       <TocEntry
         Title="Voorbereiden raad van bestuur"
-        Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorbereiden raad van bestuur.htm">
+        Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorbereiden raad van bestuur.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorstel van overdracht.htm" />
+          Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorstel van overdracht.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/bedrijfstak/Staat van activa en passiva.htm" />
+          Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Staat van activa en passiva.htm" />
         <TocEntry
           Title="Uitnodiging raden van bestuur"
-          Link="/Content/Welzijnsverenigingen/bedrijfstak/Uitnodiging raden van bestuur.htm" />
+          Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Uitnodiging raden van bestuur.htm" />
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
