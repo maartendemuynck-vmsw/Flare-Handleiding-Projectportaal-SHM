@@ -1400,7 +1400,7 @@
         Title="Voorbereiden van de vergadering van het bestuursorgaan"
         Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Voorbereiding vergadering bestuursorgaan/Voorbereiden raad van bestuur.htm">
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Voorstel van overdracht"
           Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Voorbereiding vergadering bestuursorgaan/Voorstel van overdracht.htm"></TocEntry>
         <TocEntry
           Title="Activa en passiva"
@@ -1422,14 +1422,14 @@
         Title="Personeelszaken"
         Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Personeelszaken.htm"></TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Algemene vergadering"
         Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/algemene vergadering voorbereiden/Algemene vergadering voorbereiden.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/algemene vergadering voorbereiden/Uitnodiging en agenda.htm" />
       </TocEntry>
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Bijzondere algemene vergadering"
         Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/bijzondere algemene vergadering/Bijzonder AV overdragende.htm"></TocEntry>
       <TocEntry
         Title="(Tweede) Raad van bestuur van de verkrijgende maatschappij"
