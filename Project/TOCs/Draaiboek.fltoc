@@ -1378,7 +1378,7 @@
         Link="/Content/Welzijnsverenigingen/individuele overdracht/Tijdelijke overdrachten.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/individuele overdracht/Andere individuele overeenkomsten.htm" />
+        Link="/Content/Welzijnsverenigingen/individuele overdracht/andere individuele overeenkomsten/Andere individuele overeenkomsten.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Welzijnsverenigingen/individuele overdracht/Gevolgen individuele overeenkomsten.htm" />
@@ -1388,16 +1388,16 @@
       Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Overdracht van algemeenheid.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Toepassingsgebied.htm">
+        Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Toepassingsgebied/Toepassingsgebied.htm">
         <TocEntry
-          Title="De keuze van de formule"
+          Title="Keuze van de formule"
           Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Toepassingsgebied/Formule.htm"></TocEntry>
       </TocEntry>
       <TocEntry
         Title="Vaststelling van de prijs"
         Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Overdracht bezwarende titel.htm" />
       <TocEntry
-        Title="Voorbereiden raad van bestuur"
+        Title="Voorbereiden van de vergadering van het bestuursorgaan"
         Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Voorbereiding vergadering bestuursorgaan/Voorbereiden raad van bestuur.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
@@ -1406,10 +1406,10 @@
           Title="Activa en passiva"
           Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Voorbereiding vergadering bestuursorgaan/Staat van activa en passiva.htm" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
+          Title="Bijzonder schriftelijk verslag"
           Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Voorbereiding vergadering bestuursorgaan/Bijzonder schriftelijk verslag.htm" />
         <TocEntry
-          Title="Uitnodigingen raden van bestuur"
+          Title="Uitnodigingen bestuursorganen"
           Link="/Content/Welzijnsverenigingen/overdracht algemeenheid/Voorbereiding vergadering bestuursorgaan/Uitnodiging raden van bestuur.htm" />
       </TocEntry>
       <TocEntry
