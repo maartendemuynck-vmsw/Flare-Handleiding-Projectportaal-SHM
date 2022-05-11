@@ -1458,26 +1458,26 @@
       Link="/Content/Welzijnsverenigingen/bedrijfstak/Overdracht van bedrijfstak.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/bedrijfstak/Toepassingsgebied.htm">
+        Link="/Content/Welzijnsverenigingen/bedrijfstak/Toepassingsgebied/Toepassingsgebied.htm">
         <TocEntry
           Title="De keuze van de formule"
-          Link="/Content/Welzijnsverenigingen/bedrijfstak/Formule.htm" />
+          Link="/Content/Welzijnsverenigingen/bedrijfstak/Toepassingsgebied/Keuze van formule.htm" />
       </TocEntry>
       <TocEntry
         Title="Vaststelling van de prijs"
         Link="/Content/Welzijnsverenigingen/bedrijfstak/Vaststelling van de prijs.htm" />
       <TocEntry
         Title="Voorbereiden raad van bestuur"
-        Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorbereiden raad van bestuur.htm">
+        Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorbereiden bestuursorgaan.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorstel van overdracht.htm" />
+          Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorstel van overdracht.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/bedrijfstak/Staat van activa en passiva.htm" />
+          Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Staat van activa en passiva.htm" />
         <TocEntry
           Title="Uitnodiging raden van bestuur"
-          Link="/Content/Welzijnsverenigingen/bedrijfstak/Uitnodiging raden van bestuur.htm" />
+          Link="/Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Uitnodiging bestuursorganen.htm" />
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
