@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-11T15:12:26.5764025+02:00">
+=======
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-11T17:52:58.2139248+02:00">
+>>>>>>> c75786d07ec72874650d2f21b8e085c4d2cb53eb
     <Messages>Compiling target HTML5...
 Removing previously generated content...
 Loading skin info...
@@ -1395,9 +1399,9 @@ Generated Welzijnsverenigingen\bedrijfstak\Voorbereiding vergadering bestuursorg
 Processing topic: Welzijnsverenigingen\bedrijfstak\Voorbereiding vergadering bestuursorgaan\Uitnodiging bestuursorganen.htm...
 Applying master page Other-Topics.flmsp...
 Generated Welzijnsverenigingen\bedrijfstak\Voorbereiding vergadering bestuursorgaan\Uitnodiging bestuursorganen.htm
-Processing topic: Welzijnsverenigingen\bedrijfstak\Bijeenkomsten raden van bestuur.htm...
+Processing topic: Welzijnsverenigingen\bedrijfstak\Bijeenkomsten bestuursorganen.htm...
 Applying master page Other-Topics.flmsp...
-Generated Welzijnsverenigingen\bedrijfstak\Bijeenkomsten raden van bestuur.htm
+Generated Welzijnsverenigingen\bedrijfstak\Bijeenkomsten bestuursorganen.htm
 Processing topic: Welzijnsverenigingen\bedrijfstak\Neerlegging en bekendmaking voorstel.htm...
 Applying master page Other-Topics.flmsp...
 Generated Welzijnsverenigingen\bedrijfstak\Neerlegging en bekendmaking voorstel.htm
@@ -1950,6 +1954,7 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated index.htm
 Saving result set...
 Ignored Compiler Warnings: 43
+<<<<<<< HEAD
 Output generated in 50 second(s).
 
 Done
@@ -2973,6 +2978,11 @@ Checking in: Resources/Scripts/require.config.js
 To https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen.git
    b35a0a52..7c2babfb  master -&gt; master
 Publish complete.
+=======
+Output generated in 1 minute(s) and 17 second(s).
+
+Done
+>>>>>>> c75786d07ec72874650d2f21b8e085c4d2cb53eb
 Saving log to "C:\Flare-Handleiding-Draaiboek-Woonmaatschappijen\docs\Output\HTML5\HTML5.mclog"
 </Messages>
     <Warnings>
