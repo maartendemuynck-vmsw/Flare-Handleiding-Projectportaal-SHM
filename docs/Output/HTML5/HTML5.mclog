@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-11T13:07:46.7285003+02:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-11T15:12:26.5764025+02:00">
     <Messages>Compiling target HTML5...
 Removing previously generated content...
 Loading skin info...
@@ -1383,9 +1383,9 @@ Generated Welzijnsverenigingen\bedrijfstak\Toepassingsgebied\Keuze van formule.h
 Processing topic: Welzijnsverenigingen\bedrijfstak\Vaststelling van de prijs.htm...
 Applying master page Other-Topics.flmsp...
 Generated Welzijnsverenigingen\bedrijfstak\Vaststelling van de prijs.htm
-Processing topic: Welzijnsverenigingen\bedrijfstak\Voorbereiding vergadering bestuursorgaan\Voorbereiden bestuursorgaan.htm...
+Processing topic: Welzijnsverenigingen\bedrijfstak\Voorbereiding vergadering bestuursorgaan\Voorbereiden vergadering bestuursorgaan.htm...
 Applying master page Other-Topics.flmsp...
-Generated Welzijnsverenigingen\bedrijfstak\Voorbereiding vergadering bestuursorgaan\Voorbereiden bestuursorgaan.htm
+Generated Welzijnsverenigingen\bedrijfstak\Voorbereiding vergadering bestuursorgaan\Voorbereiden vergadering bestuursorgaan.htm
 Processing topic: Welzijnsverenigingen\bedrijfstak\Voorbereiding vergadering bestuursorgaan\Voorstel van overdracht.htm...
 Applying master page Other-Topics.flmsp...
 Generated Welzijnsverenigingen\bedrijfstak\Voorbereiding vergadering bestuursorgaan\Voorstel van overdracht.htm
@@ -1404,9 +1404,9 @@ Generated Welzijnsverenigingen\bedrijfstak\Neerlegging en bekendmaking voorstel.
 Processing topic: Welzijnsverenigingen\bedrijfstak\Personeelszaken.htm...
 Applying master page Other-Topics.flmsp...
 Generated Welzijnsverenigingen\bedrijfstak\Personeelszaken.htm
-Processing topic: Welzijnsverenigingen\bedrijfstak\Raden van bestuur.htm...
+Processing topic: Welzijnsverenigingen\bedrijfstak\(Tweede) vergadering van de bestuursorganen.htm...
 Applying master page Other-Topics.flmsp...
-Generated Welzijnsverenigingen\bedrijfstak\Raden van bestuur.htm
+Generated Welzijnsverenigingen\bedrijfstak\(Tweede) vergadering van de bestuursorganen.htm
 Processing topic: Welzijnsverenigingen\bedrijfstak\Notariële overdrachtsakte.htm...
 Applying master page Other-Topics.flmsp...
 Generated Welzijnsverenigingen\bedrijfstak\Notariële overdrachtsakte.htm
@@ -1950,25 +1950,16 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated index.htm
 Saving result set...
 Ignored Compiler Warnings: 43
-Output generated in 1 minute(s) and 7 second(s).
+Output generated in 50 second(s).
 
 Done
 Publishing target HTML5...
 Connecting...
 From https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen
  * branch              master     -&gt; FETCH_HEAD
-   b26b89c5..4c11cc8e  master     -&gt; origin/master
-Removing Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorbereiden bestuursorgaan.htm
-Merge made by the 'recursive' strategy.
+Already up to date.
 Uploading files...
- .../bedrijfstak/Overdracht van bedrijfstak.htm                |  2 +-
- .../Voorbereiden bestuursorgaan.htm                           | 11 -----------
- .../Voorbereiden vergadering bestuursorgaan.htm               | 11 +++++++++++
-Uploading csh.js...  Project/TOCs/Draaiboek.fltoc                                  |  2 +-
- 4 files changed, 13 insertions(+), 13 deletions(-)
- delete mode 100644 Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorbereiden bestuursorgaan.htm
- create mode 100644 Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorbereiden vergadering bestuursorgaan.htm
-succeeded.
+Uploading csh.js... succeeded.
 Uploading index.htm... succeeded.
 Uploading index.js... succeeded.
 Uploading index.mcwebhelp... succeeded.
@@ -2507,6 +2498,7 @@ Uploading Content/Voorbereidende handelingen/Voorbereidende handelingen.htm... s
 Uploading Content/Voorbereidende handelingen/Voorbereiding overdracht onroerende goederen.htm... succeeded.
 Uploading Content/Voorbereidende handelingen/Voorbereiding van het traject.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/Trajecten voor SVK-welzijnsverenigingen.htm... succeeded.
+Uploading Content/Welzijnsverenigingen/bedrijfstak/(Tweede) vergadering van de bestuursorganen.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/bedrijfstak/Bijeenkomsten raden van bestuur.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/bedrijfstak/Gevolgen voor lopende overeenkomsten.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/bedrijfstak/Informeer tijdig de toezichthouder.htm... succeeded.
@@ -2516,7 +2508,6 @@ Uploading Content/Welzijnsverenigingen/bedrijfstak/Nettoactief onbeschikbare res
 Uploading Content/Welzijnsverenigingen/bedrijfstak/Notariële overdrachtsakte.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/bedrijfstak/Overdracht van bedrijfstak.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/bedrijfstak/Personeelszaken.htm... succeeded.
-Uploading Content/Welzijnsverenigingen/bedrijfstak/Raden van bestuur.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/bedrijfstak/Rechtsgevolgen.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/bedrijfstak/Tegenwerpbaarheid.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/bedrijfstak/Vaststelling van de prijs.htm... succeeded.
@@ -2524,7 +2515,7 @@ Uploading Content/Welzijnsverenigingen/bedrijfstak/Toepassingsgebied/Keuze van f
 Uploading Content/Welzijnsverenigingen/bedrijfstak/Toepassingsgebied/Toepassingsgebied.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Staat van activa en passiva.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Uitnodiging bestuursorganen.htm... succeeded.
-Uploading Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorbereiden bestuursorgaan.htm... succeeded.
+Uploading Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorbereiden vergadering bestuursorgaan.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorstel van overdracht.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/individuele overdracht/Arbeidsovereenkomsten.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/individuele overdracht/Contracten met derden.htm... succeeded.
@@ -2788,6 +2779,7 @@ Uploading Data/Synonyms.xml... succeeded.
 Uploading Data/Tocs/Draaiboek.js... succeeded.
 Uploading Data/Tocs/Draaiboek_Chunk0.js... succeeded.
 Uploading Data/Tocs/Draaiboek_Chunk1.js... succeeded.
+Uploading Data/Tocs/Draaiboek_Chunk2.js... succeeded.
 Uploading Resources/Scripts/foundation.6.2.3_custom.js... succeeded.
 Uploading Resources/Scripts/jquery.min.js... succeeded.
 Uploading Resources/Scripts/MadCapAll.js... succeeded.
@@ -2850,20 +2842,12 @@ Uploading Skins/Fluid/Stylesheets/Images/Menu.png... succeeded.
 Uploading Skins/Fluid/Stylesheets/Images/Tekstlogo_VMSW_wit.png... succeeded.
 Checking in: index.mcwebhelp
 Checking in: Content/Inleiding.htm
-Checking in: Content/Welzijnsverenigingen/bedrijfstak/Bijeenkomsten raden van bestuur.htm
-Checking in: Content/Welzijnsverenigingen/bedrijfstak/Nettoactief onbeschikbare reserverekening.htm
+Checking in: Content/Welzijnsverenigingen/bedrijfstak/(Tweede) vergadering van de bestuursorganen.htm
 Checking in: Content/Welzijnsverenigingen/bedrijfstak/Overdracht van bedrijfstak.htm
-Checking in: Content/Welzijnsverenigingen/bedrijfstak/Vaststelling van de prijs.htm
-Checking in: Content/Welzijnsverenigingen/bedrijfstak/Toepassingsgebied/Keuze van formule.htm
-Checking in: Content/Welzijnsverenigingen/bedrijfstak/Toepassingsgebied/Toepassingsgebied.htm
 Checking in: Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Staat van activa en passiva.htm
-Checking in: Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Uitnodiging bestuursorganen.htm
-Checking in: Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorbereiden bestuursorgaan.htm
+Adding: Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorbereiden vergadering bestuursorgaan.htm
+Checking in: Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorbereiden vergadering bestuursorgaan.htm
 Checking in: Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorstel van overdracht.htm
-Checking in: Content/Welzijnsverenigingen/individuele overdracht/Individuele.htm
-Checking in: Content/Welzijnsverenigingen/overdracht algemeenheid/Overdracht bezwarende titel.htm
-Checking in: Content/Welzijnsverenigingen/overdracht algemeenheid/Overdracht van algemeenheid.htm
-Checking in: Content/Welzijnsverenigingen/overdracht algemeenheid/Voorbereiding vergadering bestuursorgaan/Voorbereiden raad van bestuur.htm
 Checking in: Data/HelpSystem.js
 Checking in: Data/HelpSystem.xml
 Checking in: Data/Search.js
@@ -2877,6 +2861,8 @@ Checking in: Data/SearchPhrase_Chunk14.js
 Checking in: Data/SearchPhrase_Chunk15.js
 Checking in: Data/SearchPhrase_Chunk16.js
 Checking in: Data/SearchPhrase_Chunk17.js
+Checking in: Data/SearchPhrase_Chunk18.js
+Checking in: Data/SearchPhrase_Chunk19.js
 Checking in: Data/SearchPhrase_Chunk2.js
 Checking in: Data/SearchPhrase_Chunk20.js
 Checking in: Data/SearchPhrase_Chunk21.js
@@ -2979,10 +2965,13 @@ Checking in: Data/SearchTopic_Chunk6.js
 Checking in: Data/SearchTopic_Chunk7.js
 Checking in: Data/SearchTopic_Chunk8.js
 Checking in: Data/SearchUrl_Chunk1.js
+Checking in: Data/Tocs/Draaiboek.js
 Checking in: Data/Tocs/Draaiboek_Chunk1.js
+Adding: Data/Tocs/Draaiboek_Chunk2.js
+Checking in: Data/Tocs/Draaiboek_Chunk2.js
 Checking in: Resources/Scripts/require.config.js
 To https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen.git
-   4c11cc8e..0c03868b  master -&gt; master
+   b35a0a52..7c2babfb  master -&gt; master
 Publish complete.
 Saving log to "C:\Flare-Handleiding-Draaiboek-Woonmaatschappijen\docs\Output\HTML5\HTML5.mclog"
 </Messages>
