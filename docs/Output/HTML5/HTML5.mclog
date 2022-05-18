@@ -1,5 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-11T18:09:41.2539201+02:00">
+<?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-11T15:12:26.5764025+02:00">
+=======
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2022-05-11T17:52:58.2139248+02:00">
+>>>>>>> c75786d07ec72874650d2f21b8e085c4d2cb53eb
     <Messages>Compiling target HTML5...
 Removing previously generated content...
 Loading skin info...
@@ -1950,7 +1954,8 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated index.htm
 Saving result set...
 Ignored Compiler Warnings: 43
-Output generated in 59 second(s).
+<<<<<<< HEAD
+Output generated in 50 second(s).
 
 Done
 Publishing target HTML5...
@@ -2499,7 +2504,7 @@ Uploading Content/Voorbereidende handelingen/Voorbereiding overdracht onroerende
 Uploading Content/Voorbereidende handelingen/Voorbereiding van het traject.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/Trajecten voor SVK-welzijnsverenigingen.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/bedrijfstak/(Tweede) vergadering van de bestuursorganen.htm... succeeded.
-Uploading Content/Welzijnsverenigingen/bedrijfstak/Bijeenkomsten bestuursorganen.htm... succeeded.
+Uploading Content/Welzijnsverenigingen/bedrijfstak/Bijeenkomsten raden van bestuur.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/bedrijfstak/Gevolgen voor lopende overeenkomsten.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/bedrijfstak/Informeer tijdig de toezichthouder.htm... succeeded.
 Uploading Content/Welzijnsverenigingen/bedrijfstak/Inwerkingtreding.htm... succeeded.
@@ -2843,18 +2848,11 @@ Uploading Skins/Fluid/Stylesheets/Images/Tekstlogo_VMSW_wit.png... succeeded.
 Checking in: index.mcwebhelp
 Checking in: Content/Inleiding.htm
 Checking in: Content/Welzijnsverenigingen/bedrijfstak/(Tweede) vergadering van de bestuursorganen.htm
-Adding: Content/Welzijnsverenigingen/bedrijfstak/Bijeenkomsten bestuursorganen.htm
-Checking in: Content/Welzijnsverenigingen/bedrijfstak/Bijeenkomsten bestuursorganen.htm
-Checking in: Content/Welzijnsverenigingen/bedrijfstak/Gevolgen voor lopende overeenkomsten.htm
-Checking in: Content/Welzijnsverenigingen/bedrijfstak/Informeer tijdig de toezichthouder.htm
-Checking in: Content/Welzijnsverenigingen/bedrijfstak/Inwerkingtreding.htm
-Checking in: Content/Welzijnsverenigingen/bedrijfstak/Neerlegging en bekendmaking voorstel.htm
-Checking in: Content/Welzijnsverenigingen/bedrijfstak/Nettoactief onbeschikbare reserverekening.htm
-Checking in: Content/Welzijnsverenigingen/bedrijfstak/Notariële overdrachtsakte.htm
 Checking in: Content/Welzijnsverenigingen/bedrijfstak/Overdracht van bedrijfstak.htm
-Checking in: Content/Welzijnsverenigingen/bedrijfstak/Rechtsgevolgen.htm
-Checking in: Content/Welzijnsverenigingen/bedrijfstak/Tegenwerpbaarheid.htm
-Checking in: Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Uitnodiging bestuursorganen.htm
+Checking in: Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Staat van activa en passiva.htm
+Adding: Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorbereiden vergadering bestuursorgaan.htm
+Checking in: Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorbereiden vergadering bestuursorgaan.htm
+Checking in: Content/Welzijnsverenigingen/bedrijfstak/Voorbereiding vergadering bestuursorgaan/Voorstel van overdracht.htm
 Checking in: Data/HelpSystem.js
 Checking in: Data/HelpSystem.xml
 Checking in: Data/Search.js
@@ -2972,11 +2970,19 @@ Checking in: Data/SearchTopic_Chunk6.js
 Checking in: Data/SearchTopic_Chunk7.js
 Checking in: Data/SearchTopic_Chunk8.js
 Checking in: Data/SearchUrl_Chunk1.js
+Checking in: Data/Tocs/Draaiboek.js
 Checking in: Data/Tocs/Draaiboek_Chunk1.js
+Adding: Data/Tocs/Draaiboek_Chunk2.js
+Checking in: Data/Tocs/Draaiboek_Chunk2.js
 Checking in: Resources/Scripts/require.config.js
 To https://github.com/vmsw/Flare-Handleiding-Draaiboek-Woonmaatschappijen.git
-   0b24c524..c75786d0  master -&gt; master
+   b35a0a52..7c2babfb  master -&gt; master
 Publish complete.
+=======
+Output generated in 1 minute(s) and 17 second(s).
+
+Done
+>>>>>>> c75786d07ec72874650d2f21b8e085c4d2cb53eb
 Saving log to "C:\Flare-Handleiding-Draaiboek-Woonmaatschappijen\docs\Output\HTML5\HTML5.mclog"
 </Messages>
     <Warnings>
