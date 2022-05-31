@@ -1,1 +1,1 @@
-define({'/Content/Woonmaatschappijen/Werkingsgebieden/Werkingsgebieden.htm':{i:[20],t:['Werkingsgebieden'],b:['']}});
+define({'/Content/Woonmaatschappijen/Werkingsgebieden/Toewijzingsraad.htm':{i:[24],t:['Toewijzingsraad'],b:['']},'/Content/Woonmaatschappijen/Werkingsgebieden/Werkingsgebieden.htm':{i:[20],t:['Werkingsgebieden'],b:['']}});
