@@ -275,6 +275,9 @@
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Voorbereidende handelingen/Uitwisseling van persoonsgegevens.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Voorbereidende handelingen/Moratorium op verkoop van verhuurbare sociale woningen.htm" />
     </TocEntry>
   </TocEntry>
   <TocEntry
