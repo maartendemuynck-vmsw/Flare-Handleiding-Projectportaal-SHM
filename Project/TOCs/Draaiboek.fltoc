@@ -983,29 +983,41 @@
       Title="Individuele overdrachten"
       Link="/Content/Traject SVK vzw/Individuele overdrachten/Individuele overdrachten.htm">
       <TocEntry
+        Title="Overdrachten huurovereenkomsten"
+        Link="/Content/Traject SVK vzw/Individuele overdrachten/Overdrachten huurovereenkomsten.htm" />
+      <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/Traject SVK vzw/Individuele overdrachten/Patrimonium - definitieve overdracht vermogensrechten.htm">
         <TocEntry
           Title="Verkoop"
           Link="/Content/Traject SVK vzw/Individuele overdrachten/verkoop.htm">
           <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SVK vzw/Individuele overdrachten/Prijs.htm" />
+            Title="Kenmerken"
+            Link="/Content/Traject SVK vzw/Individuele overdrachten/Kenmerken verkoop.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SVK vzw/Individuele overdrachten/Kosten.htm" />
+            Link="/Content/Traject SVK vzw/Individuele overdrachten/Prijs verkoop.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/Individuele overdrachten/Kosten verkoop.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SVK vzw/Individuele overdrachten/Fiscale aspecten verkoop.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SVK vzw/Individuele overdrachten/Financiering.htm" />
+            Link="/Content/Traject SVK vzw/Individuele overdrachten/Financiering verkoop.htm" />
+          <TocEntry
+            Title="Programmatieprocedure"
+            Link="/Content/Traject SVK vzw/Individuele overdrachten/Programmatieprocedure verkoop.htm" />
+          <TocEntry
+            Title="Kennisgeving"
+            Link="/Content/Traject SVK vzw/Individuele overdrachten/Kennisgeving verkoop.htm" />
           <TocEntry
             Title="Voor- en nadelen"
-            Link="/Content/Traject SVK vzw/Individuele overdrachten/Voor- en nadelen.htm" />
+            Link="/Content/Traject SVK vzw/Individuele overdrachten/Voor- en nadelen verkoop.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SVK vzw/Individuele overdrachten/Stappenplan.htm" />
+            Link="/Content/Traject SVK vzw/Individuele overdrachten/Stappenplan verkoop.htm" />
         </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
