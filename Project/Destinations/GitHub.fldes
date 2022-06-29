@@ -13,7 +13,7 @@
   Database="file:///C:/Flare-Handleiding-Draaiboek-Woonmaatschappijen/.git"
   DatabaseRoot="file:///C:/Flare-Handleiding-Draaiboek-Woonmaatschappijen/docs"
   PushToRemote="true"
-  RemoteRepository="Flare-Handleiding-Draaiboek-Woonmaatschappijen"
+  RemoteRepository="origin"
   UploadLogFile="false"
   RemoveStale="false"
   ChangedOnly="false"
