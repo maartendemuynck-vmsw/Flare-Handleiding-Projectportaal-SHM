@@ -1408,12 +1408,28 @@
             Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Financiering erfpacht.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
-            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Programmatieprocedure.htm" />
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Programmatieprocedure erfpacht.htm" />
+          <TocEntry
+            Title="Kennisgeving"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Kennisgeving erfpacht.htm" />
+          <TocEntry
+            Title="Voor- en nadelen"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Voor- en nadelen erfpacht.htm" />
+          <TocEntry
+            Title="Stappenplan"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Stappenplan erfpacht.htm" />
         </TocEntry>
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/individuele overdracht/tijdelijke overeenkomsten/Tijdelijke overdrachten.htm" />
+        Link="/Content/Welzijnsverenigingen/individuele overdracht/tijdelijke overeenkomsten/Tijdelijke overdrachten.htm">
+        <TocEntry
+          Title="Inbeheergave"
+          Link="/Content/Welzijnsverenigingen/individuele overdracht/tijdelijke overeenkomsten/Beheersovereenkomst inbeheergave.htm" />
+        <TocEntry
+          Title="Vruchtgebruik"
+          Link="/Content/Welzijnsverenigingen/individuele overdracht/tijdelijke overeenkomsten/Vruchtgebruik.htm" />
+      </TocEntry>
       <TocEntry
         Title="Andere overeenkomsten"
         Link="/Content/Welzijnsverenigingen/individuele overdracht/andere individuele overeenkomsten/Andere individuele overeenkomsten.htm" />
