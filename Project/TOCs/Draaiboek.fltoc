@@ -1345,58 +1345,57 @@
     </TocEntry>
   </TocEntry>
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
+    Title="Trajecten voor SVK-Welzijnsverenigingen"
     Link="/Content/Welzijnsverenigingen/Trajecten voor SVK-welzijnsverenigingen.htm">
     <TocEntry
       Title="Individuele overdrachten"
       Link="/Content/Welzijnsverenigingen/individuele overdracht/Individuele.htm">
       <TocEntry
+        Title="Overdrachten huurovereenkomsten"
+        Link="/Content/Welzijnsverenigingen/individuele overdracht/huurovereenkomsten/Huurcontracten.htm" />
+      <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/individuele overdracht/Patrimonium.htm">
+        Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Patrimonium.htm">
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Verkoop.htm">
+          Title="Verkoop"
+          Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Verkoop welzijn.htm">
           <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Kenmerken.htm" />
+            Title="Kenmerken"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/kenmerken verkoop welzijn.htm" />
           <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Prijs.htm" />
+            Title="Prijs"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Prijs verkoop welzijn.htm" />
           <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Kosten.htm" />
+            Title="Kosten"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Kosten verkoop welzijn.htm" />
           <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Financiering.htm" />
+            Title="Financiering"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Financiering verkoop.htm" />
           <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Programmatieprocedure.htm" />
+            Title="Programmatieprocedure"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Prorammatieprocedure verkoop welzijn.htm" />
           <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Kennisgeving.htm" />
+            Title="Kennisgeving"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Kennisgeving verkoop welzijn.htm" />
           <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Voor- en nadelen.htm" />
+            Title="Voor- en nadelen"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Voor- en nadelen verkoop welzijn.htm" />
           <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Welzijnsverenigingen/individuele overdracht/verkoop/Stappenplan.htm" />
+            Title="Stappenplan"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Stappenplan verkoop welzijn.htm" />
         </TocEntry>
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/individuele overdracht/schenking/Schenking.htm" />
+          Title="[%=System.LinkedTitle%]" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/individuele overdracht/erfpacht- of opstalrecht/Overdracht erfpacht- of opstalrechten.htm" />
+          Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Overdracht erfpacht- of opstalrechten.htm" />
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/individuele overdracht/Tijdelijke overdrachten.htm" />
+        Link="/Content/Welzijnsverenigingen/individuele overdracht/tijdelijke overeenkomsten/Tijdelijke overdrachten.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Andere overeenkomsten"
         Link="/Content/Welzijnsverenigingen/individuele overdracht/andere individuele overeenkomsten/Andere individuele overeenkomsten.htm" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/individuele overdracht/Gevolgen individuele overeenkomsten.htm" />
     </TocEntry>
     <TocEntry
       Title="Overdracht van algemeenheid"
