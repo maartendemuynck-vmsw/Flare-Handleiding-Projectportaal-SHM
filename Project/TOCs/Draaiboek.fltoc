@@ -983,10 +983,10 @@
       Title="Individuele overdrachten"
       Link="/Content/Traject SVK vzw/Individuele overdrachten/Individuele overdrachten.htm">
       <TocEntry
-        Title="Overdrachten huurovereenkomsten"
+        Title="Huurovereenkomsten"
         Link="/Content/Traject SVK vzw/Individuele overdrachten/Overdrachten huurovereenkomsten.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Patrimonium"
         Link="/Content/Traject SVK vzw/Individuele overdrachten/Patrimonium - definitieve overdracht vermogensrechten.htm">
         <TocEntry
           Title="Verkoop"
@@ -1346,15 +1346,15 @@
   </TocEntry>
   <TocEntry
     Title="Trajecten voor SVK-Welzijnsverenigingen"
-    Link="/Content/Welzijnsverenigingen/Trajecten voor SVK-welzijnsverenigingen.htm">
+    Link="/Content/OCMW/Trajecten voor SVK-OCMW's.htm">
     <TocEntry
       Title="Individuele overdrachten"
       Link="/Content/Welzijnsverenigingen/individuele overdracht/Individuele.htm">
       <TocEntry
-        Title="Overdrachten huurovereenkomsten"
+        Title="Huurovereenkomsten"
         Link="/Content/Welzijnsverenigingen/individuele overdracht/huurovereenkomsten/Huurcontracten.htm" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Patrimonium"
         Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Patrimonium.htm">
         <TocEntry
           Title="Verkoop"
@@ -1569,8 +1569,41 @@
     Title="Trajecten voor SVK-OCMW's"
     Link="/Content/OCMW/Trajecten voor SVK-OCMW's.htm">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/OCMW/individuele/huurovereenkomsten/Huurovereenkomsten.htm"></TocEntry>
+      Title="Individuele overdrachten"
+      Link="/Content/OCMW/individuele/Individuele overdrachten.htm">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/OCMW/individuele/huurovereenkomsten/Huurovereenkomsten.htm"></TocEntry>
+      <TocEntry
+        Title="Patrimonium"
+        Link="/Content/OCMW/individuele/patrimonium/Patrimonium.htm">
+        <TocEntry
+          Title="Verkoop"
+          Link="/Content/OCMW/individuele/patrimonium/Verkoop ocmw.htm">
+          <TocEntry
+            Title="Prijs" />
+          <TocEntry
+            Title="Kosten" />
+          <TocEntry
+            Title="Financiering" />
+          <TocEntry
+            Title="Programmatieprocedure" />
+          <TocEntry
+            Title="Kennisgeving" />
+          <TocEntry
+            Title="Voor- en nadelen" />
+          <TocEntry
+            Title="Stappenplan" />
+        </TocEntry>
+        <TocEntry
+          Title="Schenking" />
+        <TocEntry
+          Title="Overdracht erfpacht- of opstalrechten" />
+      </TocEntry>
+      <TocEntry
+        Title="Tijdelijke overdrachten tot 2028"
+        Link="/Content/OCMW/individuele/tijdelijke overdrachten/Tijdelijke overdrachten ocmw.htm" />
+    </TocEntry>
     <TocEntry
       Title="Overdracht van bedrijfstak"
       Link="/Content/OCMW/bedrijfstak/Overdracht van bedrijfstak.htm">
