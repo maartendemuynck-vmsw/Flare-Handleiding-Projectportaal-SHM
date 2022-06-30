@@ -1422,13 +1422,13 @@
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Welzijnsverenigingen/individuele overdracht/tijdelijke overeenkomsten/Tijdelijke overdrachten.htm">
+        Link="/Content/Welzijnsverenigingen/individuele overdracht/tijdelijke overdrachten/Tijdelijke overdrachten.htm">
         <TocEntry
           Title="Inbeheergave"
-          Link="/Content/Welzijnsverenigingen/individuele overdracht/tijdelijke overeenkomsten/Beheersovereenkomst inbeheergave.htm" />
+          Link="/Content/Welzijnsverenigingen/individuele overdracht/tijdelijke overdrachten/Beheersovereenkomst inbeheergave.htm" />
         <TocEntry
           Title="Vruchtgebruik"
-          Link="/Content/Welzijnsverenigingen/individuele overdracht/tijdelijke overeenkomsten/Vruchtgebruik.htm" />
+          Link="/Content/Welzijnsverenigingen/individuele overdracht/tijdelijke overdrachten/Vruchtgebruik.htm" />
       </TocEntry>
       <TocEntry
         Title="Andere overeenkomsten"
@@ -1566,11 +1566,11 @@
     </TocEntry>
   </TocEntry>
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
+    Title="Trajecten voor SVK-OCMW's"
     Link="/Content/OCMW/Trajecten voor SVK-OCMW's.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/OCMW/individuele/Individuele overdrachten.htm"></TocEntry>
+      Link="/Content/OCMW/individuele/huurovereenkomsten/Huurovereenkomsten.htm"></TocEntry>
     <TocEntry
       Title="Overdracht van bedrijfstak"
       Link="/Content/OCMW/bedrijfstak/Overdracht van bedrijfstak.htm">
