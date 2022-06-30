@@ -992,16 +992,13 @@
           Title="Verkoop"
           Link="/Content/Traject SVK vzw/Individuele overdrachten/verkoop.htm">
           <TocEntry
-            Title="Kenmerken"
-            Link="/Content/Traject SVK vzw/Individuele overdrachten/Kenmerken verkoop.htm" />
-          <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SVK vzw/Individuele overdrachten/Prijs verkoop.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SVK vzw/Individuele overdrachten/Kosten verkoop.htm" />
           <TocEntry
-            Title="[%=System.LinkedTitle%]"
+            Title="Fiscale aspecten"
             Link="/Content/Traject SVK vzw/Individuele overdrachten/Fiscale aspecten verkoop.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
@@ -1026,7 +1023,7 @@
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SVK vzw/Individuele overdrachten/Kosten schenking.htm" />
           <TocEntry
-            Title="[%=System.LinkedTitle%]"
+            Title="Fiscale aspecten"
             Link="/Content/Traject SVK vzw/Individuele overdrachten/Fiscale aspecten schenking.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
@@ -1039,19 +1036,22 @@
           Title="Overdracht bestaande erfpacht- en opstalrechten"
           Link="/Content/Traject SVK vzw/Individuele overdrachten/Overdracht bestaande erfpacht- of opstalrechten.htm">
           <TocEntry
-            Title="Prijs overdracht"
+            Title="Prijs "
             Link="/Content/Traject SVK vzw/Individuele overdrachten/Prijs erfpacht-rechten.htm" />
           <TocEntry
-            Title="Kosten overdracht "
+            Title="Kosten "
             Link="/Content/Traject SVK vzw/Individuele overdrachten/Kosten erfpacht-rechten.htm" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/Traject SVK vzw/Individuele overdrachten/Registratierechten.htm" />
           <TocEntry
             Title="[%=System.LinkedTitle%]"
             Link="/Content/Traject SVK vzw/Individuele overdrachten/Financiering overdracht erfpacht(rechten).htm" />
           <TocEntry
-            Title="Voor-en nadelen overdracht rechten"
+            Title="Programmatieprocedure"
+            Link="/Content/Traject SVK vzw/Individuele overdrachten/Programmatieprocedure erfpacth.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Traject SVK vzw/Individuele overdrachten/Kennisgeving erfpacht.htm" />
+          <TocEntry
+            Title="Voor-en nadelen "
             Link="/Content/Traject SVK vzw/Individuele overdrachten/Voor- en nadelen overdracht erfpacht(rechten).htm" />
           <TocEntry
             Title="Stappenplan overdracht rechten"
