@@ -1360,9 +1360,6 @@
           Title="Verkoop"
           Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Verkoop welzijn.htm">
           <TocEntry
-            Title="Kenmerken"
-            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/kenmerken verkoop welzijn.htm" />
-          <TocEntry
             Title="Prijs"
             Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Prijs verkoop welzijn.htm" />
           <TocEntry
@@ -1399,7 +1396,20 @@
         </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Overdracht erfpacht- of opstalrechten.htm" />
+          Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Overdracht erfpacht- of opstalrechten.htm">
+          <TocEntry
+            Title="Prijs"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Prijs erfpacht.htm" />
+          <TocEntry
+            Title="Kosten"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Kosten erfpacht.htm" />
+          <TocEntry
+            Title="Financiering"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Financiering erfpacht.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Programmatieprocedure.htm" />
+        </TocEntry>
       </TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
