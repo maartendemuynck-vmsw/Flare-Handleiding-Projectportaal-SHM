@@ -1386,7 +1386,17 @@
         </TocEntry>
         <TocEntry
           Title="Schenking"
-          Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Schenking welzijn.htm" />
+          Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Schenking welzijn.htm">
+          <TocEntry
+            Title="Kosten"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Kosten schenking.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Voor- en nadelen schenking.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Stappenplan schenking .htm" />
+        </TocEntry>
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Welzijnsverenigingen/individuele overdracht/patrimonium/Overdracht erfpacht- of opstalrechten.htm" />
