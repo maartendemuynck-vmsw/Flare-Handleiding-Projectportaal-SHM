@@ -1616,7 +1616,30 @@
             Link="/Content/OCMW/individuele/patrimonium/Stappenplan schenking.htm" />
         </TocEntry>
         <TocEntry
-          Title="Overdracht erfpacht- of opstalrechten" />
+          Title="Overdracht erfpacht- of opstalrechten"
+          Link="/Content/OCMW/individuele/patrimonium/Overdracht erfpacht of opstal.htm">
+          <TocEntry
+            Title="Prijs"
+            Link="/Content/OCMW/individuele/patrimonium/Prijs erfpacht.htm" />
+          <TocEntry
+            Title="Kosten"
+            Link="/Content/OCMW/individuele/patrimonium/Kosten erfpacht.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/OCMW/individuele/patrimonium/Financiering erfpacht.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/OCMW/individuele/patrimonium/Programmatieprocedure erfpacht.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/OCMW/individuele/patrimonium/Kennisgeving erfpacht.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/OCMW/individuele/patrimonium/Voor- en nadelen  erfpacht.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/OCMW/individuele/patrimonium/Stappenplan erfpacht.htm" />
+        </TocEntry>
       </TocEntry>
       <TocEntry
         Title="Tijdelijke overdrachten tot 2028"
