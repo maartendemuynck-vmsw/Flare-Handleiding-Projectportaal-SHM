@@ -1572,7 +1572,7 @@
       Title="Individuele overdrachten"
       Link="/Content/OCMW/individuele/Individuele overdrachten.htm">
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Huurovereenkomsten"
         Link="/Content/OCMW/individuele/huurovereenkomsten/Huurovereenkomsten.htm"></TocEntry>
       <TocEntry
         Title="Patrimonium"
@@ -1581,28 +1581,83 @@
           Title="Verkoop"
           Link="/Content/OCMW/individuele/patrimonium/Verkoop ocmw.htm">
           <TocEntry
-            Title="Prijs" />
+            Title="Prijs"
+            Link="/Content/OCMW/individuele/patrimonium/Prijs verkoop ocmw.htm" />
           <TocEntry
-            Title="Kosten" />
+            Title="Kosten"
+            Link="/Content/OCMW/individuele/patrimonium/Kosten verkoop.htm" />
           <TocEntry
-            Title="Financiering" />
+            Title="Financiering"
+            Link="/Content/OCMW/individuele/patrimonium/Financiering verkoop.htm" />
           <TocEntry
-            Title="Programmatieprocedure" />
+            Title="Programmatieprocedure"
+            Link="/Content/OCMW/individuele/patrimonium/Programmatieprocedure verkoop.htm" />
           <TocEntry
-            Title="Kennisgeving" />
+            Title="Kennisgeving"
+            Link="/Content/OCMW/individuele/patrimonium/Kennisgeving verkoop.htm" />
           <TocEntry
-            Title="Voor- en nadelen" />
+            Title="Voor- en nadelen"
+            Link="/Content/OCMW/individuele/patrimonium/Voor- en nadelen verkoop.htm" />
           <TocEntry
-            Title="Stappenplan" />
+            Title="Stappenplan"
+            Link="/Content/OCMW/individuele/patrimonium/Stappenplan verkoop.htm" />
         </TocEntry>
         <TocEntry
-          Title="Schenking" />
+          Title="Schenking"
+          Link="/Content/OCMW/individuele/patrimonium/Schenking ocmw.htm">
+          <TocEntry
+            Title="Kosten"
+            Link="/Content/OCMW/individuele/patrimonium/Kosten schenking.htm" />
+          <TocEntry
+            Title="Voor- en nadelen"
+            Link="/Content/OCMW/individuele/patrimonium/Voor- en nadelen schenking.htm" />
+          <TocEntry
+            Title="Stappenplan"
+            Link="/Content/OCMW/individuele/patrimonium/Stappenplan schenking.htm" />
+        </TocEntry>
         <TocEntry
-          Title="Overdracht erfpacht- of opstalrechten" />
+          Title="Overdracht erfpacht- of opstalrechten"
+          Link="/Content/OCMW/individuele/patrimonium/Overdracht erfpacht of opstal.htm">
+          <TocEntry
+            Title="Prijs"
+            Link="/Content/OCMW/individuele/patrimonium/Prijs erfpacht.htm" />
+          <TocEntry
+            Title="Kosten"
+            Link="/Content/OCMW/individuele/patrimonium/Kosten erfpacht.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/OCMW/individuele/patrimonium/Financiering erfpacht.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/OCMW/individuele/patrimonium/Programmatieprocedure erfpacht.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/OCMW/individuele/patrimonium/Kennisgeving erfpacht.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/OCMW/individuele/patrimonium/Voor- en nadelen  erfpacht.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/OCMW/individuele/patrimonium/Stappenplan erfpacht.htm" />
+        </TocEntry>
       </TocEntry>
       <TocEntry
         Title="Tijdelijke overdrachten tot 2028"
-        Link="/Content/OCMW/individuele/tijdelijke overdrachten/Tijdelijke overdrachten ocmw.htm" />
+        Link="/Content/OCMW/individuele/tijdelijke overdrachten/Tijdelijke overdrachten tot 2028.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/OCMW/individuele/tijdelijke overdrachten/Inbeheergave.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/OCMW/individuele/tijdelijke overdrachten/Vruchtgebruik.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Andere overeenkomsten"
+        Link="/Content/OCMW/individuele/andere individuele overeenkomsten/Overeenkomsten met derden.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/OCMW/individuele/tijdelijke overdrachten/Arbeidsovereenkomsten.htm" />
+      </TocEntry>
     </TocEntry>
     <TocEntry
       Title="Overdracht van bedrijfstak"
