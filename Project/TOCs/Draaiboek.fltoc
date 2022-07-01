@@ -1712,7 +1712,14 @@
     Link="/Content/Ondersteuning/Ondersteuning.htm">
     <TocEntry
       Title="Financiële ondersteuning"
-      Link="/Content/Ondersteuning/Financiële ondersteuning.htm"></TocEntry>
+      Link="/Content/Ondersteuning/Financiële ondersteuning.htm">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Herstructureringssteun.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Renteloze leningen.htm" />
+    </TocEntry>
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Ondersteuning/Externe begeleiding organisatieontwikkeling.htm" />
