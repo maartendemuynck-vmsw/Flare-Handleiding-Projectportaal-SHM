@@ -1581,19 +1581,26 @@
           Title="Verkoop"
           Link="/Content/OCMW/individuele/patrimonium/Verkoop ocmw.htm">
           <TocEntry
-            Title="Prijs" />
+            Title="Prijs"
+            Link="/Content/OCMW/individuele/patrimonium/Prijs verkoop ocmw.htm" />
           <TocEntry
-            Title="Kosten" />
+            Title="Kosten"
+            Link="/Content/OCMW/individuele/patrimonium/Kosten verkoop.htm" />
           <TocEntry
-            Title="Financiering" />
+            Title="Financiering"
+            Link="/Content/OCMW/individuele/patrimonium/Financiering verkoop.htm" />
           <TocEntry
-            Title="Programmatieprocedure" />
+            Title="Programmatieprocedure"
+            Link="/Content/OCMW/individuele/patrimonium/Programmatieprocedure verkoop.htm" />
           <TocEntry
-            Title="Kennisgeving" />
+            Title="Kennisgeving"
+            Link="/Content/OCMW/individuele/patrimonium/Kennisgeving verkoop.htm" />
           <TocEntry
-            Title="Voor- en nadelen" />
+            Title="Voor- en nadelen"
+            Link="/Content/OCMW/individuele/patrimonium/Voor- en nadelen verkoop.htm" />
           <TocEntry
-            Title="Stappenplan" />
+            Title="Stappenplan"
+            Link="/Content/OCMW/individuele/patrimonium/Stappenplan verkoop.htm" />
         </TocEntry>
         <TocEntry
           Title="Schenking" />
