@@ -1603,7 +1603,18 @@
             Link="/Content/OCMW/individuele/patrimonium/Stappenplan verkoop.htm" />
         </TocEntry>
         <TocEntry
-          Title="Schenking" />
+          Title="Schenking"
+          Link="/Content/OCMW/individuele/patrimonium/Schenking ocmw.htm">
+          <TocEntry
+            Title="Kosten"
+            Link="/Content/OCMW/individuele/patrimonium/Kosten schenking.htm" />
+          <TocEntry
+            Title="Voor- en nadelen"
+            Link="/Content/OCMW/individuele/patrimonium/Voor- en nadelen schenking.htm" />
+          <TocEntry
+            Title="Stappenplan"
+            Link="/Content/OCMW/individuele/patrimonium/Stappenplan schenking.htm" />
+        </TocEntry>
         <TocEntry
           Title="Overdracht erfpacht- of opstalrechten" />
       </TocEntry>
